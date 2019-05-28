@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: trevorchan\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2008-02-14 04:34+0000\n"
+"Last-Translator: Emanuele Gentili <emgent@emanuele-gentili.com>\n"
+"Language-Team: Italian <it@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "A board with that name already exists."
+msgstr "Esiste già una board con questo nome."
+
+msgid "A board with that name does not exist."
+msgstr "Non esiste una board con questo nome"
+
+msgid "Add"
+msgstr "Aggiungere"
+
+msgid "Add board"
+msgstr "Aggiungi board"
+
+msgid "Add news"
+msgstr "Aggiungi notizie"
+
+msgid "Add staff member"
+msgstr "Aggiungi un membro dello staff"
+
+msgid "Add word"
+msgstr "Aggiungi parola"
+
+msgid "Added on"
+msgstr "Aggiunto"
+
+msgid "Added staff member"
+msgstr "Membro dello staff aggiunto"
+
+msgid "Administration"
+msgstr "Amministrazione"
+
+msgid "Administrator"
+msgstr "Amministratore"
+
+msgid "Administrators"
+msgstr "Amministratori"
+
+msgid "All Threads"
+msgstr "Tutti i thread"
+
+msgid "An image, or message, is required for a reply."
+msgstr "Per una risposta è richiesta un immagine, o un messaggio."
+
+msgid "Banned"
+msgstr "Bannato"
+
+msgid "Board"
+msgstr "Board"
+
+msgid "Board successfully added."
+msgstr "Board aggiunta con successo."
+
+msgid "Board successfully deleted."
+msgstr "Board cancellata con successo"
+
+msgid "Board type:"
+msgstr "Tipo di board:"
+
+msgid "Can be left blank."
+msgstr "Può essere lasciato in bianco."
+
+msgid "Can not be left blank."
+msgstr "Non può essere lasciato in bianco."
+
+msgid "Change account password"
+msgstr "Cambia password dell'account"
+
+msgid "Check for new version"
+msgstr "Controlla per nuova versione"
+
+msgid "Cleanup"
+msgstr "Pulisci"
+
+msgid "Continue"
+msgstr "Continuare"
+
+msgid "Current version:"
+msgstr "Versione corrente:"
+
+msgid "Default"
+msgstr "Predefinito"
+
+msgid "Default style:"
+msgstr "Stile predefinito"
+
+msgid "Delete"
+msgstr "Cancella"
+
+msgid "Delete all posts by this IP"
+msgstr "Cancella tutti i post di questo IP"
+
+msgid "Delete board"
+msgstr "Cancella board"
+
+msgid "Delete posts"
+msgstr "Cancella i post"
+
+msgid "Deleted staff member"
+msgstr "Membro dello staff cancellato"
+
+msgid "Directory"
+msgstr "Directory"
+
+msgid "Disk space used"
+msgstr "Spazio disco usato"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Error, it appears your file did not transfer properly.  Please go back and try again."
+msgstr "Errore, sembra che il file non sia stato trasferito correttamente. Perfavore tornare indietro e riprovare."
+
+msgid "File"
+msgstr "File"
+
+msgid "File was not fully uploaded.  Please go back and try again."
+msgstr "Il file non è stato completamente caricato. Perfavore tornare indietro e riprovare."
+
+msgid "First 100 posts"
+msgstr "Primi 100 post"
+
+msgid "Global options"
+msgstr "Opzioni globali"
+
+msgid "Go"
+msgstr "Vai"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Incorrect password."
+msgstr "Password errata."
+
+msgid "Incorrect username/password."
+msgstr "nome utente/password errate"
+
+msgid "Index"
+msgstr "Indice"
+
+msgid "Invalid ID"
+msgstr "ID non valido"
+
+msgid "Invalid session."
+msgstr "Sessione non valida."
+
+msgid "Invalid video ID."
+msgstr "ID video non valido."
+
+msgid "Invalid video type."
+msgstr "Tipo di video non valido."
+
+msgid "Last 50 posts"
+msgstr "Ultimi 50 post"
+
+msgid "Last Post"
+msgstr "Ultimo post"
+
+msgid "Lock"
+msgstr "Blocca"
+
+msgid "Locked"
+msgstr "Bloccato"
+
+msgid "Manage"
+msgstr "Amministra"
+
+msgid "Manage boards"
+msgstr "Amministra le board"
+
+msgid "Maximum image size"
+msgstr "Grandezza massima dell'immagine"
+
+msgid "Maximum message length"
+msgstr "Lunghezza massima del messaggio"
+
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "Misc"
+msgstr "Misto"
+
+msgid "Moderates"
+msgstr "Moderato"
+
+msgid "Moderation"
+msgstr "Moderazione"
+
+msgid "Moderator"
+msgstr "Moderatore"
+
+msgid "Moderators"
+msgstr "Moderatori"
+
+msgid "Modify staff member"
+msgstr "Modifica membro dello staff"
+
+msgid "Module settings"
+msgstr "Impostazioni del modulo"
+
+msgid "Modules"
+msgstr "Moduli"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "New Thread"
+msgstr "Nuovo thread"
+
+msgid "New password"
+msgstr "Nuova password"
+
+msgid "New password again"
+msgstr "Ripetere nuova password"
+
+msgid "Next"
+msgstr "Prossimo"
+
+msgid "No"
+msgstr "No"
+
+msgid "No File"
+msgstr "Nessun File"
+
+msgid "No boards"
+msgstr "Nessuna tavola"
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Old password"
+msgstr "Vecchia password"
+
+msgid "Only moderators of the board and admins can make new posts/replies"
+msgstr "Solo i moderatori della board e gli amministratori possono creare nuovi post/risposte"
+
+msgid "Open images in new window"
+msgstr "Aprire immagini in una nuova finestra"
+
+msgid "Order"
+msgstr "Ordina"
+
+msgid "Password"
+msgstr "Password"
+
+msgid "Please make sure your file is smaller than %dB"
+msgstr "Perfavore assicurarsi che il file sia più piccolo di %dB"
+
+msgid "Please select a board."
+msgstr "Perfavore selezionare una board"
+
+msgid "Please select only one image to upload."
+msgstr "Perfavore selezionare solo un immagine da caricare."
+
+msgid "Popular"
+msgstr "Popolare"
+
+msgid "Post preview"
+msgstr "Anteprima del post"
+
+msgid "Previous"
+msgstr "Indietro"
+
+msgid "Quick Reply"
+msgstr "Risposta veloce"
+
+msgid "Reason"
+msgstr "Motivo"
+
+msgid "Reason:"
+msgstr "Motivo:"
+
+msgid "Rebuild all html files"
+msgstr "Ripristina tutti i file html"
+
+msgid "Rebuilt all boards and threads"
+msgstr "Ripristina tutte le board ed i thread"
+
+msgid "Remove"
+msgstr "Rimuovere"
+
+msgid "Replies"
+msgstr "Risposte"
+
+msgid "Reply"
+msgstr "Risposta"
+
+msgid "Results"
+msgstr "Risultati"
+
+msgid "Return"
+msgstr "Indietro"
+
+msgid "Search"
+msgstr "Ricerca"
+
+msgid "Search posts"
+msgstr "Cerca post"
+
+msgid "Seconds"
+msgstr "Secondi"
+
+msgid "Section"
+msgstr "Sezione"
+
+msgid "Section deleted."
+msgstr "Sezione eliminata."
+
+msgid "Show Directories"
+msgstr "Mostra cartelle"
+
+msgid "Shown below"
+msgstr "Indicato sotto"
+
+msgid "Sorry, a generic error has occurred."
+msgstr "Spiacente, si è verificato un errore generico."
+
+msgid "Sorry, that filetype is not allowed on this board."
+msgstr "Spiacente, quel tipo di file non è ammesso in questa board"
+
+msgid "Sorry, your message is too long.  Message length: %d, maxmimum allowed length: %d"
+msgstr "Spiacente, il messaggio è troppo lungo. Lunghezza messaggio: %d, massima lunghezza consentita: %d"
+
+msgid "Sorry, your search returned zero results."
+msgstr "Spiacente, la ricerca ha restituito zero risultati."
+
+msgid "Staff"
+msgstr "Staff"
+
+msgid "Staff member successfully added."
+msgstr "Aggiunto con successo un membro dello staff"
+
+msgid "Staff successfully deleted"
+msgstr "Staff cancellatto con successo"
+
+msgid "Staff successfully updated"
+msgstr "Staff aggiornato con successo"
+
+msgid "Submit"
+msgstr "Invio"
+
+msgid "The name of the board."
+msgstr "Il nome della board"
+
+msgid "There are currently no sections."
+msgstr "Attualmente non ci sono sezioni."
+
+msgid "There is already a file with that name."
+msgstr "C'è già un file con questo nome."
+
+msgid "Thread"
+msgstr "Thread"
+
+msgid "Thread successfully locked."
+msgstr "Thread bloccato con successo."
+
+msgid "Thread successfully unlocked."
+msgstr "Thread sbloccato con successo."
+
+msgid "Threads"
+msgstr "Thread"
+
+msgid "Unable to connect to:"
+msgstr "Impossibile connetersi a:"
+
+msgid "Unable to delete board."
+msgstr "Impossibile cancellare la board."
+
+msgid "Unable to locate a board named"
+msgstr "Impossibile localizzare il nome della board"
+
+msgid "Unable to locate a section with that ID."
+msgstr "Impossible localizzare una sezione con questo ID."
+
+msgid "Unable to locate that word."
+msgstr "Impossibile localizzare questa parola."
+
+msgid "Unlock"
+msgstr "Sblocca"
+
+msgid "Unlocked thread"
+msgstr "Sblocca thread"
+
+msgid "Update"
+msgstr "Aggiornare"
+
+msgid "Update and regenerate board"
+msgstr "Aggiornare e rigenerare la board"
+
+msgid "Update successful."
+msgstr "Aggiornamento riuscito."
+
+msgid "Update without regenerating board"
+msgstr "Aggiornare senza rigenerare la board"
+
+msgid "Updated board configuration"
+msgstr "Configurazione board aggiornata"
+
+msgid "Updated global configuration"
+msgstr "Configurazione globale aggiornata"
+
+msgid "Updated staff member"
+msgstr "Membro dello staff aggiornato"
+
+msgid "Username"
+msgstr "Nome utente"
+
+msgid "View catalog"
+msgstr "Visualiza catalogo"
+
+msgid "View deleted thread"
+msgstr "Visualizza thread cancellati"
+
+msgid "Welcome"
+msgstr "Benevenuto"
+
+msgid "Word"
+msgstr "Parola"
+
+msgid "Word successfully added."
+msgstr "Parola aggiunta con successo."
+
+msgid "YOU ARE BANNED"
+msgstr "TU SEI BANNATO"
+
+msgid "Yes"
+msgstr "Si"
+
+msgid "You are not a moderator of this board."
+msgstr "Non sei un moderatore di questa board."
+
+msgid "You must enter a subject."
+msgstr "Devi inserire un oggetto."
+
+msgid "forever"
+msgstr "per sempre"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  tj9991 <https://launchpad.net/~tslocum>\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Emanuele Gentili https://launchpad.net/~emgent\n"
+"  Paolo Naldini https://launchpad.net/~hattory\n"
+"  tj9991 https://launchpad.net/~tslocum"
+

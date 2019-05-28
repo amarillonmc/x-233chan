@@ -1,0 +1,77 @@
+/*
+This css file was created by Harrison for 24chan.org. Use anywhere else without permission is prohibited.
+Contact: HarrisonHopkins@Gmail.com
+*/
+
+body {
+	font-size: 70%;
+	margin: 8px;
+	font-family: sans-serif;
+	width: 90% !important;
+}
+
+a {
+	text-decoration: none;
+	color: #CCC;
+}
+
+h1, h2 {
+	background: #444;
+	text-align: left;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	padding: 0px;
+	margin: 0;
+}
+
+h1 {
+	margin-top: 0px;
+	font-size: 150%;
+	color: #FFF;
+	padding-left: 5px;
+}
+
+h2 {
+	font-size: 100%;
+	margin-top: 1em;
+}
+
+.plus {
+	float: right;
+	font-size: 8px;
+	font-weight: normal;
+	padding: 1px 4px 2px 4px;
+	margin: 0px 0px;
+	background: #444;
+	color: #FFF;
+	cursor: hand;
+	cursor: pointer;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+}
+
+.plus:hover {
+	background: #444;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0px;
+	margin: 0px;
+}
+
+li {
+	margin: 0px;
+	padding-left: 5px;
+}
+
+li:hover {
+	background: #333;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+}
+
+li a {
+	display: block;
+	width: 99%;
+}

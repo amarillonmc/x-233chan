@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: trevorchan\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2008-03-10 04:45+0000\n"
+"Last-Translator: tj9991 <tslocum@gmail.com>\n"
+"Language-Team: Japanese <ja@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "(for post and file deletion)"
+msgstr "(記事の削除用)"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Administrator"
+msgstr "管理者"
+
+msgid "Administrators"
+msgstr "管理者"
+
+msgid "All boards"
+msgstr "全ての板"
+
+msgid "Board"
+msgstr "板"
+
+msgid "Boards"
+msgstr "板"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Catalog Mode"
+msgstr "カタログモード"
+
+msgid "Click Reply to view."
+msgstr "全て読むには返信ボタンを押してください。"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Delete post"
+msgstr "記事削除"
+
+msgid "Email"
+msgstr "E-メール"
+
+msgid "Embed"
+msgstr "埋め込み"
+
+msgid "File"
+msgstr "画像ファイル名"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "Images"
+msgstr "画像"
+
+msgid "Incorrect password."
+msgstr "パスワードが違います。"
+
+msgid "Incorrect username/password."
+msgstr "ユーザー名またはパスワードが違います。"
+
+msgid "Invalid session."
+msgstr "無効なセッションです。"
+
+msgid "Lock"
+msgstr "ロック"
+
+msgid "Log in again."
+msgstr "再度ログインしてください。"
+
+msgid "Manage"
+msgstr "管理"
+
+msgid "Message"
+msgstr "内容"
+
+msgid "Misc"
+msgstr "その他"
+
+msgid "Moderates"
+msgstr "モデレート"
+
+msgid "Moderating boards"
+msgstr "板をモデレートする"
+
+msgid "Moderation"
+msgstr "モデレーション"
+
+msgid "Moderator"
+msgstr "モダレータ"
+
+msgid "Moderators"
+msgstr "モデレータ"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Next"
+msgstr "次に"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "No File"
+msgstr "ファイルなし"
+
+msgid "No boards"
+msgstr "板無し"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Post"
+msgstr "投稿"
+
+msgid "Posting mode: Reply"
+msgstr "レス送信モード"
+
+msgid "Posts"
+msgstr "投稿"
+
+msgid "Preview"
+msgstr "プレビュー"
+
+msgid "Previous"
+msgstr "前"
+
+msgid "Quick Reply"
+msgstr "簡単な返信"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Replies"
+msgstr "返信"
+
+msgid "Reply"
+msgstr "返信"
+
+msgid "Return"
+msgstr "戻る"
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid "Sorry, a generic error has occurred."
+msgstr "すいません、一般的なエラーが発生しました。"
+
+msgid "Subject"
+msgstr "題名"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Tag"
+msgstr "タグ"
+
+msgid "Thread"
+msgstr "スレッド"
+
+msgid "Threads"
+msgstr "スレッド"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "and"
+msgstr "と"
+
+msgid "log in"
+msgstr "ログイン"
+
+msgid "log out"
+msgstr "ログアウト"
+
+msgid "omitted"
+msgstr "省略"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  p <https://launchpad.net/~p>\n"
+"  tj9991 <https://launchpad.net/~tslocum>\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Nazo https://launchpad.net/~lovesyao\n"
+"  tj9991 https://launchpad.net/~tslocum"
+

@@ -1,0 +1,121 @@
+body {background: #ffe; font-family: sans-serif; margin: 0}
+a { color: #550 }
+
+h1 {color: #800; padding: .5em}
+.head {background: #fca;}
+
+.threadldiv, body.board .thread, .midhead, .newthread, .head {
+margin: 1em;
+margin-left: 2.5%;
+margin-right: 2.5%;
+}
+
+.threadldiv, .thread, .midhead, .newthread {
+background: #f9e9dd; padding: 1px;
+}
+
+.midhead {padding: .5em}
+
+.threadlink, .boldthreadlink {
+display: block;
+text-align: center
+}
+
+.boldthreadlink {font-weight: bold}
+
+.tolder {display: none}
+
+h2 {margin: .1em; padding-left: .3em; padding-top: .1em}
+h2 a {color: #cc1105; text-decoration: none}
+
+.replies {
+font-size: x-large;
+font-weight: bolder;
+padding-right: .5em;
+font-family: serif
+}
+
+.topbar a {
+color: #cc1105;
+font-family: IPAMonaPGothic,Mona,'MS PGothic',YOzFontAA97
+}
+
+.threadlistflat {margin-bottom:0}
+
+.postheader * {clear: none; margin: 0; margin-bottom: .1em;}
+
+.post, form {
+width: 90%;
+margin-left: 9%;
+margin-top: 1em;
+}
+
+.hidden {margin-left: .5em;}
+
+form {margin-left: 2.9em}
+
+.post {
+background: #ffe;
+/*border: 1px solid #fca;*/
+padding-bottom: .1em;
+}
+
+h3 {
+font-weight: normal;
+font-size: x-small;
+color: grey;
+margin: 0;
+margin-right: .1em;
+text-align: right;
+clear: none;
+height: 0;
+}
+
+h3 a {color: grey; font-weight: bold}
+
+h3 .postnum a, form .postnum {
+text-decoration: none;
+font-size: xx-large;
+color: black;
+font-style: italic;
+font-family: serif;
+font-weight: bolder;
+float: left;
+clear: none;
+width: 1.5em;
+text-align: right;
+vertical-align: middle
+}
+
+.namelabel {display: none}
+
+form .postnum {padding-right: .3em}
+
+h3 .postnum a, blockquote {
+position: relative;
+left: -2em;
+}
+
+h3 .postnum a {height: 0}
+
+blockquote {
+clear: left;
+}
+
+blockquote p {margin: 0}
+
+table .submit {width: 100%;}
+td.label {text-align: right;}
+table .mail {width: auto; float: right;}
+
+.legal {text-align: center; font-size: small;}
+.manage {text-align: center; font-size: x-small;}
+
+.stylelist {display: inline-block; float: right}
+
+body.read, body.read .thread {background: #f9e9dd}
+body.read h2 {color: red; font-size: larger}
+.pages {font-size: smaller}
+.bottomnav {text-align: center;}
+
+.topbar {margin: -2px; margin-bottom: .5em; background: #f9e9dd; border: 1px inset #cc1105; width: 100%; text-align: right}

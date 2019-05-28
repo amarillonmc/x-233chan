@@ -1,0 +1,1054 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kusaba\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2007-08-30 11:15+0000\n"
+"Last-Translator: tj9991 <tslocum@gmail.com>\n"
+"Language-Team: Dutch <nl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "%s bans not shown."
+msgstr "%s bans niet getoond."
+
+msgid "%s not implemented."
+msgstr "%s niet geimplementeerd."
+
+msgid "(for post and file deletion)"
+msgstr "(voor post- en bestandsverwijdering)"
+
+msgid "<h2>Add News Post</h2>This message will be displayed as it is written, so make sure you add the proper HTML."
+msgstr "<h2>Voeg nieuwsbericht toe</h2>Dit bericht wordt zichtbaar terwijl het wordt ingetypt, zorg er dus voor dat je de juiste HTML codes gebruikt."
+
+msgid "A board with that name already exists."
+msgstr "Een board met die naam bestaat al."
+
+msgid "A board with that name does not exist."
+msgstr "Een board met die naam bestaat niet."
+
+msgid "A message is required to post without a file."
+msgstr "Een berichttekst is verplicht om te kunnen posten zonder bestand."
+
+msgid "A post with that ID does not exist."
+msgstr "Een post met die ID bestaat niet."
+
+msgid "A staff member with that ID already exists."
+msgstr "Een lid van de leiding met die ID bestaat al."
+
+msgid "A staff member with that id does not appear to exist."
+msgstr "Een lid van de leiding met die ID lijkt niet te bestaan."
+
+msgid "Add"
+msgstr "Voeg toe"
+
+msgid "Add ban"
+msgstr "Voeg ban toe"
+
+msgid "Add board"
+msgstr "Voeg board toe"
+
+msgid "Add news"
+msgstr "Voeg nieuws toe"
+
+msgid "Add staff member"
+msgstr "Voeg lid van de leiding toe"
+
+msgid "Add word"
+msgstr "Voeg woord toe"
+
+msgid "Added a news entry"
+msgstr "Nieuwsbericht toegevoegd"
+
+msgid "Added board"
+msgstr "Board toegevoegd"
+
+msgid "Added on"
+msgstr "Toegevoegd op"
+
+msgid "Added staff member"
+msgstr "Lid van de leiding toegevoegd"
+
+msgid "Admin"
+msgstr "Administrator"
+
+msgid "Administration"
+msgstr "Beheer"
+
+msgid "Administrator"
+msgstr "Beheerder"
+
+msgid "Administrators"
+msgstr "Beheerders"
+
+msgid "All Threads"
+msgstr "Alle discussies"
+
+msgid "All boards"
+msgstr "Alle boards"
+
+msgid "All threads/posts by that IP in selected boards successfully deleted."
+msgstr "Alle discussies / posts met die IP zijn succesvol verwijderd in de geselecteerde boards."
+
+msgid "Already posted %shere%s."
+msgstr "Is %shier%s al gepost."
+
+msgid "An image, or message, is required for a reply."
+msgstr "Een afbeelding of berichttekst is verplicht om een reaktie te kunnen plaatsen."
+
+msgid "Anonymous"
+msgstr "Anoniem"
+
+msgid "Are you absolutely sure you want to delete %s?"
+msgstr "Weet je zeker dat je %s wilt verwijderen?"
+
+msgid "Ban from"
+msgstr "Ban van"
+
+msgid "Ban proxy list"
+msgstr "Ban proxylijst"
+
+msgid "Ban successfully placed."
+msgstr "Ban succesvol geplaatst."
+
+msgid "Ban successfully removed."
+msgstr "Ban succesvol verwijderd."
+
+msgid "Banned"
+msgstr "Gebanned"
+
+msgid "Banned from"
+msgstr "Gebanned van"
+
+msgid "Board"
+msgstr "Board"
+
+msgid "Board options"
+msgstr "Board opties"
+
+msgid "Board successfully added."
+msgstr "Board succesvol toegevoegd."
+
+msgid "Board successfully deleted."
+msgstr "Board succesvol verwijderd."
+
+msgid "Board type:"
+msgstr "Boardtype:"
+
+msgid "Boards"
+msgstr "Boards"
+
+msgid "Cache successfully flushed."
+msgstr "Cache succesvol gespoeld."
+
+msgid "Can be left blank."
+msgstr "Kan worden leeggelaten."
+
+msgid "Can not be left blank."
+msgstr "Kan niet worden leeggelaten."
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Catalog Mode"
+msgstr "Catalogusmode"
+
+msgid "Change account password"
+msgstr "Wijzig account wachtwoord"
+
+msgid "Check for new version"
+msgstr "Controleer of er een nieuwe versie beschikbaar is."
+
+msgid "Cleanup"
+msgstr "Opschoning"
+
+msgid "Cleanup finished."
+msgstr "Opschoning voltooid."
+
+msgid "Click Reply to view, or %sexpand%s."
+msgstr "Klik op Reageer"
+
+msgid "Click Reply to view."
+msgstr "Klik op Reageer om te bekijken."
+
+msgid "Click to show/hide"
+msgstr "Klik om te tonen of verbergen"
+
+msgid "Continue"
+msgstr "Doorgaan"
+
+msgid "Could not copy uploaded image."
+msgstr "Kon de geuploade afbeelding niet kopieren."
+
+msgid "Could not create thumbnail."
+msgstr "Kon geen overzichtsafbeelding aanmaken."
+
+msgid "Current version:"
+msgstr "Huidige versie:"
+
+msgid "Days to keep modlog entries"
+msgstr "Aantal dagen om modlogberichten te bewaren"
+
+msgid "Default"
+msgstr "Standaard"
+
+msgid "Default style:"
+msgstr "Standaardstijl:"
+
+msgid "Delete"
+msgstr "verwijder"
+
+msgid "Delete all posts by IP"
+msgstr "Verwijder alle posts per IP"
+
+msgid "Delete all posts by this IP"
+msgstr "Verwijder alle posts per IP"
+
+msgid "Delete board"
+msgstr "Verwijder board"
+
+msgid "Delete post"
+msgstr "Verwijder post"
+
+msgid "Delete posts"
+msgstr "verwijder posts"
+
+msgid "Delete thread"
+msgstr "Verwijder discussie"
+
+msgid "Delete thread/post"
+msgstr "Verwijder discussie / post"
+
+msgid "Deleted board"
+msgstr "Board verwijderd"
+
+msgid "Deleted post"
+msgstr "Verwijderde post"
+
+msgid "Deleted posts by ip"
+msgstr "Posts per IP verwijderd"
+
+msgid "Deleted staff member"
+msgstr "Lid van de leiding verwijderd"
+
+msgid "Deleted thread"
+msgstr "Verwijderde discussie"
+
+msgid "Deleting unused images."
+msgstr "Bezig met verwijderen van ongebruikte afbeeldingen."
+
+msgid "Description"
+msgstr "Omschrijving"
+
+msgid "Directory"
+msgstr "Directory"
+
+msgid "Disk space used"
+msgstr "Gebruikte diskruimte:"
+
+msgid "Does not expire"
+msgstr "Verloopt nooit"
+
+msgid "Duplicate file entry detected."
+msgstr "Dubbel bestand gevonden"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Edit filetypes"
+msgstr "Wijzig bestandstypes."
+
+msgid "Edit sections"
+msgstr "Wijzig secties"
+
+msgid "Edit word"
+msgstr "Wijzig woord"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Embedding only"
+msgstr "Alleen embedding"
+
+msgid "Enable \"no file\" posting"
+msgstr "Sta het plaatsen van posts zonder bestanden toe"
+
+msgid "Enable captcha:"
+msgstr "Schakel CAPTCHA in:"
+
+msgid "Enable reporting:"
+msgstr "Schakel rapporteren in."
+
+msgid "Enable/disable captcha system for this board.  If captcha is enabled, in order for a user to post, they must first correctly enter the text on an image."
+msgstr "Schakel CAPTCHA in of uit voor dit board. Indien CAPTCHA aanstaat, dient een gebruiker een code in te voeren alvorens hij een bericht kan plaatsen."
+
+msgid "Entire Thread"
+msgstr "Gehele discussie"
+
+msgid "Error, it appears your file did not transfer properly.  Please go back and try again."
+msgstr "Fout: het lijkt erop dat je bestand niet juist werd verzonden. Ga aub terug en probeer het nog eens."
+
+msgid "Expires:"
+msgstr "Vervalt:"
+
+msgid "Extension icon displayed, click image to open file."
+msgstr "Extensie-icoon weergegeven. Klik op het icoon om het bestand te openen."
+
+msgid "File"
+msgstr "Bestand"
+
+msgid "File Only"
+msgstr "Alleen bestand"
+
+msgid "File was not fully uploaded.  Please go back and try again."
+msgstr "Bestand werd niet volledig geupload. Ga aub terug en probeer het opnieuw."
+
+msgid "Filetype added."
+msgstr "Filetype toegevoegd."
+
+msgid "Filetype deleted."
+msgstr "Bestandstype verwijderd."
+
+msgid "Filetype updated."
+msgstr "Bestandstype geupdate."
+
+msgid "First 100 posts"
+msgstr "Eerste 100 posts"
+
+msgid "Forced anonymous"
+msgstr "Geforceerd anoniem"
+
+msgid "Front Page"
+msgstr "Voorpagina"
+
+msgid "Get posting password"
+msgstr "Bemachtig posting wachtwoord"
+
+msgid "Global configuration succesfully updated."
+msgstr "Globale configuratie succesvol geupdate."
+
+msgid "Global options"
+msgstr "Globale opties"
+
+msgid "Go"
+msgstr "Ga"
+
+msgid "Header image"
+msgstr "Header-afbeelding"
+
+msgid "Hide Directories"
+msgstr "Verberg directories"
+
+msgid "Home"
+msgstr "Hoofdmenu"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "If set to yes, new threads will not require an image to be posted."
+msgstr "Indien hier \"ja\" staat, kunnne nieuwe discussies geplaatst worden zonder dat een afbeelding is bijgevoegd."
+
+msgid "If set to yes, this board will appear in bold in the menu"
+msgstr "Indien hier \"ja\" staat, verschijnt de naam van dit board vetgedrukt in het menu"
+
+msgid "If set to yes, this board will appear in italics in the menu"
+msgstr "Indien hier \"ja\" staat, verschijnt de naam van dit board cursief in het menu."
+
+msgid "If set to yes, users will be redirected to the thread they replied to/posted after posting.  If set to no, users will be redirected to the first page of the board."
+msgstr "Indien hier \"ja\" staat, zullen gebruikers na het plaatsen van een reaktie, doorverwezen worden naar de discussie waarin zij hun reaktie plaatsen. Indien hier \"nee\" staat, worden zij na het plaatsen van een reaktie, doorverwezen naar de eerste pagina van het board."
+
+msgid "If set to yes, users will not be allowed to enter a name, making everyone appear as Anonymous"
+msgstr "Indien hier \"ja\" staat, mogen gebruikers geen naam ingeven, waardoor iedereen anoniem wordt"
+
+msgid "Image successfully deleted from your post."
+msgstr "Afbeelding succesvol verwijderd uit je submit."
+
+msgid "Images and embedding"
+msgstr "Afbeeldingen en embedding"
+
+msgid "Improper filetype."
+msgstr "Ongeldig bestandsformaat."
+
+msgid "Include header"
+msgstr "Sluit header erbij in"
+
+msgid "Incorrect password."
+msgstr "Ongeldig wachtwoord."
+
+msgid "Incorrect username/password."
+msgstr "Ongeldige gebruikersnaam / ongeldig wachtwoord."
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Inject"
+msgstr "Injecteer"
+
+msgid "Integer values must be entered correctly."
+msgstr "Integerwaardes moeten op de juiste wijze worden ingegeven"
+
+msgid "Invalid ID"
+msgstr "Ongeldige ID"
+
+msgid "Invalid MIME type for this filetype."
+msgstr "Ongeldig MIME formaat voor dit bestandstype."
+
+msgid "Invalid ban ID"
+msgstr "Ongeldige ban ID"
+
+msgid "Invalid board directory."
+msgstr "Ongeldige boarddirectory."
+
+msgid "Invalid response code:"
+msgstr "Ongeldige antwoordcode:"
+
+msgid "Invalid session."
+msgstr "Ongeldige sessie."
+
+msgid "Invalid staff ID."
+msgstr "Ongeldige leiding ID."
+
+msgid "Invalid thread ID.  This may have been caused by the thread recently being deleted."
+msgstr "Ongeldige discussie ID. Dit kan veroorzaakt zijn doordat de discussie recentelijk is verwijderd."
+
+msgid "Invalid video ID."
+msgstr "Ongeldige video ID."
+
+msgid "Invalid video type."
+msgstr "Ongeldig videoformaat."
+
+msgid "Is replaced by"
+msgstr "Is vervangen door"
+
+msgid "Last 50 posts"
+msgstr "Laatste 50 posts"
+
+msgid "Last Post"
+msgstr "Laatste post"
+
+msgid "Lock"
+msgstr "Vergrendel"
+
+msgid "Locked"
+msgstr "Vergrendeld"
+
+msgid "Locked thread"
+msgstr "Vergrendelde discussie"
+
+msgid "Log in again."
+msgstr "Log opnieuw in."
+
+msgid "Logged in"
+msgstr "Ingelogd"
+
+msgid "Manage boards"
+msgstr "Berichtenboards"
+
+msgid "Manage locked threads"
+msgstr "Onderhoud vergrendelde discussies"
+
+msgid "Manage stickies"
+msgstr "Beheer stickies"
+
+msgid "Maximum board pages"
+msgstr "Maximaal aanta boardpagina's"
+
+msgid "Maximum image size"
+msgstr "Maximale afbeeldingsgrootte"
+
+msgid "Maximum message length"
+msgstr "Maximale berichtlengte"
+
+msgid "Maximum thread age (Hours)"
+msgstr "Maximale discussieleeftijd (Uren)"
+
+msgid "Maximum thread replies"
+msgstr "Maximaal aantal reakties per discussie"
+
+msgid "Maxmimum size of uploaded images, in <b>bytes</b>."
+msgstr "Maimale grootte van geuploade afbeeldingen in <b>bytes</b>."
+
+msgid "Maxmimum thumbnail height"
+msgstr "Maximum hoogte van overzichtsafbeelding"
+
+msgid "Maxmimum thumbnail width"
+msgstr "Maximum breedte van overzichtsafbeelding"
+
+msgid "Message"
+msgstr "Bericht"
+
+msgid "Misc"
+msgstr "Diversen"
+
+msgid "Mod"
+msgstr "Mod"
+
+msgid "ModLog"
+msgstr "ModLog"
+
+msgid "Moderates"
+msgstr "Modereert"
+
+msgid "Moderating boards"
+msgstr "Moderatieboards"
+
+msgid "Moderation"
+msgstr "Moderatie"
+
+msgid "Moderator"
+msgstr "Moderator"
+
+msgid "Moderators"
+msgstr "Moderators"
+
+msgid "Modify staff member"
+msgstr "Wijzig lid van de leiding"
+
+msgid "Module settings"
+msgstr "Module-instellingen"
+
+msgid "Modules"
+msgstr "Modules"
+
+msgid "NOTICE: You are using the default administrator account.  Anyone can log in to this account, so a second administrator account needs to be created.  Create another, log in to it, and delete this one."
+msgstr "ATTENTIE: Je gebruikt momenteel het standaard beheerdersaccount. Iedereen kan met dit account inloggen. Maak dus een ander beheerdersaccount aan, log daarmee in en verwijder dit standaardaccount."
+
+msgid "Name"
+msgstr "Naam"
+
+msgid "Never"
+msgstr "Nooit"
+
+msgid "New Thread"
+msgstr "Nieuwe discussie"
+
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+msgid "New password again"
+msgstr "Nieuw wachtwoord nogmaals"
+
+msgid "News"
+msgstr "Nieuws"
+
+msgid "News entry successfully added."
+msgstr "Nieuwsbericht succesvol toegevoegd."
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "No"
+msgstr "Nee"
+
+msgid "No File"
+msgstr "Geen bestand"
+
+msgid "No boards"
+msgstr "Geen boards"
+
+msgid "No embedding"
+msgstr "Geen embedding"
+
+msgid "No visible boards"
+msgstr "Geen zichtbare boards"
+
+msgid "None"
+msgstr "Geen"
+
+msgid "Normal imageboard"
+msgstr "Normaal afbeeldingenboard"
+
+msgid "Oekaki imageboard"
+msgstr "Oekaki afbeeldingenboard"
+
+msgid "Old password"
+msgstr "Oud wachtwoord"
+
+msgid "Only moderators of the board and admins can make new posts/replies"
+msgstr "Alleen moderators van dit board  en administrators mogen nieuwe posts en reakties plaatsen."
+
+msgid "Open images in new window"
+msgstr "Open afbeeldingen in een nieuw venster"
+
+msgid "Order"
+msgstr "Volgorde"
+
+msgid "Order to show board in menu list, in ascending order."
+msgstr "De volgorde waarin de boards in oplopende volgorde in de menulijst verschijnen."
+
+msgid "Overrides the header set in the config file.  Leave blank to use configured global header image.  Needs to be a full url including http://.  Set to none to show no header image."
+msgstr "Overschrijft de globale standaardheader die gedefineerd staat in het configuratiebestand. Laat dit veld leeg om die globale standaardheader te gebruiken. Indien dit veld gebruikt wordt, dient een volledige URL naar het te gebruiken bestand ingevuld te worden, inclusief HTTP://. Plaats de waarde \"none\" om helemaal geen header te tonen."
+
+msgid "Password"
+msgstr "Wachtwoord"
+
+msgid "Password successfully changed."
+msgstr "Wachtwoord succesvol gewijzigd."
+
+msgid "Placed:"
+msgstr "Geplaatst:"
+
+msgid "Please enter a positive amount of seconds, or zero for a permanent ban."
+msgstr "Voer aub een positief aantal seconden in, of voer het cijfer nul in voor een permanente ban."
+
+msgid "Please enter a search query."
+msgstr "Voer aub een zoekopdracht in."
+
+msgid "Please fill in all required fields."
+msgstr "Vul aub alle vereiste velden in."
+
+msgid "Please make sure your file is smaller than %dB"
+msgstr "Zorg er aub voor dat je bestand kleiner is dan %dB."
+
+msgid "Please select a board."
+msgstr "Selecteer een board aub."
+
+msgid "Please select only one image to upload."
+msgstr "Selecteer aub slechts een afbeelding om te uploaden."
+
+msgid "Popular"
+msgstr "Populair"
+
+msgid "Post"
+msgstr "Submit"
+
+msgid "Post successfully deleted."
+msgstr "Submit succesvol verwijderd."
+
+msgid "Postbox notice"
+msgstr "Postbus indicator"
+
+msgid "Posting a blacklisted link."
+msgstr "Bezig met posten van een link die op de zwarte lijst staat."
+
+msgid "Posting mode: Reply"
+msgstr "Posting mode: Reageer"
+
+msgid "Posting rates (past hour)"
+msgstr "Vertalerskrediet"
+
+msgid "Posts"
+msgstr "Submits"
+
+msgid "Presets"
+msgstr "Voorinstellingen"
+
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "Proxy list"
+msgstr "Proxylijst"
+
+msgid "Query"
+msgstr "Opdracht"
+
+msgid "Query executed successfully"
+msgstr "Opdracht succesvol uitgevoerd"
+
+msgid "Quick Reply"
+msgstr "Spoedreaktie"
+
+msgid "Ran cleanup"
+msgstr "Heb opschoning uitgevoerd"
+
+msgid "Raw HTML which will be inserted at the top of each page of the board."
+msgstr "Ruwe HTML die ingevoegd zal worden aan het begin van elke pagina van dit board."
+
+msgid "Read this thread from the beginning"
+msgstr "Lees deze discussie vanaf het begin"
+
+msgid "Reason"
+msgstr "Reden"
+
+msgid "Reason:"
+msgstr "Reden:"
+
+msgid "Rebuild all html files"
+msgstr "Rebuild alle HTML bestanden"
+
+msgid "Rebuild complete.  Took <b>%d</b> seconds."
+msgstr "Rebuild compleet. Duurde <b>%d</b> seconden."
+
+msgid "Rebuilt all boards and threads"
+msgstr "Rebuild van alle boards en discussies voltooid."
+
+msgid "Redirect to thread"
+msgstr "Doorverwijzen naar discussie"
+
+msgid "Redirecting"
+msgstr "Bezig met doorverwijzen"
+
+msgid "Regenerated %s"
+msgstr "%s geregenereerd"
+
+msgid "Regular expression"
+msgstr "Reguliere expressie"
+
+msgid "Remove"
+msgstr "Verwijder"
+
+msgid "Removed word from wordfilter"
+msgstr "Woord uit woordfilter verwijderd"
+
+msgid "Replies"
+msgstr "Reakties"
+
+msgid "Replies displayed per stickied thread (in thread list)"
+msgstr "Reakties weergegeven per stickied discussie (in discussielijst)"
+
+msgid "Replies displayed per thread (in thread list)"
+msgstr "Reakties weergegeven per discussie (in discussielijst)"
+
+msgid "Reply"
+msgstr "Reaktie"
+
+msgid "Reporting allows users to report posts, adding the post to the report list."
+msgstr "Rapporteren staat gebruikers toe om posts te rapporteren. Hierdoor wordt de betreffende post toegevoegd aan de rapportenlijst."
+
+msgid "Results"
+msgstr "Resultaten"
+
+msgid "Return"
+msgstr "Keer terug"
+
+msgid "SQL query"
+msgstr "SQL query"
+
+msgid "Search posts"
+msgstr "Zoek posts"
+
+msgid "Seconds"
+msgstr "Seconden"
+
+msgid "Section"
+msgstr "Sectie"
+
+msgid "Section added."
+msgstr "Sectie toegevoegd"
+
+msgid "Section deleted."
+msgstr "Sectie verwijderd"
+
+msgid "Section updated."
+msgstr "Sectie geupdate"
+
+msgid "Show Directories"
+msgstr "Toon directories"
+
+msgid "Show Posting Password"
+msgstr "Toon posting wachtwoord"
+
+msgid "Shown below"
+msgstr "Beneden getoond"
+
+msgid "Sorry, a generic error has occurred."
+msgstr "Sorry, er is een algemene fout opgetreden."
+
+msgid "Sorry, because of your numerous failed logins, you have been locked out from logging in for 20 minutes.  Please wait and then try again."
+msgstr "Sorry, maar vanwege je veelvuldige foutieve loginpogingen ben je de komende 20 minuten buitensgesloten. Wacht aub en probeer het daarna opnieuw."
+
+msgid "Sorry, that filetype is not allowed on this board."
+msgstr "Sorry, dat bestandsformaat wordt niet ondersteund op dit board."
+
+msgid "Sorry, this board is locked and can not be posted in."
+msgstr "Sorry, dit board is vergrendeld. Er kunnen geen berichten in worden geplaatst."
+
+msgid "Sorry, this thread is locked and can not be replied to."
+msgstr "Sorry, deze discussie is vergrendeld. Er kan niet in worden gereageerd."
+
+msgid "Sorry, your message is too long.  Message length: %d, maxmimum allowed length: %d"
+msgstr "Sorry, maar je bericht is te lang. De lengte is %d, het maximum is echter %d"
+
+msgid "Sorry, your search returned zero results."
+msgstr "Sorry, maar je zoekopdracht leverde geen resultaten op."
+
+msgid "Staff"
+msgstr "Leiding"
+
+msgid "Staff member successfully added."
+msgstr "Lid van de leiding succesvol toegevoegd."
+
+msgid "Staff rights"
+msgstr "Rechten van de leiding"
+
+msgid "Staff successfully deleted"
+msgstr "Leiding succesvol verwijderd"
+
+msgid "Staff successfully updated"
+msgstr "Lid van de leiding succesvol geupdate"
+
+msgid "Stickied"
+msgstr "Stickied"
+
+msgid "Stickied thread"
+msgstr "Stickied discussie"
+
+msgid "Sticky"
+msgstr "Sticky"
+
+msgid "Subject"
+msgstr "Onderwerp"
+
+msgid "Text board"
+msgstr "Tekstboard"
+
+msgid "That ID does not exist."
+msgstr "Die ID bestaat niet."
+
+msgid "That ID is a reply, not a thread."
+msgstr "Die ID hoort bij reaktie, niet bij een discussie."
+
+msgid "That IP has already been banned."
+msgstr "Die IP is al gebanned."
+
+msgid "That post has been cleared as not requiring any deletion."
+msgstr "Bij die post staat aangegeven dat deze niet verwijderd hoeft te worden."
+
+msgid "That post is already in the report list."
+msgstr "Die post is al in de rapportenlijst geplaatst."
+
+msgid "That thread has yet to be deleted."
+msgstr "Die discussie moet nog worden verwijderd"
+
+msgid "That video ID has already been posted %shere%s."
+msgstr "Die video ID is %shier%s al gepost."
+
+msgid "That word already exists."
+msgstr "Dat woord bestaat al."
+
+msgid "The 5 newest replies are shown below."
+msgstr "De laatste 5 reakties worden hier beneden weergegeven."
+
+msgid "The directory of the board."
+msgstr "De directory van het board."
+
+msgid "The name of the board."
+msgstr "De naam van het board."
+
+msgid "The number of replies a thread can have before autosaging to the back of the board."
+msgstr "Het aantal reakties dat een discussie kan bevatten, voordat de discussie verplaatst wordt naar de laatste pagina van het board."
+
+msgid "The old password you provided did not match the current one."
+msgstr "Het wachtwoord (oude) dat je invoerde, komt niet overeen met het wachtwoord dat je momenteel gebruikt."
+
+msgid "The second password did not match the first."
+msgstr "De beide entries voor het nieuwe wachtwoord komen niet met elkaar overeen."
+
+msgid "The section the board is in.  This is used for displaying the list of boards on the top and bottom of pages."
+msgstr "De sectie waarin dit board zich bevind. DIt wordt gebruikt voor het weergeven van de boardlijst aan de boven- en onderzijde van de pagina's."
+
+msgid "The style which will be set when the user first visits the board."
+msgstr "De stijl die ingesteld wordt wanneer de gebruiker dit board voor het eerst bezoekt."
+
+msgid "The type of posts which will be accepted on this board.  A normal imageboard will feature image and extended format posts, a text board will have no images, and an Oekaki board will allow users to draw images and use them in their posts."
+msgstr "Het type berichten dat geaccepteert wordt op dit board. Een normaal afbeeldingenboard accepteert afbeeldingen en berichten met uitgebreid tekstformaat. In een tekstboard kunnen geen afbeeldingen worden geplaatst en in een Oekakiboard mogen gebruikers zelf online tekeningen maken en in hun berichten plaatsen."
+
+msgid "There are currently no bans."
+msgstr "Er zijn momenteel geen bans."
+
+msgid "There are currently no filetypes."
+msgstr "Er zijn momenteel geen bestandstypes"
+
+msgid "There are currently no sections."
+msgstr "Er zijn momenteel geen secties."
+
+msgid "There are currently no threads to display."
+msgstr "Er zijn momenteel geen discussies om weer te geven."
+
+msgid "There is already a file with that name."
+msgstr "Een bestand met die naam bestaat al."
+
+msgid "There was an error in trying to delete your post"
+msgstr "Er trad een fout op tijdens het verwijderen van je submit"
+
+msgid "This board does not allow post reporting."
+msgstr "Op dit board is het rapporteren van posts niet toegestaan."
+
+msgid "This post has been deleted."
+msgstr "Deze post is verwijderd."
+
+msgid "Thread"
+msgstr "Discussie"
+
+msgid "Thread successfully deleted."
+msgstr "Discussie succesvol verwijderd."
+
+msgid "Thread successfully locked."
+msgstr "Discussie succesvol vergrendeld."
+
+msgid "Thread successfully stickied."
+msgstr "Discussie succesvol gestickied."
+
+msgid "Thread successfully un-stickied"
+msgstr "Discussie succesvol ontstickied."
+
+msgid "Thread successfully unlocked."
+msgstr "Discussie succesvol ontgrendeld."
+
+msgid "Threads"
+msgstr "Discussies"
+
+msgid "Threads displayed per page (in thread list)"
+msgstr "Discussies weergegeven per pagina (in discussielijst)"
+
+msgid "Thumbnail displayed, click image for full size."
+msgstr "Overzichtsafbeelding weergegeven. Klik op afbeelding voor de volledige grootte."
+
+msgid "Trial"
+msgstr "Proef"
+
+msgid "Unable to clear cache: you do not have caching enabled."
+msgstr "Kan cache niet leegmaken: caching staat uit."
+
+msgid "Unable to connect to:"
+msgstr "Kan geen verbinding maken met:"
+
+msgid "Unable to create directories."
+msgstr "Kan geen directories aanmaken."
+
+msgid "Unable to delete board."
+msgstr "Kan board niet verwijderen."
+
+msgid "Unable to find record of your IP being banned."
+msgstr "Kan geen record vinden met daarin een vermelding dat je IP is gebanned."
+
+msgid "Unable to locate a board named"
+msgstr "Kan geen board vinden genaamd"
+
+msgid "Unable to locate a filetype with that ID."
+msgstr "Kan geen bestandstype vinden met die ID."
+
+msgid "Unable to locate a section with that ID."
+msgstr "Kan geen sectie vinden met die ID."
+
+msgid "Unable to locate that word."
+msgstr "Kan dat woord niet vinden."
+
+msgid "Unable to report post.  Please go back and try again."
+msgstr "Kan post niet rapporteren. Ga aub terug en probeer het opnieuw."
+
+msgid "Unbanned"
+msgstr "Unbanned"
+
+msgid "Unlock"
+msgstr "Ontgrendel"
+
+msgid "Unlocked thread"
+msgstr "Ontgrendelde discussie"
+
+msgid "Unstickied thread"
+msgstr "Unstickied discussie"
+
+msgid "Unsticky"
+msgstr "Unsticky"
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update successful."
+msgstr "Update succesvol."
+
+msgid "Updated board configuration"
+msgstr "Boardconfiguratie geupdate"
+
+msgid "Updated global configuration"
+msgstr "Globale configuratie geupdate"
+
+msgid "Updated staff member"
+msgstr "Lid van de leiding geupdate"
+
+msgid "Updated word on wordfilter"
+msgstr "Woord in woordfilter geupdate."
+
+msgid "Upload type:"
+msgstr "Upload type:"
+
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+msgid "View all bans"
+msgstr "Bekijk alle bans"
+
+msgid "View deleted thread"
+msgstr "Bijkijk verwijderde discussie"
+
+msgid "View/Add/Remove bans"
+msgstr "Bekijk / Voeg toe / Verwijder bans"
+
+msgid "Welcome"
+msgstr "Welkom"
+
+msgid "What filetypes users are allowed to upload."
+msgstr "Welke bestandstypes gebruikers mogen uploaden."
+
+msgid "Whether or not to allow embedding of videos."
+msgstr "Of het wel of niet is toegestaan om video's te embedden."
+
+msgid "Word"
+msgstr "Woord"
+
+msgid "Word successfully added."
+msgstr "Woord succesvol toegevoegd."
+
+msgid "Word successfully removed."
+msgstr "Woord succesvol verwijderd."
+
+msgid "Word successfully updated."
+msgstr "Woord succesvol geupdate."
+
+msgid "Wordfilter"
+msgstr "Woordfilter"
+
+msgid "YOU ARE BANNED"
+msgstr "JE HEBT EEN BAN"
+
+msgid "YOU ARE NOT BANNED!"
+msgstr "JE HEBT GEEN BAN"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You are banned from posting on:"
+msgstr "je bent gebanned van het plaatsen van posts in:"
+
+msgid "You are not a moderator of this board."
+msgstr "Je bent geen moderator van dit board."
+
+msgid "You can only delete posts from boards you moderate."
+msgstr "Je mag alleen posts verwijderen van boards waarin je mag modereren."
+
+msgid "You can only make board specific bans to boards which you moderate."
+msgstr "Je kunt alleen board-specifieke bans plaatsen, in de boards waarin je mag modereren."
+
+msgid "You have been successfully logged out."
+msgstr "Je bent succesvol uitgelogd."
+
+msgid "You must enter a subject."
+msgstr "Je moet een onderwerp ingeven."
+
+msgid "You searched for"
+msgstr "Je zocht voor"
+
+msgid "Your post already doesn't have an image!"
+msgstr "Je submit heeft al geen afbeelding."
+
+msgid "Your posting password"
+msgstr "Je berichtenwachtwoord"
+
+msgid "forever"
+msgstr "voor altijd"
+
+msgid "log out"
+msgstr "Log uit"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  tj9991 https://launchpad.net/~tslocum"
+

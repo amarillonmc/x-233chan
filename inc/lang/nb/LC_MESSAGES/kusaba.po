@@ -1,0 +1,1051 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kusaba\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2007-12-09 14:37+0000\n"
+"Last-Translator: Jonas Braathen <chiisai@chiisai.net>\n"
+"Language-Team: Norwegian <no@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "%s not implemented."
+msgstr "%s ikke implementert."
+
+msgid "(for post and file deletion)"
+msgstr "(for innleggs- og filsletting)"
+
+msgid "<h2>Add News Post</h2>This message will be displayed as it is written, so make sure you add the proper HTML."
+msgstr "<h2>Legg til nyhet</h2> Denne meldingen vil vises slik den er skrevet, så vær sikker på at du legger til riktig HTML."
+
+msgid "A board with that name already exists."
+msgstr "En kategori med det navnet finnes allerede."
+
+msgid "A board with that name does not exist."
+msgstr "En kategori med det navnet finnes ikke."
+
+msgid "A message is required to post without a file."
+msgstr "En melding er nødvendig for å sende et innlegg uten en fil."
+
+msgid "A post with that ID does not exist."
+msgstr "Et inlegg med den ID-en finnes ikke."
+
+msgid "A staff member with that ID already exists."
+msgstr "En ansatt med den ID-en finnes allerede."
+
+msgid "A staff member with that id does not appear to exist."
+msgstr "En ansatt med den ID-en ser ikke ut til å eksistere."
+
+msgid "Add"
+msgstr "Legg til"
+
+msgid "Add ban"
+msgstr "Legg til utestengelse"
+
+msgid "Add board"
+msgstr "Legg til kategori"
+
+msgid "Add news"
+msgstr "Legg til nyhet"
+
+msgid "Add staff member"
+msgstr "Legg til ansatt"
+
+msgid "Add word"
+msgstr "Legg til ord"
+
+msgid "Added a news entry"
+msgstr "La til en nyhet"
+
+msgid "Added board"
+msgstr "La til kategori"
+
+msgid "Added on"
+msgstr "Lagt til"
+
+msgid "Added staff member"
+msgstr "La til en ansatt"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Administration"
+msgstr "Administrering"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Administrators"
+msgstr "Administratorer"
+
+msgid "All Threads"
+msgstr "Alle temaer"
+
+msgid "All boards"
+msgstr "Alle kategorier"
+
+msgid "All threads/posts by that IP in selected boards successfully deleted."
+msgstr "Slettingen av alle temaene/innleggene lagt til med den IP-en var vellykket."
+
+msgid "Already posted %shere%s."
+msgstr "Allerede lagt til %sher%s."
+
+msgid "An image, or message, is required for a reply."
+msgstr "Et bilde eller en melding er påkrevet for et svar."
+
+msgid "Anonymous"
+msgstr "Anonym"
+
+msgid "Ban from"
+msgstr "Utesteng fra"
+
+msgid "Ban successfully placed."
+msgstr "Utestengelse satt."
+
+msgid "Ban successfully removed."
+msgstr "Utestengelse fjernet."
+
+msgid "Banned"
+msgstr "Utestengt"
+
+msgid "Banned from"
+msgstr "Utestengt fra"
+
+msgid "Board"
+msgstr "Kategori"
+
+msgid "Board options"
+msgstr "Kategoriopsjoner"
+
+msgid "Board successfully added."
+msgstr "Kategori lagt til."
+
+msgid "Board type:"
+msgstr "Kategoritype:"
+
+msgid "Boards"
+msgstr "Kategorier"
+
+msgid "Cache successfully flushed."
+msgstr "Mellomlagring slettet."
+
+msgid "Can be left blank."
+msgstr "Kan forbli blank."
+
+msgid "Can not be left blank."
+msgstr "Kan ikke forbli blank."
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Change account password"
+msgstr "Endre passord på konto"
+
+msgid "Check for new version"
+msgstr "Sjekk for ny versjon."
+
+msgid "Cleanup"
+msgstr "Rydd opp"
+
+msgid "Cleanup finished."
+msgstr "Opprydning ferdig"
+
+msgid "Click Reply to view."
+msgstr "Klikk for å vise"
+
+msgid "Click to show/hide"
+msgstr "Klikk for å vise/skjule"
+
+msgid "Continue"
+msgstr "Fortsett"
+
+msgid "Could not copy uploaded image."
+msgstr "Kunne ikke kopiere det opplastede bildet"
+
+msgid "Could not create thumbnail."
+msgstr "Kunne ikke lage miniatyrbilde."
+
+msgid "Current version:"
+msgstr "Nåværende versjon:"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Days to keep modlog entries"
+msgstr "Dager moderatorlogger skal beholdes"
+
+msgid "Default"
+msgstr "Standard"
+
+msgid "Default style:"
+msgstr "Standar stil:"
+
+msgid "Delete"
+msgstr "Slett"
+
+msgid "Delete all posts by IP"
+msgstr "Slett alle innlegg etter IP"
+
+msgid "Delete all posts by this IP"
+msgstr "Slett alle poster med denne IP-en"
+
+msgid "Delete board"
+msgstr "Slett kategori"
+
+msgid "Delete post"
+msgstr "Slett innlegg"
+
+msgid "Delete posts"
+msgstr "Slett innlegg"
+
+msgid "Delete thread"
+msgstr "Slett emne"
+
+msgid "Delete thread/post"
+msgstr "Slett emne/innlegg"
+
+msgid "Deleted board"
+msgstr "Slettet kategori"
+
+msgid "Deleted post"
+msgstr "Slettet innlegg"
+
+msgid "Deleted posts by ip"
+msgstr "Slettet innlegg etter IP"
+
+msgid "Deleted staff member"
+msgstr "slettet en ansatt"
+
+msgid "Deleted thread"
+msgstr "Slettet emne"
+
+msgid "Description"
+msgstr "Beskrivelse"
+
+msgid "Directory"
+msgstr "Katalog"
+
+msgid "Disk space used"
+msgstr "Diskforbruk"
+
+msgid "Does not expire"
+msgstr "Utgår ikke"
+
+msgid "Duplicate file entry detected."
+msgstr "To like filer detektert."
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "Edit word"
+msgstr "Editer ord"
+
+msgid "Email"
+msgstr "E-post"
+
+msgid "Embed"
+msgstr "Innfell"
+
+msgid "Embedding only"
+msgstr "Kunn innfelte"
+
+msgid "Enable \"no file\" posting"
+msgstr "Sett til «ingen fil» innlegg"
+
+msgid "Enable captcha:"
+msgstr "Skru på CAPTCHA:"
+
+msgid "Enable reporting:"
+msgstr "Skru på rapportering:"
+
+msgid "Enable/disable captcha system for this board.  If captcha is enabled, in order for a user to post, they must first correctly enter the text on an image."
+msgstr "Skru på/av CAPTCHA-systemet for denne kategorien. Hvis CAPTCHA er på, for å sende inn et innlegg, må de først gjengi teksten i bildet korrekt."
+
+msgid "Error, it appears your file did not transfer properly.  Please go back and try again."
+msgstr "Feil: Det virker som om filen din ikke ble overført riktig. Vennligst gå tilbake og prøv igjen."
+
+msgid "Expires:"
+msgstr "Utgår:"
+
+msgid "Extension icon displayed, click image to open file."
+msgstr "Filtypeikon vist, klikk på bildet for å åpne filen."
+
+msgid "File"
+msgstr "Fil"
+
+msgid "File Only"
+msgstr "Kun fil"
+
+msgid "File was not fully uploaded.  Please go back and try again."
+msgstr "Filen ble ikke fullstendig opplastet. Vennligst gå tilbake og prøv igjen."
+
+msgid "Filetype added."
+msgstr "Filtype lagt til."
+
+msgid "Filetype deleted."
+msgstr "Filtype slettet."
+
+msgid "Filetype updated."
+msgstr "Filtype oppdatert."
+
+msgid "Forced anonymous"
+msgstr "Tvunget anonymitet"
+
+msgid "Front Page"
+msgstr "Forsiden"
+
+msgid "Get posting password"
+msgstr "Få innleggspassord"
+
+msgid "Global configuration succesfully updated."
+msgstr "Global konfigurasjon oppdatert."
+
+msgid "Global options"
+msgstr "Globale opsjoner"
+
+msgid "Go"
+msgstr "Utfør"
+
+msgid "Header image"
+msgstr "Overskriftsbilde"
+
+msgid "Hide Directories"
+msgstr "Skjul kataloger"
+
+msgid "Home"
+msgstr "Hjem"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "If set to yes, new threads will not require an image to be posted."
+msgstr "Hvis satt til ja vil nye emner ikke kreve et bilde."
+
+msgid "If set to yes, this board will appear in bold in the menu"
+msgstr "Hvis satt til ja vil denne kategorien vises i uthevet skrift"
+
+msgid "If set to yes, this board will appear in italics in the menu"
+msgstr "Hvis satt til ja vil denne kategorien vises i kursiv skrift"
+
+msgid "If set to yes, users will be redirected to the thread they replied to/posted after posting.  If set to no, users will be redirected to the first page of the board."
+msgstr "Hvis satt til ja vil brukere bli redirigert til emnet de svarte på etter at det er sendt inn. Hvis satt til nei vil brukere bli redirigert til den første siden i kategorien."
+
+msgid "If set to yes, users will not be allowed to enter a name, making everyone appear as Anonymous"
+msgstr "Hvis satt til ja vil brukere ikke kunne sette inn et navn, noe som får alle til å virke anonyme."
+
+msgid "Image"
+msgstr "Bilde"
+
+msgid "Image successfully deleted from your post."
+msgstr "Bildesletting vellykket."
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Images and embedding"
+msgstr "Bilder og innfelling"
+
+msgid "Improper filetype."
+msgstr "Ugyldig filtype."
+
+msgid "Include header"
+msgstr "Overskriftsinkludering"
+
+msgid "Incorrect password."
+msgstr "Ugyldig passord."
+
+msgid "Incorrect username/password."
+msgstr "Ugyldig brukernavn/passord."
+
+msgid "Index"
+msgstr "Indeks"
+
+msgid "Inject"
+msgstr "Injiser"
+
+msgid "Integer values must be entered correctly."
+msgstr "Numeriske verdier må være skrevet korrekt."
+
+msgid "Invalid ID"
+msgstr "Ugyldig ID"
+
+msgid "Invalid ban ID"
+msgstr "Ugildig utestengelsesid"
+
+msgid "Invalid board directory."
+msgstr "Ugyldig kategorikatalog."
+
+msgid "Invalid response code:"
+msgstr "Ugyldig responskode."
+
+msgid "Invalid session."
+msgstr "Ugyldig sesjon"
+
+msgid "Invalid staff ID."
+msgstr "Ugyldig ansattes ID."
+
+msgid "Invalid thread ID.  This may have been caused by the thread recently being deleted."
+msgstr "Ugyldig tema-ID. Dette kan ha vært forårsaket av at temaet nylig ble slettet."
+
+msgid "Invalid video ID."
+msgstr "Ugildig video-ID"
+
+msgid "Invalid video type."
+msgstr "Ugyldig videotype."
+
+msgid "Is replaced by"
+msgstr "Er erstattet av"
+
+msgid "Last Post"
+msgstr "Siste innlegg"
+
+msgid "Lock"
+msgstr "Lås"
+
+msgid "Locked"
+msgstr "Låst"
+
+msgid "Locked thread"
+msgstr "Låste emne"
+
+msgid "Log in again."
+msgstr "Logg inn igjen."
+
+msgid "Logged in"
+msgstr "Logget inn"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Manage boards"
+msgstr "Administrer kategorier."
+
+msgid "Manage locked threads"
+msgstr "Moderer låste emner"
+
+msgid "Manage stickies"
+msgstr "Moderer prioriterte emner"
+
+msgid "Maximum board pages"
+msgstr "Maksimum antall kategorisider"
+
+msgid "Maximum image size"
+msgstr "Maksimum bildestørelse"
+
+msgid "Maximum message length"
+msgstr "Maksimum innlegsslengde"
+
+msgid "Maximum thread age (Hours)"
+msgstr "Maksimum emnealder (Timer)"
+
+msgid "Maximum thread replies"
+msgstr "Maksimum emnesvar."
+
+msgid "Maxmimum size of uploaded images, in <b>bytes</b>."
+msgstr "Maksimum størelse på de opplastede bildene i <b>bytes</b>"
+
+msgid "Maxmimum thumbnail height"
+msgstr "Maksmimum miniatyrbildehøyde"
+
+msgid "Maxmimum thumbnail width"
+msgstr "Maksimum miniatyrbildebredde"
+
+msgid "Message"
+msgstr "Melding"
+
+msgid "Misc"
+msgstr "Diverse"
+
+msgid "Mod"
+msgstr "Mod"
+
+msgid "ModLog"
+msgstr "Moderatorlogg"
+
+msgid "Moderates"
+msgstr "Modererer"
+
+msgid "Moderating boards"
+msgstr "Modererer kategorier"
+
+msgid "Moderation"
+msgstr "Moderering"
+
+msgid "Moderator"
+msgstr "Moderator"
+
+msgid "Moderators"
+msgstr "Moderatorer"
+
+msgid "Modify staff member"
+msgstr "Modifiser ansatt"
+
+msgid "More"
+msgstr "Flere"
+
+msgid "NOTICE: You are using the default administrator account.  Anyone can log in to this account, so a second administrator account needs to be created.  Create another, log in to it, and delete this one."
+msgstr "MERK: Du bruker den standar administratorkontoen. Alle kan logge inn på denne, så en administratorkonto nummer to må lages. Lag en ny, logg inn, og slett denne."
+
+msgid "Name"
+msgstr "Navn"
+
+msgid "Never"
+msgstr "Aldri"
+
+msgid "New Thread"
+msgstr "Nytt tema"
+
+msgid "New password"
+msgstr "Nytt passord"
+
+msgid "New password again"
+msgstr "Nytt passord igjen"
+
+msgid "News"
+msgstr "Nyheter"
+
+msgid "News entry successfully added."
+msgstr "Nyhet lagt til."
+
+msgid "Next"
+msgstr "Neste"
+
+msgid "No"
+msgstr "Nei"
+
+msgid "No File"
+msgstr "Ingen fil"
+
+msgid "No boards"
+msgstr "Ingen kategorier"
+
+msgid "No embedding"
+msgstr "Ingen innfelling"
+
+msgid "No visible boards"
+msgstr "Ingen synlige kategorier"
+
+msgid "None"
+msgstr "Ingen"
+
+msgid "Normal imageboard"
+msgstr "Normal bildekategori"
+
+msgid "Oekaki imageboard"
+msgstr "Oekakibildekategori"
+
+msgid "Old password"
+msgstr "Gammelt passord"
+
+msgid "Only moderators of the board and admins can make new posts/replies"
+msgstr "Kun moderatorene over kategoriene og administratorene kan lage nye innlegg."
+
+msgid "Open images in new window"
+msgstr "Åpne bilder i et nytt vindu"
+
+msgid "Order"
+msgstr "Rekkefølge"
+
+msgid "Order to show board in menu list, in ascending order."
+msgstr "Rekkefølgen som kategoriene skal vises i, i stigende rekkefølge."
+
+msgid "Overrides the header set in the config file.  Leave blank to use configured global header image.  Needs to be a full url including http://.  Set to none to show no header image."
+msgstr "Overskrider overskriften som er i konfigurasjonsfilen. La den være blank for å bruke den globale overskriften. Må være en full URL inkludert «http://». Sett til ingen for å ikke vise et overskriftsbilde."
+
+msgid "Password"
+msgstr "Passord"
+
+msgid "Password successfully changed."
+msgstr "Endring av passord fullført."
+
+msgid "Placed:"
+msgstr "Satt:"
+
+msgid "Please enter a positive amount of seconds, or zero for a permanent ban."
+msgstr "Vennligst sett inn et positivt antall sekunder, eller null for en permanent utestengelse."
+
+msgid "Please enter a search query."
+msgstr "Vennligst sett inn en søkestreng."
+
+msgid "Please fill in all required fields."
+msgstr "Vennligst fyll inn alle nødvendige felt."
+
+msgid "Please make sure your file is smaller than %dB"
+msgstr "Vennligst sjekk at filen din er mindre enn %dB"
+
+msgid "Please select a board."
+msgstr "Vennligst velg en kategori."
+
+msgid "Please select only one image to upload."
+msgstr "Vennligst velg kun ett bilde for opplasting."
+
+msgid "Popular"
+msgstr "Populær"
+
+msgid "Post"
+msgstr "Innlegg"
+
+msgid "Post preview"
+msgstr "Forhåndsvisning av innlegg"
+
+msgid "Post successfully deleted."
+msgstr "Innlegg slettet."
+
+msgid "Postbox notice"
+msgstr "Bostboks notis"
+
+msgid "Posting a blacklisted link."
+msgstr "Postet en svartelistet link."
+
+msgid "Posting mode: Reply"
+msgstr "Innleggsmodus: Svar"
+
+msgid "Posting rates (past hour)"
+msgstr "Innleggsrater (forrige time)"
+
+msgid "Posts"
+msgstr "Innlegg"
+
+msgid "Presets"
+msgstr "Forhåndsvalg"
+
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+msgid "Previous"
+msgstr "Forrige"
+
+msgid "Query"
+msgstr "Spørring"
+
+msgid "Query executed successfully"
+msgstr "Spørring gjennomført"
+
+msgid "Quick Reply"
+msgstr "Hurtigsvar"
+
+msgid "Ran cleanup"
+msgstr "Kjørte opprydning"
+
+msgid "Raw HTML which will be inserted at the top of each page of the board."
+msgstr "Rå HTML som skal settes på toppen av hver side."
+
+msgid "Read this thread from the beginning"
+msgstr "Les dette emnet fra begynnelsen"
+
+msgid "Reason"
+msgstr "Årsak"
+
+msgid "Reason:"
+msgstr "Årsak:"
+
+msgid "Rebuild complete.  Took <b>%d</b> seconds."
+msgstr "Gjenoppbygging ferdig. Tok <b>%d</b> sekunder."
+
+msgid "Rebuilt all boards and threads"
+msgstr "Gjenoppbygget alle kategoriene og emnene"
+
+msgid "Redirect to thread"
+msgstr "Rediriger til emne"
+
+msgid "Redirecting"
+msgstr "Redirigerer"
+
+msgid "Regenerated %s"
+msgstr "Regenererte %s"
+
+msgid "Remove"
+msgstr "Fjern"
+
+msgid "Removed word from wordfilter"
+msgstr "Fjernet et ord i ordfilteret"
+
+msgid "Replies"
+msgstr "Svar"
+
+msgid "Replies displayed per stickied thread (in thread list)"
+msgstr "Svar vist per prioriterte emne (i emnelisten)"
+
+msgid "Replies displayed per thread (in thread list)"
+msgstr "Svar vist per emne (i emnelisten)"
+
+msgid "Reply"
+msgstr "Svar"
+
+msgid "Report"
+msgstr "Rapporter"
+
+msgid "Reporting allows users to report posts, adding the post to the report list."
+msgstr "Rapportering tillater brukere å rapportere innlegg, noe som legger til innleggene på rapporteringslisten."
+
+msgid "Results"
+msgstr "Resultater"
+
+msgid "Return"
+msgstr "Returner"
+
+msgid "SQL query"
+msgstr "SQL-spørring"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Search posts"
+msgstr "Søk i innleggene"
+
+msgid "Seconds"
+msgstr "Sekunder"
+
+msgid "Section"
+msgstr "Seksjon"
+
+msgid "Section added."
+msgstr "Seksjon lagt til."
+
+msgid "Section deleted."
+msgstr "Seksjon slettet."
+
+msgid "Section updated."
+msgstr "Seksjon oppdatert."
+
+msgid "Show Directories"
+msgstr "Vis kataloger"
+
+msgid "Show Posting Password"
+msgstr "Vis innlegspassordet"
+
+msgid "Shown below"
+msgstr "Vist nedenfor"
+
+msgid "Size"
+msgstr "Størrelse"
+
+msgid "Sorry, a generic error has occurred."
+msgstr "Beklager, en ukjent feil oppstod."
+
+msgid "Sorry, because of your numerous failed logins, you have been locked out from logging in for 20 minutes.  Please wait and then try again."
+msgstr "Beklager, grunnet dine gjentatte innloggingsforsøk har du nå blitt utestengt i 20 minutter. Vennligst vent til da og prøv igjen."
+
+msgid "Sorry, that filetype is not allowed on this board."
+msgstr "Beklager, den filtypen er ikke tillat i denne kategorien."
+
+msgid "Sorry, this board is locked and can not be posted in."
+msgstr "Beklager, denne kategorien er låst og kan ikke bli postet i."
+
+msgid "Sorry, this thread is locked and can not be replied to."
+msgstr "Beklager, dette temaet er låst og kan ikke bli svart på."
+
+msgid "Sorry, your message is too long.  Message length: %d, maxmimum allowed length: %d"
+msgstr "Beklager, meldingen din er for lang. Din melding: %d, maksimum meldingslengde: %d"
+
+msgid "Sorry, your search returned zero results."
+msgstr "Beklager, søket ditt returnerte null resultater."
+
+msgid "Staff"
+msgstr "Ansatte"
+
+msgid "Staff member successfully added."
+msgstr "Ansatt lagt til."
+
+msgid "Staff rights"
+msgstr "Ansattes rettigheter"
+
+msgid "Staff successfully deleted"
+msgstr "Ansatt slettet"
+
+msgid "Staff successfully updated"
+msgstr "Oppdatering av ansatte vellykket."
+
+msgid "Stickied"
+msgstr "Prioritert"
+
+msgid "Stickied thread"
+msgstr "Prioriterte emnet"
+
+msgid "Sticky"
+msgstr "Prioriter"
+
+msgid "Subject"
+msgstr "Tittel"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Text board"
+msgstr "Tekstkategori"
+
+msgid "That ID does not exist."
+msgstr "Den ID-en finnes ikke."
+
+msgid "That ID is a reply, not a thread."
+msgstr "Den ID-en er et innlegg, ikke et tema."
+
+msgid "That IP has already been banned."
+msgstr "Den IP-en er allerede utestengt."
+
+msgid "That post has been cleared as not requiring any deletion."
+msgstr "Det innlegget har allerede blitt klarert og krevde ikke sletting."
+
+msgid "That post is already in the report list."
+msgstr "Det innlegget er allerede i rapporteringslisten."
+
+msgid "That thread has yet to be deleted."
+msgstr "Det temaet er ikke slettet enda."
+
+msgid "That video ID has already been posted %shere%s."
+msgstr "Den video-ID-en har allerede blitt lagt til %sher%s."
+
+msgid "That word already exists."
+msgstr "Det ordet finnes allerede."
+
+msgid "The 5 newest replies are shown below."
+msgstr "De 5 nyeste innleggene er vist under."
+
+msgid "The directory of the board."
+msgstr "Katalogen til kategorien."
+
+msgid "The name of the board."
+msgstr "Navnet på kategorien."
+
+msgid "The number of replies a thread can have before autosaging to the back of the board."
+msgstr "Antall svar et emne kan ha før det autosages til slutten av kategorien."
+
+msgid "The old password you provided did not match the current one."
+msgstr "Det gamle passordet du oppgav stemmer ikke overens med det du har nå."
+
+msgid "The second password did not match the first."
+msgstr "Det andre passordet stemmer ikke overens med det første."
+
+msgid "The section the board is in.  This is used for displaying the list of boards on the top and bottom of pages."
+msgstr "Seksjonen kategorien er i. Dette er brukt for å vise listen over kategoriene på toppen og bunnen av sidene."
+
+msgid "The style which will be set when the user first visits the board."
+msgstr "Den stilen som vil bli benyttet når en bruker besøker kategorien for første gang."
+
+msgid "The type of posts which will be accepted on this board.  A normal imageboard will feature image and extended format posts, a text board will have no images, and an Oekaki board will allow users to draw images and use them in their posts."
+msgstr "Typer innlegg som vil bli akseptert i denne kategorien. En normal bildekategori vil inneholde bilder og formaterte innlegg, en tekstkategori vil ha ingen bilder, og en Oekakikategori vil tillate brukere å tegne bilder og bruke dem i innleggene sine."
+
+msgid "There are currently no bans."
+msgstr "Det er foreløpig ingen utestengelser."
+
+msgid "There are currently no filetypes."
+msgstr "Det er foreløpig ingen filtyper."
+
+msgid "There are currently no sections."
+msgstr "det er foreløpig ingen seksjoner."
+
+msgid "There are currently no threads to display."
+msgstr "Det er foreløpig ingen emner å vise"
+
+msgid "There is already a file with that name."
+msgstr "Det finnes allerede en fil med det navnet."
+
+msgid "There was an error in trying to delete your post"
+msgstr "Det skjedde en feil i forsøket på å slettet ditt innlegg"
+
+msgid "This board does not allow post reporting."
+msgstr "Denne kategorien tillater ikke at innlegg blir rapportert."
+
+msgid "This post has been deleted."
+msgstr "Dette innlegget har blitt slettet."
+
+msgid "Thread"
+msgstr "Tråd"
+
+msgid "Thread successfully deleted."
+msgstr "Emne slettet."
+
+msgid "Thread successfully locked."
+msgstr "Emne låst."
+
+msgid "Thread successfully stickied."
+msgstr "Emnet ble prioritert."
+
+msgid "Thread successfully un-stickied"
+msgstr "Emnet ble deprioritert"
+
+msgid "Thread successfully unlocked."
+msgstr "Emne låst opp."
+
+msgid "Threads"
+msgstr "Tråder"
+
+msgid "Threads displayed per page (in thread list)"
+msgstr "Emner vist per side (i emnelisten)"
+
+msgid "Thumbnail displayed, click image for full size."
+msgstr "Miniatyrbilde vist. Klikk for å vise det i full størelse."
+
+msgid "Trial"
+msgstr "På prøve"
+
+msgid "Unable to clear cache: you do not have caching enabled."
+msgstr "Kunne ikke slette mellomlagringen: Du har ikke mellomlagring skrudd på."
+
+msgid "Unable to connect to:"
+msgstr "Kunne ikke koble til:"
+
+msgid "Unable to create directories."
+msgstr "Kunne ikke lage katalogene."
+
+msgid "Unable to find record of your IP being banned."
+msgstr "Kunne ikke finne noe som tyder på at din IP er utestengt."
+
+msgid "Unable to locate a board named"
+msgstr "Kunne ikke lokalisere en kategori med navn"
+
+msgid "Unable to locate a filetype with that ID."
+msgstr "Kunne ikke lokalisere en filtype med den ID-en."
+
+msgid "Unable to locate a section with that ID."
+msgstr "Kunne ikke lokalisere en seksjon med den ID-en."
+
+msgid "Unable to locate that word."
+msgstr "Kunne ikke lokalisere det ordet."
+
+msgid "Unable to report post.  Please go back and try again."
+msgstr "Kunne ikke rapportere innlegget. Vennligst gå tilbake og prøv igjen."
+
+msgid "Unbanned"
+msgstr "Tilgitt"
+
+msgid "Unlock"
+msgstr "Lås opp"
+
+msgid "Unlocked thread"
+msgstr "Låste opp emnet"
+
+msgid "Unstickied thread"
+msgstr "Deprioriterte emnet"
+
+msgid "Unsticky"
+msgstr "De-prioriter"
+
+msgid "Update"
+msgstr "Oppdater"
+
+msgid "Update successful."
+msgstr "Oppdatering vellykket."
+
+msgid "Updated board configuration"
+msgstr "Oppdaterte kategorikonfigurasjon"
+
+msgid "Updated global configuration"
+msgstr "Oppdaterte global konfigurasjon"
+
+msgid "Updated staff member"
+msgstr "Oppdaterte en ansatt"
+
+msgid "Updated word on wordfilter"
+msgstr "Oppdaterte et ord i ordfileter"
+
+msgid "Upload type:"
+msgstr "Opplastningstype:"
+
+msgid "Username"
+msgstr "Brukernavn"
+
+msgid "View deleted thread"
+msgstr "Vis slettede emner"
+
+msgid "View/Add/Remove bans"
+msgstr "Vis/Legg til/Fjern utestengelser"
+
+msgid "Welcome"
+msgstr "Velkommen"
+
+msgid "What filetypes users are allowed to upload."
+msgstr "Hvilke filtyper brukerene kan laste opp."
+
+msgid "Whether or not to allow embedding of videos."
+msgstr "Om det skal godkjennes innfellte videoer."
+
+msgid "Word"
+msgstr "Ord"
+
+msgid "Word successfully added."
+msgstr "Ord lagt til."
+
+msgid "Word successfully removed."
+msgstr "Ord fjernet"
+
+msgid "Word successfully updated."
+msgstr "Ord oppdatert."
+
+msgid "Wordfilter"
+msgstr "Ordfilter"
+
+msgid "YOU ARE BANNED"
+msgstr "DU ER UTESTENGT"
+
+msgid "YOU ARE NOT BANNED!"
+msgstr "DU ER UTESTENGT!"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "You are banned from posting on:"
+msgstr "Du er utestengt fra:"
+
+msgid "You are not a moderator of this board."
+msgstr "du er ikke en moderator for denne kategorien."
+
+msgid "You can only delete posts from boards you moderate."
+msgstr "Du kan bare slette innlegg fra kategorier du modererer."
+
+msgid "You can only make board specific bans to boards which you moderate."
+msgstr "Du kan bare lage kategorispesifiserte utestengelser for kategorier du modererer."
+
+msgid "You have been successfully logged out."
+msgstr "Utlogging vellykket."
+
+msgid "You must enter a subject."
+msgstr "Du må skrive et tema."
+
+msgid "You searched for"
+msgstr "Du søkte etter"
+
+msgid "Your post already doesn't have an image!"
+msgstr "Ditt innlegg har ingen bilder å slette!"
+
+msgid "Your posting password"
+msgstr "Ditt passord"
+
+msgid "and"
+msgstr "og"
+
+msgid "forever"
+msgstr "for alltid"
+
+msgid "log in"
+msgstr "Logg inn."
+
+msgid "log out"
+msgstr "Logg ut"
+
+msgid "omitted"
+msgstr "hoppet over"
+
+msgid "or"
+msgstr "eller"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Amethana <https://launchpad.net/~amethana>\n"
+"  tj9991 <https://launchpad.net/~tslocum>\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Amethana https://launchpad.net/~amethana\n"
+"  Jonas Braathen https://launchpad.net/~braathen\n"
+"  Praetox https://launchpad.net/~xern01"
+

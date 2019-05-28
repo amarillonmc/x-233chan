@@ -1,0 +1,142 @@
+/*
+This css file was created by Harrison for 24chan.org. Use anywhere else without permission is prohibited.
+Contact: HarrisonHopkins@Gmail.com
+*/
+body {
+	font-family: sans-serif;
+	background: #000;
+	color: #FFF;
+	margin: 0;
+	font-size: 75%;
+	width: 90%;
+}
+
+#topmenu li {
+	display: block;
+	float: left;
+	border: 1px solid #888;
+	padding-top: 3px;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-left: none;
+	margin-top: -7px;
+	background-color: #666;
+}
+
+#topmenu li.first {
+	border-left: 1px solid #888;
+}
+
+#topmenu li.current {
+	margin-top: -8px;
+	padding-top: 5px;
+	border-bottom: none;
+	background-color: #444;
+	background-image: url('/css/images/grad-bg.png');
+	background-repeat: repeat-x;
+}
+a {
+	color: #CCC;
+	text-decoration: none;
+}
+
+h2 {
+	margin-top: 0px;
+	background: #444;
+	font-size: 100%;
+	padding: 1px 5px 1px 5px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius-topleft: 0px;
+}
+
+h2 a {
+	text-decoration: none;
+	color: #CCC;
+}
+
+h1, h3, .menu {
+	font-family: Verdana,Tahoma,sans-serif;
+}
+
+h1 {
+	margin: 0;
+	color: #FFF;
+	text-align: center;
+	margin-top: 1em;
+}
+
+h3 {
+	margin: 0;
+	color: #FFF;
+	text-align: center;
+	font-weight: normal;
+	font-size: medium;
+}
+
+.menu {
+	margin-top: 1em;
+	text-align: center;
+}
+
+.content {
+	margin-left: 3em;
+	text-align: justify;
+	padding-left: 4px;
+}
+
+.newssub {
+	position: absolute;
+}
+
+.permalink {
+	text-align: right;
+	display: block;
+}
+
+.permalink a {
+	color: #CCC;
+	text-decoration: underline;
+}
+
+
+#boards .column {
+	float: left;
+	width: 33%;
+	height: 200px;
+	padding-bottom: 10px;
+	border-left: 1px solid #444;
+	border-right: 1px solid #444;
+	border-bottom: 1px solid #444;
+}
+
+ul {list-style: none;}
+
+h4 {
+text-align: center;
+}
+
+#boards a:hover {
+	text-decoration: underline;
+}
+
+#boardhead {
+	text-align: center;
+	background-color: #444;
+	height: 20px;
+margin-top: 15px;
+	padding-top: 0px;
+	padding-bottom: 3px;
+	font-size: 150%;
+	background-image: url('/css/images/grad-bg.png');
+	background-repeat: repeat-x;
+	-moz-border-radius-topleft: 2px;
+	-moz-border-radius-topright: 2px;
+}
+
+h4 {
+	font-size: 100%;
+	font-weight: bold;
+	margin-top: 16px;
+}

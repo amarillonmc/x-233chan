@@ -1,0 +1,62 @@
+.quote {
+	border-left: solid 2px #666;
+	padding: 0px 0px 0px 10px;
+	margin: 3px 0px;
+	display: block;
+}
+
+.quote .quote {
+	border-left: solid 2px #888;
+}
+
+.quote .quote .quote {
+	border-left: solid 2px #aaa;
+}
+
+.quote:hover {
+	background: #f0f0e0;
+}
+
+.spoiler {
+	color: black;
+	background-color: black;
+}
+
+.aa {
+	text-align: left;
+	font: 100% Mona, IPAMonaPGothic, 'MS PGothic' !important;
+}
+
+.o {
+	text-decoration: overline;
+}
+
+tt {
+	font-size: smaller;
+}
+
+.navlinks {
+	float: right;
+}
+
+.navlinks a {
+	text-decoration: none;
+}
+
+.threadlinks {
+	text-align: right;
+}
+
+.threadlinks a {
+	font-weight: bold;
+}
+
+.userdelete {
+	float: right;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.abbrev {
+	color: #707070;
+}

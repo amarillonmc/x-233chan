@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kusaba\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2008-03-10 18:31+0000\n"
+"Last-Translator: Tiago Silva <Unknown>\n"
+"Language-Team: Portuguese <pt@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "Add"
+msgstr "Adicionar"
+
+msgid "Add news"
+msgstr "Adicionar notícias"
+
+msgid "Add word"
+msgstr "Adicionar palavra"
+
+msgid "Administration"
+msgstr "Administração"
+
+msgid "Administrator"
+msgstr "Administrador"
+
+msgid "Administrators"
+msgstr "Administradores"
+
+msgid "All boards"
+msgstr "Todos os conselhos"
+
+msgid "An image, or message, is required for a reply."
+msgstr "É necessário uma imagem ou mensagem para enviar uma resposta."
+
+msgid "Anonymous"
+msgstr "Anónimo"
+
+msgid "Banned"
+msgstr "Banido"
+
+msgid "Board"
+msgstr "Conselho"
+
+msgid "Boards"
+msgstr "Conselhos"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Catalog Mode"
+msgstr "Modo de Catálogo"
+
+msgid "Change account password"
+msgstr "Mudar senha de conta"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Could not create thumbnail."
+msgstr "Não foi possível criar uma miniatura."
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Description"
+msgstr "Descrição"
+
+msgid "Directory"
+msgstr "Directório"
+
+msgid "Edit sections"
+msgstr "Editar secções"
+
+msgid "Edit word"
+msgstr "Editar palavra"
+
+msgid "Email"
+msgstr "Correio Electrónico"
+
+msgid "Expand all images"
+msgstr "Expandir todas as imagens"
+
+msgid "File"
+msgstr "Ficheiro"
+
+msgid "File<br>Removed"
+msgstr ""
+"Copy text   \t\r\n"
+"Ficheiro<br>Removido"
+
+msgid "From"
+msgstr "De"
+
+msgid "Global options"
+msgstr "Opções globais"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Hide Directories"
+msgstr "Ocultar Directórios"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Images"
+msgstr "Imagens"
+
+msgid "Important"
+msgstr "Importante"
+
+msgid "Improper filetype."
+msgstr "Tipo de ficheiro impróprio."
+
+msgid "Include header"
+msgstr "Incluir cabeçalho"
+
+msgid "Incorrect password."
+msgstr "Senha incorrecta."
+
+msgid "Incorrect username/password."
+msgstr "Nome de utilizador/senha incorrectos."
+
+msgid "Index"
+msgstr "Índice"
+
+msgid "Invalid MIME type for this filetype."
+msgstr "Tipo MIME inválido para este tipo de ficheiro."
+
+msgid "Invalid response code:"
+msgstr "Código de resposta inválido:"
+
+msgid "Invalid session."
+msgstr "Sessão inválida."
+
+msgid "Invalid video type."
+msgstr "Tipo de vídeo inválido."
+
+msgid "Lock"
+msgstr "Bloquear"
+
+msgid "Logo"
+msgstr "Logótipo"
+
+msgid "Manage"
+msgstr "Gerir"
+
+msgid "Message"
+msgstr "Mensagem"
+
+msgid "Message too long. Click %shere%s to view the full text."
+msgstr "Mensagem demasiado longa. Pressione %aquis%s para ver o texto na íntegra."
+
+msgid "Misc"
+msgstr "Vários"
+
+msgid "Moderates"
+msgstr "Modera"
+
+msgid "Moderating boards"
+msgstr "Conselhos de moderação"
+
+msgid "Moderation"
+msgstr "Moderação"
+
+msgid "Moderator"
+msgstr "Moderador"
+
+msgid "Moderators"
+msgstr "Moderadores"
+
+msgid "Modify"
+msgstr "Modificar"
+
+msgid "Modules"
+msgstr "Módulos"
+
+msgid "More"
+msgstr "Mais"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "New image"
+msgstr "Nova imagem"
+
+msgid "News"
+msgstr "Notícias"
+
+msgid "Next"
+msgstr "Seguinte"
+
+msgid "No"
+msgstr "Não"
+
+msgid "No boards"
+msgstr "Não há conselhos"
+
+msgid "Pages"
+msgstr "Páginas"
+
+msgid "Paint with"
+msgstr "Pintar com"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Password successfully changed."
+msgstr "Senha alterada com sucesso."
+
+msgid "Please fill in all required fields."
+msgstr "Por favor, preencha todos os campos requeridos"
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Post"
+msgstr "Publicar"
+
+msgid "Preview"
+msgstr "Previsualizar"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "Quick Reply"
+msgstr "Resposta Rápida"
+
+msgid "Reason"
+msgstr "Motivo"
+
+msgid "Reason:"
+msgstr "Motivo:"
+
+msgid "Regular expression"
+msgstr "Expressão regular"
+
+msgid "Remove"
+msgstr "Remover"
+
+msgid "Replies"
+msgstr "Respostas"
+
+msgid "Reply"
+msgstr "Resposta"
+
+msgid "Reports"
+msgstr "Relatórios"
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "Rules"
+msgstr "Regras"
+
+msgid "Seconds"
+msgstr "Segundos"
+
+msgid "Section"
+msgstr "Secção"
+
+msgid "Section added."
+msgstr "Secção adicionada."
+
+msgid "Section deleted."
+msgstr "Secção eliminada."
+
+msgid "Section updated."
+msgstr "Secção actualizada."
+
+msgid "Show Directories"
+msgstr "Mostrar Directórios"
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Sorry, a generic error has occurred."
+msgstr "Lamento, ocorreu um erro genérico."
+
+msgid "Sorry, your message is too long.  Message length: %d, maxmimum allowed length: %d"
+msgstr "Lamento, mas a sua mensagem é demasiado extensa: %d, comprimento máximo permitido: %d"
+
+msgid "Statistics"
+msgstr "Estatísticas"
+
+msgid "Style"
+msgstr "Estilo"
+
+msgid "Styles"
+msgstr "Estilos"
+
+msgid "Subject"
+msgstr "Assunto"
+
+msgid "Submit"
+msgstr "Submeter"
+
+msgid "Tag"
+msgstr "Etiqueta"
+
+msgid "That name is for internal use.  Please pick another."
+msgstr "Este nome é para uso interno. Por favor, escolha outro."
+
+msgid "The second password did not match the first."
+msgstr "A segunda senha não coincidiu com a primeira."
+
+msgid "There is already a file with that name."
+msgstr "Já existe um ficheiro com esse nome."
+
+msgid "Thread"
+msgstr "Tópico"
+
+msgid "Threads"
+msgstr "Tópicos"
+
+msgid "To"
+msgstr "Para"
+
+msgid "Unlock"
+msgstr "Desbloquear"
+
+msgid "Update"
+msgstr "Actualizar"
+
+msgid "Use animation?"
+msgstr "Usar animação?"
+
+msgid "Username"
+msgstr "Nome de utilizador"
+
+msgid "View Reports"
+msgstr "Ver Relatórios"
+
+msgid "View animation"
+msgstr "Ver animação"
+
+msgid "View catalog"
+msgstr "Ver catálogo"
+
+msgid "Width"
+msgstr "Largura"
+
+msgid "YOU ARE NOT BANNED!"
+msgstr "VOCÊ NÃO ESTÁ BANIDO!"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid "Your IP address is"
+msgstr "O seu endereço de IP é"
+
+msgid "Your image"
+msgstr "A sua imagem"
+
+msgid "and"
+msgstr "e"
+
+msgid "forever"
+msgstr "para sempre"
+
+msgid "or"
+msgstr "ou"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  André Malafaya Baptista https://launchpad.net/~malafaya\n"
+"  Tiago Silva https://launchpad.net/~tiagosilva"
+
+msgid "will expire on"
+msgstr "irá expirar em"
+
+msgid "will not expire"
+msgstr "não irá expirar"
+

@@ -1,0 +1,163 @@
+html {
+	/*background-color: #C4C4C4;*/
+	color: #333333;
+	font-family: "Trebuchet MS", "Tahoma", "Verdana", "Arial", sans-serif;
+	font-size: 13px;
+}
+
+body {
+	width: 980px;
+	margin: 0 auto;
+	background-color:  #F7F7F7;
+}
+
+/** logo **/
+
+.logo { 
+	background: url('_logo.png') top left no-repeat;
+	width: 300px;
+	height: 120px;
+	margin: 0 auto;
+}
+
+/** menu **/
+
+.menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 7px 0;
+	border-bottom: 1px solid #CCC;
+	font-weight: bold;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.menu ul li {
+	display: inline;
+	margin: 0 2px;
+}
+
+.menu ul a {
+	text-decoration: none;
+	padding: 0 0 3px;
+	border-bottom: 4px solid #FFF;
+	color: #999; 
+}
+
+.menu ul a.active, .menu ul a:hover {
+	border-color: #888;
+	color: #555;
+}
+
+/** boxies **/
+
+.clear { 
+	clear: both;
+}
+
+.box { 
+	background: #FFF;
+	border: 1px solid #919191;
+	margin: 15px 0 0 0;
+}
+
+.box .box-title {
+	font-size: 18px;
+	background: #c0c0c0;
+	padding: 2px;
+}
+
+/** boards **/
+
+.boards ul {
+	float: left;
+	font-weight: bold;
+}
+
+.boards ul li {
+	font-weight: normal;
+	list-style: none;
+}
+
+/** noticias **/
+
+.last-new .box-content {
+	padding: 0 5px;
+}
+
+/** ultimas imagens **/
+
+.last-images {
+	width: 49%;
+	float: left;
+}
+
+.last-images .box-content {
+	height: 880px;
+	text-align: center;
+	overflow: auto;
+}
+
+.last-images ul {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.last-images ul li {
+	background: #120;
+	list-style: none;
+	width: 280px;
+	height: auto;
+	margin: 10px auto;
+	padding: 10px;
+}
+
+.last-images ul li img {
+	max-width: 250px;
+	max-height: 150px;
+}
+
+/** Ultimos Posts **/
+
+.last-post,
+.popular-thread,
+.stats {
+	float: right;
+	width: 49%;
+}
+
+/** ban list **/
+
+table {
+	margin: 15px 0 0 0;
+	border-collapse: collapse;
+	background: #fff;
+}
+
+th {
+	background: #c0c0c0;
+}
+
+table, th, td {
+	border: 1px solid black;
+	padding: 3px;
+}
+
+/** footer **/
+
+.footer {
+	text-align: center;
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+/** formatação **/
+
+a {
+	color:#F60;
+}
+
+a:hover {
+	color:#b34700;
+}

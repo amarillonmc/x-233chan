@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: trevorchan\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2008-03-10 04:45+0000\n"
+"Last-Translator: 冴月麟\n"
+"Language-Team: Chinese-zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "(for post and file deletion)"
+msgstr "(用以删除贴或者文件)"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Administration"
+msgstr "管理"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Administrators"
+msgstr "管理员组"
+
+msgid "All boards"
+msgstr "所有板块"
+
+msgid "Board"
+msgstr "板块"
+
+msgid "Boards"
+msgstr "板块"
+
+msgid "Captcha"
+msgstr "验证码"
+
+msgid "Catalog Mode"
+msgstr "概览模式"
+
+msgid "Click Reply to view."
+msgstr "点击回复来查看。"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete post"
+msgstr "删除此贴"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Embed"
+msgstr "嵌入"
+
+msgid "File"
+msgstr "图片文件名"
+
+msgid "Home"
+msgstr "主页"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Images"
+msgstr "图像"
+
+msgid "Incorrect password."
+msgstr "密码错误。"
+
+msgid "Incorrect username/password."
+msgstr "用户名或者密码错误。"
+
+msgid "Invalid session."
+msgstr "无效的SESSION。"
+
+msgid "Lock"
+msgstr "锁定"
+
+msgid "Log in again."
+msgstr "请再次登录。"
+
+msgid "Manage"
+msgstr "管理"
+
+msgid "Message"
+msgstr "内容"
+
+msgid "Misc"
+msgstr "其他"
+
+msgid "Moderates"
+msgstr "管理"
+
+msgid "Moderating boards"
+msgstr "管理板块"
+
+msgid "Moderation"
+msgstr "管理"
+
+msgid "Moderator"
+msgstr "猴子"
+
+msgid "Moderators"
+msgstr "猴子"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid "No"
+msgstr "否"
+
+msgid "No File"
+msgstr "无文件"
+
+msgid "No boards"
+msgstr "无板块"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Post"
+msgstr "投稿"
+
+msgid "Posting mode: Reply"
+msgstr "回复模式"
+
+msgid "Posts"
+msgstr "投稿"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Previous"
+msgstr "上一个"
+
+msgid "Quick Reply"
+msgstr "快速回复"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Replies"
+msgstr "回复"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid "Return"
+msgstr "返回"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Sorry, a generic error has occurred."
+msgstr "发生了一个奇怪的通常错误。"
+
+msgid "Subject"
+msgstr "題名"
+
+msgid "Submit"
+msgstr "送信"
+
+msgid "Tag"
+msgstr "标签"
+
+msgid "Thread"
+msgstr "帖子"
+
+msgid "Threads"
+msgstr "帖子"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "and"
+msgstr "和"
+
+msgid "log in"
+msgstr "登入"
+
+msgid "log out"
+msgstr "登出"
+
+msgid "omitted"
+msgstr "省略"
+
+msgid "translator-credits"
+msgstr ""
+"冴月麟 2013"
+

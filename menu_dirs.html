@@ -1,0 +1,253 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>233chan Navigation</title>
+	<link rel="stylesheet" type="text/css" href="http://x.76573.org/css/menu_global.css" />
+				<link rel="alternate stylesheet" type="text/css" href="/css/site_futaba.css" title="Futaba" />
+			<link rel="alternate stylesheet" type="text/css" href="/css/sitemenu_futaba.css" title="Futaba" />
+				<link rel="stylesheet" type="text/css" href="/css/site_burichan.css" title="Burichan" />
+			<link rel="stylesheet" type="text/css" href="/css/sitemenu_burichan.css" title="Burichan" />
+	
+
+
+<script type="text/javascript"><!--
+			var style_cookie_site = "kustyle_site";
+		//--></script>
+<link rel="shortcut icon" href="/favicon.ico" />
+<script type="text/javascript" src="/lib/javascript/gettext.js"></script>
+<script type="text/javascript" src="/lib/javascript/menu.js"></script>
+<script type="text/javascript" src="/lib/javascript/kusaba.js"></script>
+<script type="text/javascript"><!--
+
+
+
+function showstyleswitcher() {
+		var switcher = document.getElementById('sitestyles');
+		switcher.innerHTML = 'Styles:[<a href="#" onclick="javascript:set_stylesheet(\'Futaba\', false, true);reloadmain();" style="display: inline;" target="_self">F</a>] [<a href="#" onclick="javascript:set_stylesheet(\'Burichan\', false, true);reloadmain();" style="display: inline;" target="_self">B</a>]';
+
+}
+
+function toggle(button, area) {
+	var tog=document.getElementById(area);
+	if(tog.style.display)	{
+		tog.style.display="";
+	} else {
+		tog.style.display="none";
+	}
+	button.innerHTML=(tog.style.display)?'+':'&minus;';
+	set_cookie('nav_show_'+area, tog.style.display?'0':'1', 30);
+}
+
+function removeframes() {
+	var boardlinks = document.getElementsByTagName("a");
+	for(var i=0;i<boardlinks.length;i++) if(boardlinks[i].className == "boardlink") boardlinks[i].target = "_top";
+
+	document.getElementById("removeframes").innerHTML = 'Frames removed.';
+
+	return false;
+}
+function reloadmain() {
+	if (parent.main) {
+		parent.main.location.reload();
+	}
+}
+
+function hidedirs() {
+	set_cookie('tcshowdirs', '', 30);
+			window.location = '/menu.html';
+	
+}
+function showdirs() {
+	set_cookie('tcshowdirs', 'yes', 30);
+			window.location = '/menu_dirs.html';
+	
+}
+//--></script>
+<base target="main" />
+</head>
+<body>
+<h1>233chan</h1>
+<ul>
+<li><a href="/" target="_top">主页</a></li>
+	<li id="sitestyles"><a onclick="javascript:showstyleswitcher();" href="#" target="_self">[站点样式]</a></li>
+
+	<li><a onclick="javascript:hidedirs();" href="menu.html" target="_self">[隐藏目录名]</a></li>
+
+	<li id="removeframes"><a href="#" onclick="javascript:return removeframes();" target="_self">[隐藏此栏]</a></li>
+
+</ul>
+
+		
+					<h2>
+		
+					<span class="plus" onclick="toggle(this, 'gene');" title="Click to show/hide">&minus;</span>&nbsp;
+		
+		综合</h2>
+					<div id="gene">
+		
+		<ul>
+									<li><a href="http://x.76573.org/kotori/" class="boardlink pop">
+									/kotori/ - 
+				
+				综合2
+				
+				</a></li>
+							<li><a href="http://x.76573.org/pani/" class="boardlink">
+									/pani/ - 
+				
+				MLP
+				
+				</a></li>
+							<li><a href="http://x.76573.org/akane/" class="boardlink">
+									/akane/ - 
+				
+				天变地异（弹幕网站）
+				
+				</a></li>
+							<li><a href="http://x.76573.org/komari/" class="boardlink">
+									/komari/ - 
+				
+				电子龙（二次元）
+				
+				</a></li>
+							<li><a href="http://x.76573.org/saya/" class="boardlink trial">
+									/saya/ - 
+				
+				未来视界（三次元欢乐）
+				
+				</a></li>
+							<li><a href="http://x.76573.org/yumemi/" class="boardlink">
+									/yumemi/ - 
+				
+				音乐
+				
+				</a></li>
+			
+		
+		</ul>
+					</div>
+		
+		
+					<h2>
+		
+					<span class="plus" onclick="toggle(this, 'adult');" title="Click to show/hide">+</span>&nbsp;
+		
+		大人话题【NSFW】</h2>
+					<div id="adult" style="display: none;">
+		
+		<ul>
+									<li><a href="http://x.76573.org/chihaya/" class="boardlink">
+									/chihaya/ - 
+				
+				注射天使（情感）
+				
+				</a></li>
+			
+		
+		</ul>
+					</div>
+		
+		
+					<h2>
+		
+					<span class="plus" onclick="toggle(this, 'crate');" title="Click to show/hide">&minus;</span>&nbsp;
+		
+		中二/大二</h2>
+					<div id="crate">
+		
+		<ul>
+									<li><a href="http://x.76573.org/kyousuke/" class="boardlink">
+									/kyousuke/ - 
+				
+				魔导书院（二创文）
+				
+				</a></li>
+							<li><a href="http://x.76573.org/lucia/" class="boardlink">
+									/lucia/ - 
+				
+				黑洞（政治）
+				
+				</a></li>
+			
+		
+		</ul>
+					</div>
+		
+		
+					<h2>
+		
+					<span class="plus" onclick="toggle(this, 'game');" title="Click to show/hide">&minus;</span>&nbsp;
+		
+		游戏</h2>
+					<div id="game">
+		
+		<ul>
+									<li><a href="http://x.76573.org/shiori/" class="boardlink">
+									/shiori/ - 
+				
+				清净世界（游戏综合）
+				
+				</a></li>
+							<li><a href="http://x.76573.org/sizuru/" class="boardlink pop">
+									/sizuru/ - 
+				
+				常磐大逃杀
+				
+				</a></li>
+							<li><a href="http://x.76573.org/mio/" class="boardlink">
+									/mio/ - 
+				
+				奥利哈钢结界（游戏王）
+				
+				</a></li>
+							<li><a href="http://x.76573.org/haruka/" class="boardlink pop">
+									/haruka/ - 
+				
+				胜利蛇XX03（STG）
+				
+				</a></li>
+							<li><a href="http://x.76573.org/rin/" class="boardlink trial">
+									/rin/ - 
+				
+				76573奇缘联盟
+				
+				</a></li>
+							<li><a href="http://x.76573.org/kud/" class="boardlink">
+									/kud/ - 
+				
+				幻兽机哥萨克龙（WarThunder）
+				
+				</a></li>
+			
+		
+		</ul>
+					</div>
+		
+		
+					<h2>
+		
+					<span class="plus" onclick="toggle(this, 'man');" title="Click to show/hide">&minus;</span>&nbsp;
+		
+		管理</h2>
+					<div id="man">
+		
+		<ul>
+									<li><a href="http://x.76573.org/kagari/" class="boardlink pop">
+									/kagari/ - 
+				
+				值班室
+				
+				</a></li>
+			
+		
+		</ul>
+					</div>
+		
+	
+
+
+</body>
+</html>
+
+

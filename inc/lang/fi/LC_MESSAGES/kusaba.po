@@ -1,0 +1,1414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kusaba\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2008-02-24 23:11+0000\n"
+"Last-Translator: Jebula <Jebula@gmail.com>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "%s bans not shown."
+msgstr "%s bannia ei näkynyt"
+
+msgid "%s not implemented."
+msgstr "%s ei ole välinöity."
+
+msgid "%s uploaded."
+msgstr "lähetetty."
+
+msgid "(for post and file deletion)"
+msgstr "(viestin ja tiedoston poistamiseen)"
+
+msgid "<h2>Add News Post</h2>This message will be displayed as it is written, so make sure you add the proper HTML."
+msgstr "<h2>Lisää uutinen</h2>Tämä viesti näkyy siten kuin se on kirjoitettu. Kirjoita kunnollista HTML -koodia."
+
+msgid "A board with that name already exists."
+msgstr "Boardi tuolla nimellä on jo luotu."
+
+msgid "A board with that name does not exist."
+msgstr "Boardia antamallasi nimellä ei ole olemassa."
+
+msgid "A common cause for this is an incorrect extension when the file is actually of a different type."
+msgstr "Yleisin syy tälläiselle on viallinen laajennus, kun tiedosto eri tyyppiä."
+
+msgid "A file is required for a new thread.  If embedding is allowed, either a file or embed ID is required."
+msgstr "Uuden aiheen aloittamiseen vaadittu tiedosto puuttuu.. Jos upotus on sallittua, joko tiedosto tai upotteen ID on vaadittu."
+
+msgid "A message is required to post without a file."
+msgstr "Viesti on vaadittu postaamiseen ilman kvaa"
+
+msgid "A post with that ID does not exist."
+msgstr "Viestio tuolla ID:llä ei ole olemassa."
+
+msgid "A staff member with that ID already exists."
+msgstr "Henkilökunnan jäsen tuolla ID:llä on jo olemassa."
+
+msgid "A staff member with that id does not appear to exist."
+msgstr "Lisää henkilökuntaan jäsen, ID:llä jota ei vielä ole."
+
+msgid "Add"
+msgstr "Lisää"
+
+msgid "Add ban"
+msgstr "Bannaa joku"
+
+msgid "Add board"
+msgstr "Lisää boardi"
+
+msgid "Add new blotter entry"
+msgstr "Lisää uusi merkintä ilmoitukseen."
+
+msgid "Add news"
+msgstr "Lisää uutinen"
+
+msgid "Add staff member"
+msgstr "Lisää henkilökuntaan jäsen"
+
+msgid "Add word"
+msgstr "Lisää sana"
+
+msgid "Added a news entry"
+msgstr "Lisätty uutinen"
+
+msgid "Added board"
+msgstr "Lisätty boardi"
+
+msgid "Added on"
+msgstr "Lisätty"
+
+msgid "Added staff member"
+msgstr "Lisätty henkilökuntaan jäsen"
+
+msgid "Admin"
+msgstr "Ylläpitäjä"
+
+msgid "Administration"
+msgstr "Hallinta"
+
+msgid "Administrator"
+msgstr "Ylläpito"
+
+msgid "Administrators"
+msgstr "Ylläpitäjät"
+
+msgid "All Threads"
+msgstr "Kaikki keskustelut"
+
+msgid "All boards"
+msgstr "Kaikki boardit"
+
+msgid "All threads/posts by that IP in selected boards successfully deleted."
+msgstr "Kaikki keskustelut/viestit joihin on postattu valitulla IP:llä, on poistettu onnistuneesti."
+
+msgid "Allowed filetypes"
+msgstr "Sallitut tiedostontyypit"
+
+msgid "Already posted %shere%s."
+msgstr "Jo postattu %stänne%s."
+
+msgid "An image, or message, is required for a reply."
+msgstr "Kuva tai viesti on vaadittu vastaamiseen."
+
+msgid "Anonymous"
+msgstr "Anonyymi"
+
+msgid "Appeal Message"
+msgstr "Valitusviesti"
+
+msgid "Appeal successfully denied."
+msgstr "Anomus onnistuneesti kumottu."
+
+msgid "Are you absolutely sure you want to delete %s?"
+msgstr "Oletko aivan varma että haluat poistaa %s?"
+
+msgid "At"
+msgstr "At"
+
+msgid "Ban from"
+msgstr "Bannattu"
+
+msgid "Ban proxy list"
+msgstr "Bannattyjen proxyjen lista"
+
+msgid "Ban successfully placed."
+msgstr "Banni onnistuneesti laitettu."
+
+msgid "Ban successfully removed."
+msgstr "Banni onnistuneesti poistettu"
+
+msgid "Banned"
+msgstr "Bannattu, B&!"
+
+msgid "Banned %d IP addresses using an IP address list."
+msgstr "Bannittu %d IP osoite, bannittiin käyttäen IP osoite listaa"
+
+msgid "Banned from"
+msgstr "Bannattu"
+
+msgid "Blotter"
+msgstr "Ilmoitus"
+
+msgid "Blotter entry added."
+msgstr "Ilmoitukseen on lisätty merkintä."
+
+msgid "Blotter entry deleted."
+msgstr "Ilmoituksen merkintä poistettu."
+
+msgid "Blotter entry updated."
+msgstr "Ilmoituksen merkintää päivitetty."
+
+msgid "Blotter is disabled."
+msgstr "Ilmoitus poistettu"
+
+msgid "Blotter updated"
+msgstr "Ilmoitus päivitetty"
+
+msgid "Board"
+msgstr "Boardi"
+
+msgid "Board options"
+msgstr "Boardin asetukset"
+
+msgid "Board successfully added."
+msgstr "Boardi lisätty onnistuneesti"
+
+msgid "Board successfully deleted."
+msgstr "Boardi onnistuneesti poistettu"
+
+msgid "Board type:"
+msgstr "Boardin tyyppi:"
+
+msgid "Boards"
+msgstr "Boardit"
+
+msgid "Cache successfully flushed."
+msgstr "Välimuisti onnistuneesti tyhjennetty.."
+
+msgid "Can be left blank."
+msgstr "Voi jättää tyhjäksi"
+
+msgid "Can not be left blank."
+msgstr "Ei voi jättää tyhjäksi"
+
+msgid "Cancel"
+msgstr "Peruuta"
+
+msgid "Captcha"
+msgstr "Kuvavarmennus"
+
+msgid "Catalog Mode"
+msgstr "Catalogi modi"
+
+msgid "Change account password"
+msgstr "Vaihda käyttäjäntunnuksen salasana"
+
+msgid "Check for new version"
+msgstr "Tarkista uuden version saatavuus"
+
+msgid "Choose one"
+msgstr "Valise yksi"
+
+msgid "Cleanup"
+msgstr "Puhdista"
+
+msgid "Cleanup finished."
+msgstr "Siivoaminen suoritettu."
+
+msgid "Cleared APC cache"
+msgstr "APC-välimuisti tyhjennetty"
+
+msgid "Click Reply to view, or %sexpand%s."
+msgstr "Klikkaa Vastaa katsellaksesi, tai %sexpand%s."
+
+msgid "Click Reply to view."
+msgstr "Klikkaa Vastaa katsellaksesi"
+
+msgid "Click to show/hide"
+msgstr "Paina näytä/piiloita"
+
+msgid "Continue"
+msgstr "Jatka"
+
+msgid "Could not copy uploaded image."
+msgstr "En voinut kopioida uploadattua kuvaa."
+
+msgid "Could not create thumbnail."
+msgstr "En voinut tehdä thumbnailia"
+
+msgid "Current version:"
+msgstr "Tämänhetkinen versio"
+
+msgid "Date"
+msgstr "Päivämäärä"
+
+msgid "Days to keep modlog entries"
+msgstr "Päivät joiden aikana moderaattorilokin kirjaukset säilytetään"
+
+msgid "Default"
+msgstr "Vakio"
+
+msgid "Default style:"
+msgstr "Vakio tyyli:"
+
+msgid "Delete"
+msgstr "poista"
+
+msgid "Delete all posts by IP"
+msgstr "Poista kaikki viestit tältä IP:ltä"
+
+msgid "Delete all posts by this IP"
+msgstr "Poista kaikki viestit tästä IP:stä"
+
+msgid "Delete board"
+msgstr "Poista boardi"
+
+msgid "Delete post"
+msgstr "Poista viesti"
+
+msgid "Delete posts"
+msgstr "Poista viesrti"
+
+msgid "Delete thread"
+msgstr "Poista keskustelu"
+
+msgid "Delete thread/post"
+msgstr "Poista keskustelu/viesti"
+
+msgid "Deleted"
+msgstr "Poistettu"
+
+msgid "Deleted a VIP code"
+msgstr "Poista VIP koodi"
+
+msgid "Deleted board"
+msgstr "Poistettu boardi"
+
+msgid "Deleted post"
+msgstr "Poistettu viesti"
+
+msgid "Deleted posts by ip"
+msgstr "Poistettu kaikki viestit tältä IP:ltä"
+
+msgid "Deleted staff member"
+msgstr "Poistettu henkilökunnasta jäsen"
+
+msgid "Deleted thread"
+msgstr "Poistettu keskustelu"
+
+msgid "Deleting non-deleted replies which belong to deleted threads."
+msgstr "Poistan ei poistettua vastausta joka kuuluu poistettuihin keskusteluihin."
+
+msgid "Deleting unused images."
+msgstr "Poistetaan ei-käytettyjä kuvia."
+
+msgid "Denied the ban appeal for"
+msgstr "Kumottu bannien valitus koska"
+
+msgid "Description"
+msgstr "kuvaus"
+
+msgid "Directory"
+msgstr "Hakemisto"
+
+msgid "Disk space used"
+msgstr "Käytetty levytila"
+
+msgid "Does not expire"
+msgstr "Ei vanhene"
+
+msgid "Duplicate file entry detected."
+msgstr "Saman tiedoston lähettäminen uudelleen estetty."
+
+msgid "Duplicate thread subject"
+msgstr "Kopioi threadin aihe"
+
+msgid "Edit"
+msgstr "Muokkaa"
+
+msgid "Edit filetypes"
+msgstr "Muokkaa tiedostotyyppejä"
+
+msgid "Edit sections"
+msgstr "Muokkaa alueita"
+
+msgid "Edit word"
+msgstr "Muokkaa sanaa"
+
+msgid "Edited a VIP cod"
+msgstr "Muokattu VIP koodi"
+
+msgid "Edited a news entry"
+msgstr "Muokattu uutisartikkeli"
+
+msgid "Email"
+msgstr "Sähköposti"
+
+msgid "Embed"
+msgstr "Upote"
+
+msgid "Embedding only"
+msgstr "Pelkkä upotus"
+
+msgid "Enable \"no file\" posting"
+msgstr "Salli \"Ei tiedostoa\" postaaminen"
+
+msgid "Enable captcha:"
+msgstr "Salli kuvantunnistus:"
+
+msgid "Enable reporting:"
+msgstr "Salli ilmiantaminen:"
+
+msgid "Enable/disable captcha system for this board.  If captcha is enabled, in order for a user to post, they must first correctly enter the text on an image."
+msgstr "Salli/estä kuvantunnistus järjestelmä tälle boardille. Jos kuvantunnistus on laitettu päälle,  käyttäjän pitää tunnistaa ja kirjoittaa kuvassa näkyvä tekstinpätkä oikein postatakseen viestinsä."
+
+msgid "Entire Thread"
+msgstr "Koko keskustelu"
+
+msgid "Error, it appears your file did not transfer properly.  Please go back and try again."
+msgstr "Virhe, tiedostoasi ei nähtävästi saatu lähetettyä oikein. Mene takaisin ja kokeile uudelleen."
+
+msgid "Expand all images"
+msgstr "Laajenna kaikki kuvat."
+
+msgid "Expires:"
+msgstr "Vanhentuu:"
+
+msgid "Extension icon displayed, click image to open file."
+msgstr "Laajennus kuvake, klikkaa kuvaa aukaistaksesi tiedosto."
+
+msgid "FAQ"
+msgstr "UKK"
+
+msgid "File"
+msgstr "Tiedosto"
+
+msgid "File Only"
+msgstr "Vain tiedosto"
+
+msgid "File was not fully uploaded.  Please go back and try again."
+msgstr "Tiedostoa ei saatu kokonaan uploadattua, mene takaisin ja kokeile uudelleen."
+
+msgid "File<br>Removed"
+msgstr "Tiedosto<br>Poistettu"
+
+msgid "Filetype added."
+msgstr "Tiedostotyyppi lisätty"
+
+msgid "Filetype deleted."
+msgstr "Tiedostotyyppi poistettu"
+
+msgid "Filetype updated."
+msgstr "Tiedostotyyppi päivitetty"
+
+msgid "First 100 posts"
+msgstr "Ensimmäiset 100 viestiä"
+
+msgid "First 100 posts shown."
+msgstr "Ensimmäiset 100 viestiä näytetään."
+
+msgid "First Post ID"
+msgstr "Ensimmäisen viestin ID"
+
+msgid "Forced anonymous"
+msgstr "Pakotettu Anonyymiksi"
+
+msgid "From"
+msgstr "Lähettäjä:"
+
+msgid "Front"
+msgstr "Etupuoli"
+
+msgid "Front Page"
+msgstr "Etusivu"
+
+msgid "Get posting password"
+msgstr "Anna postaus salasana"
+
+msgid "Global configuration succesfully updated."
+msgstr "Globaali kokoonpano päivitetty onnistuneesti!"
+
+msgid "Global options"
+msgstr "Globaalit asetukset"
+
+msgid "Go"
+msgstr "Mene"
+
+msgid "Header image"
+msgstr "Otsakekuva"
+
+msgid "Height"
+msgstr "Korkeus"
+
+msgid "Hide Directories"
+msgstr "Piiloita kansiot"
+
+msgid "Hide the watched threads box"
+msgstr "Piilota seurattujen keskusteluiden laatikko."
+
+msgid "Home"
+msgstr "Etusivu"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "If set to yes, new threads will not require an image to be posted."
+msgstr "Jos asetettu \"kyllä\", uusi keskustelu ei vaadi kuvaa postattavaksi."
+
+msgid "If set to yes, this board will appear in bold in the menu"
+msgstr "Jos asetettu \"kyllä\", tämä boardi nakyy boldattuna menussa"
+
+msgid "If set to yes, this board will appear in italics in the menu"
+msgstr "Jos asetettu \"kyllä\", tämä boardi näyttää 'italics':it menussa"
+
+msgid "If set to yes, users will be redirected to the thread they replied to/posted after posting.  If set to no, users will be redirected to the first page of the board."
+msgstr "Jos asetettu \"kyllä\", käyttäjät uudelleenohjautuu keskusteluun johonka hän vastasi. Jos taas asetettu \"Ei\" käyttäjät uudelleenohjataan boardin etusivulle."
+
+msgid "If set to yes, users will not be allowed to enter a name, making everyone appear as Anonymous"
+msgstr "Jos asetettu \"kyllä\" käyttäjät eivät voi käyttää omaa nimeä, vaan kaikki ovat Anonyymejä :-D"
+
+msgid "Image"
+msgstr "kuva"
+
+msgid "Image successfully deleted from your post."
+msgstr "Kuva saatiin onnistuneesti poistettua viestistäsi."
+
+msgid "Images"
+msgstr "kuvat"
+
+msgid "Images and embedding"
+msgstr "Kuvat ja upotus"
+
+msgid "Important"
+msgstr "Tärkeä"
+
+msgid "Improper filetype."
+msgstr "Kelvoton tiedostotyyppi!"
+
+msgid "Include header"
+msgstr "sisällytä otsake"
+
+msgid "Incorrect captcha entered."
+msgstr "Viallinen kuvanvarmennus annettu."
+
+msgid "Incorrect password."
+msgstr "Virheellinen salasana."
+
+msgid "Incorrect username/password."
+msgstr "Virheellinen käyttäjäntunnus tai salasana."
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Inject"
+msgstr "Ruiskuttaa"
+
+msgid "Inserted SQL"
+msgstr "Lisätty SQL"
+
+msgid "Integer values must be entered correctly."
+msgstr "Kokonaislukuarvot pitää syöttää oikein!"
+
+msgid "Invalid ID"
+msgstr "Invaliidi ID"
+
+msgid "Invalid MIME type for this filetype."
+msgstr "Invaliidi MIME tyyppi tälle tiedostotyypille."
+
+msgid "Invalid ban ID"
+msgstr "Invaliidi Ban ID"
+
+msgid "Invalid board directory."
+msgstr "Invaliidi boardin hakemisto."
+
+msgid "Invalid response code:"
+msgstr "Invaliidi vastauskoodi:"
+
+msgid "Invalid session."
+msgstr "Invaliidi sessio!"
+
+msgid "Invalid staff ID."
+msgstr "Invaliidi henkilökunta ID"
+
+msgid "Invalid thread ID."
+msgstr "Invaliidi keskustelun ID."
+
+msgid "Invalid thread ID.  This may have been caused by the thread recently being deleted."
+msgstr "Invaliidi keskustelun ID. Syy voi olla siinä jos ketju on juuri poistettu."
+
+msgid "Invalid video ID."
+msgstr "Invaliidi video ID"
+
+msgid "Invalid video type."
+msgstr "Invaliidi videotyyppi."
+
+msgid "Is replaced by"
+msgstr "On asetettu uudelleen johdosta:"
+
+msgid "Last 50 posts"
+msgstr "viimeiset 50 viestiä"
+
+msgid "Last 50 posts shown."
+msgstr "Viimeiset 50 viestiä näytetään."
+
+msgid "Last Post"
+msgstr "Viimeinen viesti"
+
+msgid "Last active"
+msgstr "Viimeisin aktiivinen"
+
+msgid "Lock"
+msgstr "Lukittu"
+
+msgid "Locked"
+msgstr "Lukittu"
+
+msgid "Locked thread"
+msgstr "Lukittu keskustelu"
+
+msgid "Log in again."
+msgstr "Kirjaudu uudelleen sisään"
+
+msgid "Logged in"
+msgstr "Kirjautunut sisään"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Manage"
+msgstr "Hallitse"
+
+msgid "Manage boards"
+msgstr "Hallitse boardeja"
+
+msgid "Manage locked threads"
+msgstr "Hallitse lukitettuja keskusteluita"
+
+msgid "Manage stickies"
+msgstr "Hallitse nastoitettuja keskusteluita"
+
+msgid "Marked for deletion (old)."
+msgstr "Merkitty poistettavaksi (vanha)"
+
+msgid "Maximum board pages"
+msgstr "Suurin sallittu määrä boardin sivuja"
+
+msgid "Maximum image size"
+msgstr "Suurin sallittu tiedoston koko"
+
+msgid "Maximum message length"
+msgstr "Suurin sallittu viestin pituus"
+
+msgid "Maximum thread age (Hours)"
+msgstr "Suurin sallittu keskustelun ikä (Tuntia)"
+
+msgid "Maximum thread replies"
+msgstr "Suurin sallittu keskustelunu pituus"
+
+msgid "Maxmimum size of uploaded images, in <b>bytes</b>."
+msgstr "Suurin sallittu koko uploadatuille kuville,"
+
+msgid "Maxmimum thumbnail height"
+msgstr "Suurin sallittu thumbnailin korkeus"
+
+msgid "Maxmimum thumbnail width"
+msgstr "Suurin sallittu thumbnailin leveys"
+
+msgid "Message"
+msgstr "Viesti"
+
+msgid "Message too long. Click %shere%s to view the full text."
+msgstr "Viesti on liian pitkä. Paina %tästä% nähdäksesi loput tekstistä."
+
+msgid "Misc"
+msgstr "Sekalaista"
+
+msgid "Mod"
+msgstr "Mod"
+
+msgid "ModLog"
+msgstr "Moderaattoriloki"
+
+msgid "Moderates"
+msgstr "Moderoi"
+
+msgid "Moderating boards"
+msgstr "Moderoi boardeja"
+
+msgid "Moderation"
+msgstr "Moderointi"
+
+msgid "Moderator"
+msgstr "Moderaattori"
+
+msgid "Moderators"
+msgstr "Moderaattorit"
+
+msgid "Modify"
+msgstr "Muokkaa"
+
+msgid "Modify staff member"
+msgstr "Muokkaa henkilökunnan jäsentä"
+
+msgid "Module settings"
+msgstr "Moduli asetukset"
+
+msgid "Modules"
+msgstr "Modulit"
+
+msgid "More"
+msgstr "Enemmän"
+
+msgid "Move complete."
+msgstr "Siirto suoritettu."
+
+msgid "Move thread"
+msgstr "Siirrä keskustelu"
+
+msgid "NOTICE: You are using the default administrator account.  Anyone can log in to this account, so a second administrator account needs to be created.  Create another, log in to it, and delete this one."
+msgstr "HUOMIO: Jos käytät vielä vakioasetuksella ollutta admin accounttia, kuka vain voi kirjautua sisään. Luo siis itse uusi ja poista vanha."
+
+msgid "Name"
+msgstr "Nimi"
+
+msgid "Name to display when a name is not attached to a post."
+msgstr "Nimi joka näkyy, jos nimeä ei ole annettu."
+
+msgid "Never"
+msgstr "Ei koskaan."
+
+msgid "New Thread"
+msgstr "Uusi keskustelu"
+
+msgid "New image"
+msgstr "Uusi kuva"
+
+msgid "New password"
+msgstr "Uusi salasana"
+
+msgid "New password again"
+msgstr "Uusi salasana uudelleen"
+
+msgid "News"
+msgstr "Uutiset"
+
+msgid "News entry successfully added."
+msgstr "Uutinen lisätty onnistuneesti"
+
+msgid "Next"
+msgstr "Seuraava"
+
+msgid "No"
+msgstr "Ei"
+
+msgid "No File"
+msgstr "Ei tiedostoa"
+
+msgid "No blotter entries."
+msgstr "Ei merkintöjä ilmoituksessa."
+
+msgid "No boards"
+msgstr "Ei boardeja"
+
+msgid "No embedding"
+msgstr "Ei upotusta"
+
+msgid "No threads."
+msgstr "Ei keskusteluita."
+
+msgid "No visible boards"
+msgstr "Ei boardeja näkyvillä"
+
+msgid "None"
+msgstr "Ei mitään"
+
+msgid "Normal imageboard"
+msgstr "Tavallinen imageboardi"
+
+msgid "Oekaki imageboard"
+msgstr "Oekaki imageboardi"
+
+msgid "Old password"
+msgstr "Vanha salasana"
+
+msgid "Online now"
+msgstr "Onlinessä nyt"
+
+msgid "Only moderators of the board and admins can make new posts/replies"
+msgstr "Vain boardin moderaattorit ja adminit voivat tehdä uusia viestejä ja vastata niihin"
+
+msgid "Only put in the letter(s) of the board directory, no slashes!"
+msgstr "Laita vain kirjain tai pari kuvaamaan boardin kansiota (esim. b) Ei kauttaviivoja!!"
+
+msgid "Open images in new window"
+msgstr "Avaa kuvat uuteen ikkunaan"
+
+msgid "Order"
+msgstr "Järjestys"
+
+msgid "Order to show board in menu list, in ascending order."
+msgstr "Näyttää boardin menulistassa, nousevassa järjestyksessä"
+
+msgid "Overrides the header set in the config file.  Leave blank to use configured global header image.  Needs to be a full url including http://.  Set to none to show no header image."
+msgstr "Menee config.php:ssä asetetun header imagen edelle,  jätä tyhjäksi jos haluat pitää sen tällä boardilla. Pitää olla koko url mukaanlukien http://"
+
+msgid "Pages"
+msgstr "Sivut"
+
+msgid "Paint with"
+msgstr "Maalaa"
+
+msgid "Paint!"
+msgstr "Piirrä!"
+
+msgid "Password"
+msgstr "Salasana:"
+
+msgid "Password successfully changed."
+msgstr "Salasanan vaihto onnistui."
+
+msgid "Placed:"
+msgstr "Asetettu:"
+
+msgid "Please enter a positive amount of seconds, or zero for a permanent ban."
+msgstr "Laita positiivinen määrä sekunteja tai nolla, jos haluat antaa elinikäiset bannit."
+
+msgid "Please enter a search query."
+msgstr "Käytä hakua"
+
+msgid "Please fill in all required fields."
+msgstr "Ole hyvä ja täytä kaikki vaaditut kentät"
+
+msgid "Please make sure your file is smaller than %dB"
+msgstr "Varmista että tiedostosi on pienempi kuin %dB"
+
+msgid "Please select a board."
+msgstr "Ole hyvä ja valitse boardi."
+
+msgid "Please select only one image to upload."
+msgstr "Valitse vain yksi kuva uploadattavaksi."
+
+msgid "Please wait a moment before posting again."
+msgstr "Odota hetki ennen kuin postaat uudelleen."
+
+msgid "Popular"
+msgstr "Suosittu"
+
+msgid "Post"
+msgstr "Lähetä"
+
+msgid "Post added."
+msgstr "Viesti lisätty."
+
+msgid "Post preview"
+msgstr "Viestin esikatselu"
+
+msgid "Post successfully deleted."
+msgstr "Viesti poistettu onnistuneesti!"
+
+msgid "Postbox notice"
+msgstr "Postbox merkinnät"
+
+msgid "Posting a blacklisted link."
+msgstr "Lähetit linkin mustaltalistalta."
+
+msgid "Posting mode: Reply"
+msgstr "Postaustyyli: Vastaus"
+
+msgid "Posting password"
+msgstr "Postauksen salasana"
+
+msgid "Posting rates (past hour)"
+msgstr "Viestien määrä (viime tunti)"
+
+msgid "Posts"
+msgstr "Viestit"
+
+msgid "Presets"
+msgstr "Esiasetetut"
+
+msgid "Preview"
+msgstr "Esikatselu"
+
+msgid "Previous"
+msgstr "Edellinen"
+
+msgid "Proxy list"
+msgstr "Proxylista"
+
+msgid "Query"
+msgstr "Kysely"
+
+msgid "Query executed successfully"
+msgstr "Tiedustelu pantu toimeen onnistuneesti."
+
+msgid "Quick Reply"
+msgstr "Vastaa heti"
+
+msgid "Ran cleanup"
+msgstr "juokse siivous"
+
+msgid "Raw HTML which will be inserted at the top of each page of the board."
+msgstr "Raaka HTML, joka on laitettu joka sivun ylälaitaan boardilla."
+
+msgid "Read this thread from the beginning"
+msgstr "Lue tämä keskustelu alusta"
+
+msgid "Reason"
+msgstr "Syy"
+
+msgid "Reason:"
+msgstr "Syy:"
+
+msgid "Rebuild all html files"
+msgstr "Rakenna uudelleen kaikki HTML tiedostot"
+
+msgid "Rebuild complete.  Took <b>%d</b> seconds."
+msgstr "uudelleen rakentaminen valmista. Se vei <b>%d</b> sekuntia."
+
+msgid "Rebuilt all boards and threads"
+msgstr "Rakenna klaikki boardit ja keskustelut uudelleen"
+
+msgid "Redirecting"
+msgstr "Uudelleenohjataan"
+
+msgid "Refresh watched threads"
+msgstr "Päivitä seuratut keskustelut"
+
+msgid "Regenerated %s"
+msgstr "Regeneroi %s"
+
+msgid "Regular expression"
+msgstr "Säännöllinen lauseke"
+
+msgid "Remove"
+msgstr "Poista"
+
+msgid "Removed word from wordfilter"
+msgstr "Poistettu sana sanafiltteristä"
+
+msgid "Replacement"
+msgstr "Korvaus"
+
+msgid "Replies"
+msgstr "Vastaukset"
+
+msgid "Replies displayed per stickied thread (in thread list)"
+msgstr "Vastausta näytetty per nastoitettu keskustelu."
+
+msgid "Replies displayed per thread (in thread list)"
+msgstr "Viestejä näytetty per sivu. (keskustelulistassa)"
+
+msgid "Reply"
+msgstr "Vastaa"
+
+msgid "Report"
+msgstr "Ilmianna"
+
+msgid "Reporting allows users to report posts, adding the post to the report list."
+msgstr "Ilmiantaminen antaa käyttäjien lähettää ilmiantoviestejä, lisätä viesti ilmiantolistalle."
+
+msgid "Reports"
+msgstr "Ilmiannot"
+
+msgid "Restore watched threads"
+msgstr "Palauta seuratut keskustelut."
+
+msgid "Results"
+msgstr "Tulokset"
+
+msgid "Return"
+msgstr "Takaisin"
+
+msgid "Rules"
+msgstr "Säännöt"
+
+msgid "SQL query"
+msgstr "SQL-kysely"
+
+msgid "Search"
+msgstr "Etsi"
+
+msgid "Search posts"
+msgstr "Etsi viesti"
+
+msgid "Seconds"
+msgstr "Sekuntia"
+
+msgid "Section"
+msgstr "Osio"
+
+msgid "Section added."
+msgstr "Alue listätty"
+
+msgid "Section deleted."
+msgstr "Alue poistettu"
+
+msgid "Section updated."
+msgstr "Aluetta päivitetty"
+
+msgid "Send Appeal"
+msgstr "Lähetä valitus"
+
+msgid "Show All"
+msgstr "Näytä kaikki"
+
+msgid "Show Directories"
+msgstr "Näytä kansiot"
+
+msgid "Show Posting Password"
+msgstr "Näytä postaus-salasana"
+
+msgid "Show/Hide"
+msgstr "Näytä/Piilota"
+
+msgid "Shown below"
+msgstr "Näkyy alempana"
+
+msgid "Site Styles"
+msgstr "Sivun tyylit"
+
+msgid "Size"
+msgstr "Koko"
+
+msgid "Sorry, a generic error has occurred."
+msgstr "Pahoittelen, geneerinen virhe havaittu."
+
+msgid "Sorry, because of your numerous failed logins, you have been locked out from logging in for 20 minutes.  Please wait and then try again."
+msgstr "Pahoittelen, koska epäonnistuit sisäänkirjautumisessa monesti, sinut on bannattu 20min sisäänkirjautumiselta.. Ole hyvä ja odota hetki, kokeile sitten uudelleen."
+
+msgid "Sorry, that filetype is not allowed on this board."
+msgstr "Sorry, tuota tiedostotyyppiä ei tueta tällä boardilla."
+
+msgid "Sorry, this board is locked and can not be posted in."
+msgstr "Pahoittelen, tämä boardi on lukittu etkä voi postata sinne."
+
+msgid "Sorry, this thread is locked and can not be replied to."
+msgstr "Pahoittelen, tämä boardi on lukittu etkä voi vastata sinne."
+
+msgid "Sorry, your message is too long.  Message length: %d, maxmimum allowed length: %d"
+msgstr "Pahoittelen, viestisi on liian pitkä. Viestin pituus: %d, maxmimum allowed length: %d"
+
+msgid "Sorry, your search returned zero results."
+msgstr "Haullasi ei löytynyt mitään. :-("
+
+msgid "Source"
+msgstr "Lähde"
+
+msgid "Staff"
+msgstr "Ylläpito"
+
+msgid "Staff member successfully added."
+msgstr "Henkilökunnan jäsen onnistuneesti lisätty"
+
+msgid "Staff rights"
+msgstr "Ylläpidon oikeudet"
+
+msgid "Staff successfully deleted"
+msgstr "Henkilökunta(a) onnistuneesti poistettu!"
+
+msgid "Staff successfully updated"
+msgstr "Henkilökuntaa onnistuneesti päivitetty!"
+
+msgid "Statistics"
+msgstr "Tilastot"
+
+msgid "Stickied"
+msgstr "Nastoitettu"
+
+msgid "Stickied thread"
+msgstr "Nastoitettu keskustelu"
+
+msgid "Sticky"
+msgstr "Nastoitettu"
+
+msgid "Style"
+msgstr "Tyyli"
+
+msgid "Styles"
+msgstr "Tyylit"
+
+msgid "Subject"
+msgstr "Aihe"
+
+msgid "Submit"
+msgstr "Lähetä"
+
+msgid "System lockout"
+msgstr "Järjestelmän työsulku"
+
+msgid "Tag"
+msgstr "Merkitse"
+
+msgid "Text board"
+msgstr "Tekstiboardi"
+
+msgid "Text boards may have only one thread with a unique subject.  Please pick another."
+msgstr "txt-boardeilla voi olla vain yksi uniikki aihe per keskustelu. Valitse toinen."
+
+msgid "Text boards only.  If enabled, the list of threads displayed on the front page will be formatted differently to be compact."
+msgstr "Vain teksti-boardit. Jos hyväksytty, keskusteluiden lista jotka on näytetty etusivulla, formatoidaan erilailla jotta se ne olisivat kompakteja."
+
+msgid "That ID does not exist."
+msgstr "Tuo ID ei ole olemassa."
+
+msgid "That ID is a reply, not a thread."
+msgstr "Tuo ID on vastaus, ei keskustelu."
+
+msgid "That IP has already been banned."
+msgstr "Henkilö tuosta IP:stä on jo bannittu."
+
+msgid "That name is for internal use.  Please pick another."
+msgstr "Tuo nimi on vain sisäiseen käyttöön. Valitse joku toinen."
+
+msgid "That post has been cleared as not requiring any deletion."
+msgstr "Tuo viesti on puhdistettu."
+
+msgid "That post is already in the report list."
+msgstr "Se viesti on jo ilmiantolistalla."
+
+msgid "That thread has yet to be deleted."
+msgstr "Se keskustelu on jo poistettu."
+
+msgid "That thread may have been recently deleted."
+msgstr "Voi olla että hakemasi keskustelu on juuri poistettu."
+
+msgid "That video ID has already been posted %shere%s."
+msgstr "Tuo video ID on jo postattu %stänne%s."
+
+msgid "That word already exists."
+msgstr "Tuo sana on jo olemassa"
+
+msgid "The 5 newest replies are shown below."
+msgstr "5 uusinta viestiä näkyy alapuolella"
+
+msgid "The change will not be apparent until the html files are rebuilt."
+msgstr "Muutos näkyy vasta, kun kaikki html-tiedostot on rakennettu uudelleen."
+
+msgid "The directory of the board."
+msgstr "Boardin hakemisto"
+
+msgid "The first post of this board will recieve this ID."
+msgstr "Ensimmäinen viesti tällä boardilla saa tämän ID:n."
+
+msgid "The name of the board."
+msgstr "Boardin nimi"
+
+msgid "The number of replies a thread can have before autosaging to the back of the board."
+msgstr "Kuinka monta vastausta keskustelussa voi olla ennen autosagea."
+
+msgid "The old password you provided did not match the current one."
+msgstr "vanha salasana jonka annoit ei täsmää."
+
+msgid "The second password did not match the first."
+msgstr "Salasanat eivät täsmää"
+
+msgid "The section the board is in.  This is used for displaying the list of boards on the top and bottom of pages."
+msgstr "Alue jossa boardi on. Tätä käytetään näyttämään lista kaikista boardeista  ylä- ja alasivuilla."
+
+msgid "The style which will be set when the user first visits the board."
+msgstr "Tyyli joka on asetettu, kun käviä kävi boardilla ensikertaa."
+
+msgid "The type of posts which will be accepted on this board.  A normal imageboard will feature image and extended format posts, a text board will have no images, and an Oekaki board will allow users to draw images and use them in their posts."
+msgstr "Viestin tyyppi, joka sallitaan tällä boardilla. Tavalliselle imageboardille voidaan lähettää kuvia, Tekstiboardille ei hyväksytä ollenkaan kuvia ja Oekaki imageboardilla kävijät saavat itse piirtää kuvia."
+
+msgid "There are currently no bans."
+msgstr "Ei banneja tällä hetkellä!"
+
+msgid "There are currently no filetypes."
+msgstr "Siellä ei ole tällä hetkellä tiedostotyyppejä"
+
+msgid "There are currently no sections."
+msgstr "Ei tällä hetkellä löydy alueita"
+
+msgid "There are currently no threads to display."
+msgstr "Tällä hetkellä ei ole keskusteluita näytettäväksi"
+
+msgid "There is already a file with that name."
+msgstr "Siellä on jo tiedosto tuolla nimellä!"
+
+msgid "There was an error in trying to delete your post"
+msgstr "Virhe ilmeni viestiäsi poistettaessa.."
+
+msgid "This board does not allow post reporting."
+msgstr "Tämä boardi ei salli ilmiantoa."
+
+msgid "This post has been deleted."
+msgstr "Tämä viesti on poistettu"
+
+msgid "Thread"
+msgstr "Keskustelu"
+
+msgid "Thread successfully deleted."
+msgstr "Keskustelu poistettu onnistuneesti"
+
+msgid "Thread successfully locked."
+msgstr "Keskustelu onnistuneesti lukittu!"
+
+msgid "Thread successfully stickied."
+msgstr "Keskustelu nastoitettu onnistuneesti!"
+
+msgid "Thread successfully un-stickied"
+msgstr "Keskustelun nasta poistettu onnistuneesti."
+
+msgid "Thread successfully unlocked."
+msgstr "Keskustelun lukko onnistuneesti poistettu."
+
+msgid "Threads"
+msgstr "Keskustelut"
+
+msgid "Threads displayed per page (in thread list)"
+msgstr "Keskusteluja näytetty per sivu"
+
+msgid "Thumbnail displayed, click image for full size."
+msgstr "Thumbnail, klikkaa suuremmaksi."
+
+msgid "To"
+msgstr "Vastaanottaja:"
+
+msgid "Trial"
+msgstr "Trial"
+
+msgid "Unable to clear cache: you do not have caching enabled."
+msgstr "Kykenemätön tyhjentämään välimuistia: sinulla ei ole välimuistia käytössä"
+
+msgid "Unable to connect to:"
+msgstr "En kyennyt yhdistää:"
+
+msgid "Unable to create directories."
+msgstr "En kykene luomaan hakemistoa."
+
+msgid "Unable to delete board."
+msgstr "En kykene poistamaan boardia"
+
+msgid "Unable to find record of your IP being banned."
+msgstr "En kyennyt löytää tallenteita siitä että IP:si olisi bannissa."
+
+msgid "Unable to find records of any posts matching that quote syntax."
+msgstr "Kykenemätön löytämään arkistoja yhdestäkään viestistä, joka viittaisi tuohon syntaxiin."
+
+msgid "Unable to locate a board named"
+msgstr "En kykene paikantamaan boardi joka on nimetty:"
+
+msgid "Unable to locate a filetype with that ID."
+msgstr "En kyennyt paikantamaan tiedostotyyppiä tuolla ID:llä"
+
+msgid "Unable to locate a section with that ID."
+msgstr "En kyennyt paikantamaan aluetta tuolla ID:llä"
+
+msgid "Unable to locate that word."
+msgstr "En pysty paikantamaan tuota sanaa"
+
+msgid "Unable to read uploaded file during thumbnailing."
+msgstr "Kykenemätön lukemaan lähetettyä kuvaa thumbnailatessa."
+
+msgid "Unable to report post.  Please go back and try again."
+msgstr "En pystynyt ilmiantaa viestiä. Mene takaisin ja kokeile uudelleen."
+
+msgid "Unbanned"
+msgstr "Ei-bannattu"
+
+msgid "Unlock"
+msgstr "Poista lukitus"
+
+msgid "Unlocked thread"
+msgstr "Ei-lukitut keskustelut"
+
+msgid "Unstickied thread"
+msgstr "Ei-nastoitettu keskustelu"
+
+msgid "Unsticky"
+msgstr "Poista nasta"
+
+msgid "Upating pages."
+msgstr "Päivitetään sivua."
+
+msgid "Update"
+msgstr "Päivitys"
+
+msgid "Update and regenerate board"
+msgstr "Päivitä ja regeneroi boardi"
+
+msgid "Update successful."
+msgstr "Päivitetty onnistuneesti"
+
+msgid "Update without regenerating board"
+msgstr "Päivitä ilman boardi regenerointia"
+
+msgid "Updated board configuration"
+msgstr "Päivitetty boardin kokoonpanoa"
+
+msgid "Updated global configuration"
+msgstr "Päivitettu globaalia kokoonpanoa"
+
+msgid "Updated staff member"
+msgstr "Päivitetty henkilökunnan jäsen"
+
+msgid "Updated word on wordfilter"
+msgstr "Päivitetty sana sanafiltteriin"
+
+msgid "Upload type:"
+msgstr "Upload tyyppi:"
+
+msgid "Use animation?"
+msgstr "Käytetäänkö animaatiota?"
+
+msgid "Username"
+msgstr "Käyttäjätunnus"
+
+msgid "View Reports"
+msgstr "Katsele selostetia"
+
+msgid "View all bans"
+msgstr "Näytä kaikki bannit"
+
+msgid "View animation"
+msgstr "Näytä animaatio"
+
+msgid "View catalog"
+msgstr "Näytä catalogi"
+
+msgid "View deleted thread"
+msgstr "Katsele poistettuja keskusteluita"
+
+msgid "View/Add/Remove bans"
+msgstr "Katsele/Lisää/Poista banneja"
+
+msgid "Viewed disk space used"
+msgstr "Katso kuinka paljon levytilaa on käytetty"
+
+msgid "Watched Threads"
+msgstr "Seuratut keskustelut"
+
+msgid "Welcome"
+msgstr "Tervetuloa"
+
+msgid "What filetypes users are allowed to upload."
+msgstr "Mitä tiedostotyyppejä kävijöiden on sallittua uploadata"
+
+msgid "Whether or not to allow embedding of videos."
+msgstr "joko tai ei, salli videoiden upotus."
+
+msgid "Width"
+msgstr "Leveys"
+
+msgid "Word"
+msgstr "Sana"
+
+msgid "Word successfully added."
+msgstr "Sana onnistuneesti lisätty."
+
+msgid "Word successfully removed."
+msgstr "Sana onnistuneesti poistettu"
+
+msgid "Word successfully updated."
+msgstr "Sana onnistuneesti päivitetty"
+
+msgid "Wordfilter"
+msgstr "Sanafiltteri"
+
+msgid "YOU ARE BANNED"
+msgstr "OLET BANNITTY TÄLTÄ BOARDILTA"
+
+msgid "YOU ARE NOT BANNED!"
+msgstr "ET OLE BANNISSA!"
+
+msgid "Yes"
+msgstr "Kyllä"
+
+msgid "You are banned from posting on:"
+msgstr "Sinut on bannatty postaamastasi:"
+
+msgid "You are currently posting faster than the configured minimum post delay allows."
+msgstr "Postailet yli annetun minimi odotusajan."
+
+msgid "You are not a moderator of this board."
+msgstr "Et ole tämän boardin moderaattori!"
+
+msgid "You can only delete posts from boards you moderate."
+msgstr "Voit poistaa viestin vain boardilta jossa olet moderaattori."
+
+msgid "You can only make board specific bans to boards which you moderate."
+msgstr "Voit laittaa vain boardi kohtaiset bannit, sinne missä olet moderaattori."
+
+msgid "You have been banned from posting on"
+msgstr "Sait bannit koska lähetit"
+
+msgid "You have been successfully logged out."
+msgstr "Kirjauduit ulos onnistuneesti!"
+
+msgid "You may <b>not</b> appeal this ban."
+msgstr "Sinulla <b>ei</b> ole oikeutta valittaa näistä banneista."
+
+msgid "You may appeal this ban in"
+msgstr "Voit valittaa näistä banneista"
+
+msgid "You may now appeal this ban."
+msgstr "Voit nyt valittaa näistä banneista."
+
+msgid "You must enter a subject."
+msgstr "Sinun täytyy lisätä aihe!"
+
+msgid "You searched for"
+msgstr "Sinä etsit"
+
+msgid "Your IP address is"
+msgstr "Sinun IP osoitteesi on"
+
+msgid "Your appeal is currently pending review."
+msgstr "Sinun valituksesi on vireillä."
+
+msgid "Your appeal was reviewed and denied.  You may <b>not</b> appeal this ban again."
+msgstr "Valituksesi luettiin ja hylättiin. Sinä <b>et</b> voi valittaa näistä banneista enään."
+
+msgid "Your image"
+msgstr "Kuvasi"
+
+msgid "Your post already doesn't have an image!"
+msgstr "Viestissäsi ei vielä ole kuvaa!"
+
+msgid "Your post contains one or more illegal characters."
+msgstr "Viestissäsi on yksi tai enemmän epäkelpoja kirjainta."
+
+msgid "Your posting password"
+msgstr "Salasanasi viestille"
+
+msgid "and"
+msgstr "ja"
+
+msgid "for the following reason"
+msgstr "Seuraavasta syystä"
+
+msgid "forever"
+msgstr "Ikuisesti"
+
+msgid "log in"
+msgstr "kirjaudu sisään"
+
+msgid "log out"
+msgstr "Kirjaudu ulos"
+
+msgid "omitted"
+msgstr "poisjätetty"
+
+msgid "or"
+msgstr "tai"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Jebula https://launchpad.net/~jebula"
+
+msgid "will expire on"
+msgstr "päättyy"
+
+msgid "will not expire"
+msgstr "ei pääty"
+

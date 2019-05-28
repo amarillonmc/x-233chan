@@ -1,0 +1,188 @@
+/*
+This css file was created by Harrison for 24chan.org. Use anywhere else without permission is prohibited.
+Contact: HarrisonHopkins@Gmail.com
+*/
+
+html, body {
+	background:#000;
+	color:#FFF;
+}
+a {
+	color:#888;
+	text-decoration: none;
+}
+a:hover {
+	color:#888;
+}
+.reflink a:hover{
+	font-weight: bold;
+}
+input, textarea {
+background-color: #000;
+color: #fff;
+border: 1px solid #CCC;
+}
+input:focus, textarea:focus
+{
+background-color: #444;
+}
+.adminbar {
+	text-align:right;
+	clear:both;
+	float:right;
+	font-size: 13px;
+}
+.navbar {
+	font-size: 13px;
+}
+.logo {
+	clear:both;
+	text-align:center;
+	font-size:2em;
+	color:#FFF;
+	width:100%;
+}
+.replymode {
+	background:#AAA;
+	text-align:center;
+	padding:2px;
+	color:#000;
+	width:100%;
+}
+.catalogmode {
+	background:#0040E0;
+	text-align:center;
+	padding:2px;
+	color:#FFFFFF;
+	width:100%;
+}
+.postarea {
+}
+.rules {
+	/*font-size:0.7em;*/
+	width: 468px;
+	font-size: 10px;
+	font-family: sans-serif;
+}
+.rules li {
+	margin-left: 1em;
+	/*text-indent: 0em;*/
+}
+.postblock {
+	background:#444;
+	color:#CCC;
+	font-weight:800;
+	text-align: left;
+	padding-left: 3px;
+	padding-right: 3px;
+	border: 1px solid #666;
+}
+.footer {
+	text-align:center;
+	font-size:12px;
+	font-family:serif;
+}
+.passvalid {
+	background:#444;
+	text-align:center;
+	width:100%;
+	color:#ffffff;
+}
+.dellist {
+	font-weight: bold;
+	text-align:center;
+}
+.delbuttons {
+	text-align:center;
+	padding-bottom:4px;
+
+}
+.managehead {
+	background:#AAAA66;
+	color:#400000;
+	padding:0px;
+}
+.postlists {
+	background:#FFFFFF;
+	width:100%;
+	padding:0px;
+	color:#FFF;
+}
+.row1 {
+	background:#EEEECC;
+	color:#FFF;
+}
+.row2 {
+	background:#DDDDAA;
+	color:#FFF;
+}
+.unkfunc {
+	background:inherit;
+	color:#789922;
+}
+.filesize {
+	text-decoration:none;
+}
+.filetitle {
+	background:inherit;
+	font-size:1.2em;
+	color:#CC1105;
+	font-weight:800;
+}
+.postername {
+	color:#CCC;
+	font-weight:bold;
+}
+.postertrip {
+	color:#CCC;
+}
+.oldpost {
+	color:#CC1105;
+	font-weight:800;
+}
+.omittedposts {
+	color:#707070;
+}
+.reply {
+	background: #444;
+	color: #FFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding: 5px;
+}
+.replyhl {
+	background: #F0C0B0;
+	color: #FFF;
+}
+.doubledash {
+	vertical-align:top;
+	clear:both;
+	float:left;
+}
+.replytitle {
+	font-size: 1.2em;
+	color:#CC1105;
+	font-weight:800;
+}
+.commentpostername {
+	color:#117743;
+	font-weight:800;
+}
+.thumbnailmsg {
+	font-size: small;
+	color:#FFF;
+}
+.abbrev {
+	color:#707070;
+}
+.highlight {
+	background:#444;
+	color:#FFF;
+	border: 2px dashed #FFF;
+}
+#watchedthreads {
+	background-color: #444 !important;
+}
+.reflinkpreview {
+	background-color: #444 !important;
+}

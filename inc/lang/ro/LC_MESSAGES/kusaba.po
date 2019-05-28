@@ -1,0 +1,2337 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Kusaba X\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: !Rocky <rocky@rochan.ro>\n"
+"Language-Team: ROchan <admin@rochan.ro>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "%d Boards"
+msgstr "%d forumuri"
+
+msgid "%s bans not shown."
+msgstr "%s banuri neafişate."
+
+msgid "%s images shown."
+msgstr "%s imagini afişate."
+
+msgid "%s posts shown."
+msgstr "%s mesaje afişate."
+
+msgid "%s not implemented."
+msgstr "%s neimplementat."
+
+msgid "%s uploaded."
+msgstr "%s uploadat."
+
+msgid "(for post and file deletion)"
+msgstr "(pentru ştergerea mesajului)"
+
+msgid "(note that this is a rough limit, more may be shown)"
+msgstr "(limită relativă; pot fi afișate mai multe)"
+
+msgid "<h2>Add News Post</h2>This message will be displayed as it is written, so make sure you add the proper HTML."
+msgstr "<h2>Adaugă ştire</h2>Mesajul va fi afişat aşa cum e scris, deci vezi să bagi HTML corect."
+
+msgid "A board with that name already exists."
+msgstr "Deja există acest forum."
+
+msgid "A board with that name does not exist."
+msgstr "Nu există acest forum."
+
+msgid "A common cause for this is an incorrect extension when the file is actually of a different type."
+msgstr "Asta înseamnă că extensia fişierului e diferită de tipul fişierului."
+
+msgid "A file is required for a new thread. If embedding is allowed, either a file or embed ID is required."
+msgstr "Pentru o discuţie nouă, ai nevoie de un fişier (sau de un embed, dacă opţiunea e activată)."
+
+msgid "A live record for %s was not found; the file has been removed."
+msgstr "Nu am găsit %s; fişierul a fost şters."
+
+msgid "A message is required to post without a file."
+msgstr "Ca să postezi fără fişier, trebuie să scrii ceva."
+
+msgid "A post with that ID does not exist."
+msgstr "Nu există acest mesaj."
+
+msgid "A staff member with that ID already exists."
+msgstr "Alt membru al staff-ului are acest ID."
+
+msgid "A staff member with that id does not appear to exist."
+msgstr "Nu există un membru al staff-ului cu acest ID."
+
+msgid "Abbreviation (less then 10 characters)"
+msgstr "Prescurtarea secţiunii (maxim 10 caractere)"
+
+msgid "Abbreviation"
+msgstr "Prescurtare"
+
+msgid "Action"
+msgstr "Acţiune"
+
+msgid "Ad Edited"
+msgstr "Reclamă editată"
+
+msgid "Ad Management"
+msgstr "Administrarea reclamelor"
+
+msgid "Add ban message"
+msgstr "Adaugă mesajul pentru ban"
+
+msgid "Add ban"
+msgstr "Adaugă ban"
+
+msgid "Add Board"
+msgstr "Adaugă forumul"
+
+msgid "Add board"
+msgstr "Adaugă un forum"
+
+msgid "Add filetype"
+msgstr "Adaugă un tip de fişier"
+
+msgid "Add new blotter entry"
+msgstr "Buletin nou"
+
+msgid "Add news"
+msgstr "Adaugă o ştire"
+
+msgid "Add Results"
+msgstr "Rezultat"
+
+msgid "Add section"
+msgstr "Adaugă o secţiune"
+
+msgid "Add staff member"
+msgstr "Adaugă membru nou în staff"
+
+msgid "Add word"
+msgstr "Adaugă un cuvânt"
+
+msgid "Add"
+msgstr "Adaugă"
+
+msgid "Add/Delete boards"
+msgstr "Adaugă / şterge forumuri"
+
+msgid "Added a FAQ entry"
+msgstr "Adăugat un FAQ"
+
+msgid "Added a news entry"
+msgstr "Adăugat ştirea"
+
+msgid "Added a Rule entry"
+msgstr "Adăugat o regulă"
+
+msgid "Added an announcement"
+msgstr "Adăugat anunţ"
+
+msgid "Added an Embed"
+msgstr "Adăugat un embed"
+
+msgid "Added board"
+msgstr "Adăugat forumul"
+
+msgid "Added By"
+msgstr "Adăugat de"
+
+msgid "Added on"
+msgstr "Adăugat pe"
+
+msgid "Added staff member"
+msgstr "Adăugat membru"
+
+msgid "Added word to wordfilter: %s - Changes to: %s - Boards: /%s/"
+msgstr "Adăugat filtru: %s - Înlocuit de: %s - Forumuri: /%s/"
+
+msgid "Added"
+msgstr "Adăugat"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Administration"
+msgstr "Administraţie"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Administrators"
+msgstr "Administratori"
+
+msgid "All Boards"
+msgstr "Toate forumurile"
+
+msgid "All boards"
+msgstr "Toate forumurile"
+
+msgid "All threads on /%s/"
+msgstr "Toate discuţiile de pe /%s/"
+
+msgid "All Threads"
+msgstr "Toate discuţiile"
+
+msgid "All threads/posts by that IP in selected boards successfully deleted."
+msgstr "Toate discuţiile / mesajele de pe acest IP au fost şterse."
+
+msgid "Allow read"
+msgstr "Se permite citirea?"
+
+msgid "Allowed embeds"
+msgstr "Embeduri permise"
+
+msgid "Allowed filetypes"
+msgstr "Fişiere permise"
+
+msgid "Already posted %shere%s."
+msgstr "Postat %saici%s."
+
+msgid "An image, or message, is required for a reply."
+msgstr "Ca să răspunzi, ai nevoie de un mesaj sau de-o imagine."
+
+msgid "An invalid applet was specified. Save a screenshot of your work in case of continued failure."
+msgstr "Applet invalid. Fă un screenshot la ce-ai făcut, în caz că pică appletul de tot."
+
+msgid "and"
+msgstr "şi"
+
+msgid "Announcement edited"
+msgstr "Anunţ editat"
+
+msgid "Announcement Management"
+msgstr "Administrare anunţuri"
+
+msgid "Announcement successfully added."
+msgstr "Anunţ adăugat."
+
+msgid "Announcement successfully deleted"
+msgstr "Anunţ şters"
+
+msgid "Announcements"
+msgstr "Anunţuri"
+
+msgid "Anonymous"
+msgstr "Anonim"
+
+msgid "Anything can go here, such as banners, links, etc. It doesn't have to be just ads."
+msgstr "Aici poţi pune orice (bannere, linkuri, etc.). Nu trebuie să fie neapărat reclame."
+
+msgid "Appeal (days)"
+msgstr "Cerere de debanare (zile)"
+
+msgid "Appeal Message"
+msgstr "Cerere de debanare"
+
+msgid "Appeal successfully denied."
+msgstr "Cerere de debanare respinsă."
+
+msgid "Appeal:"
+msgstr "Cerere de debanare:"
+
+msgid "Appeals"
+msgstr "Cereri de debanare:"
+
+msgid "Archive"
+msgstr "Arhivă"
+
+msgid "Are you absolutely sure you want to delete %s?"
+msgstr "Sigur vrei să ştergi %s?"
+
+msgid "Are you sure you want to delete and ban this poster?"
+msgstr "Sigur vrei să ştergi şi să banezi acest user?"
+
+msgid "Are you sure you want to delete this thread/post?"
+msgstr "Sigur vrei să ştergi această discuţie / mesaj?"
+
+msgid "Area"
+msgstr "Director"
+
+msgid "At"
+msgstr "La"
+
+msgid "Average #minutes between posts (past week), boards without posts in past week not shown"
+msgstr "Minute între postări în ultima săptămână (forumurile fără nicu un post nu sunt afişate)"
+
+msgid "back to board"
+msgstr "înapoi la forum"
+
+msgid "Ban duration, reason, and appeal information"
+msgstr "Durata, motivul şi cererea de debanare pentru ban"
+
+msgid "Ban file hash description"
+msgstr "Descrierea banului pentru un hash"
+
+msgid "Ban file hash for"
+msgstr "Banează hash-ul pentru"
+
+msgid "Ban file"
+msgstr "Ban de fişiere"
+
+msgid "Ban from"
+msgstr "Ban pe"
+
+msgid "Ban massage"
+msgstr "Banat din cauza asta"
+
+msgid "Ban message"
+msgstr "Mesajul pentru ban"
+
+msgid "Ban proxy list"
+msgstr "Banare listă de proxy-uri"
+
+msgid "Ban successfully placed."
+msgstr "Banat."
+
+msgid "Ban successfully removed."
+msgstr "Ban scos."
+
+msgid "Ban time"
+msgstr "Durata banului"
+
+msgid "Ban"
+msgstr "Banează"
+
+msgid "Banned %d IP addresses using an IP address list."
+msgstr "Am banat %d IP-uri din listă."
+
+msgid "Banned from"
+msgstr "Banat pe"
+
+msgid "Banned md5 hash %s with a description of %s"
+msgstr "Am banat MD5 hash-ul %s, cu descrierea %s"
+
+msgid "Banned"
+msgstr "Banat"
+
+msgid "Blacklisted link ( %s ) detected."
+msgstr "Link interzis ( %s )."
+
+msgid "Blotter entry added."
+msgstr "Buletin adăugat."
+
+msgid "Blotter entry deleted."
+msgstr "Buletin şters."
+
+msgid "Blotter entry updated."
+msgstr "Buletin actualizat."
+
+msgid "Blotter is disabled."
+msgstr "Bulteinul e dezactivat."
+
+msgid "Blotter updated"
+msgstr "Buletin updatat"
+
+msgid "Blotter"
+msgstr "Buletin"
+
+msgid "Board options"
+msgstr "Administrare forumuri"
+
+msgid "Board successfully added."
+msgstr "Forum adăugat."
+
+msgid "Board successfully deleted."
+msgstr "Forum şters."
+
+msgid "Board type"
+msgstr "Tip de forum"
+
+msgid "Board"
+msgstr "Forum"
+
+msgid "Boards Administration"
+msgstr "Administrare forumuri"
+
+msgid "Boards"
+msgstr "Forumuri"
+
+msgid "Cache successfully flushed."
+msgstr "Cache şters."
+
+msgid "Can be left blank."
+msgstr "Poate fi lăsat gol."
+
+msgid "Can not be left blank"
+msgstr "Nu poate fi lăsat gol"
+
+msgid "Can not be left blank, or longer than 3 characters"
+msgstr "Nu poate fi nici gol, nici mai mare de 3 caractere"
+
+msgid "Can not be left blank. This is what comes before the embed ID. Example: 'http://www.youtube.com/watch?v='"
+msgstr "Nu poate fi lăsat gol. E ceea ce vine înainte de IDul embedului, de exemplu <strong>http://www.youtube.com/watch?v=</strong>"
+
+msgid "Can not be left blank."
+msgstr "Nu poate fi lăsat gol."
+
+msgid "Cancel"
+msgstr "Anulare"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Catalog Mode"
+msgstr "Catalog"
+
+msgid "Change account password"
+msgstr "Schimbare parolă"
+
+msgid "Check for new version"
+msgstr "Versiune nouă?"
+
+msgid "Child Pornography"
+msgstr "Porno ilegal"
+
+msgid "Choose one"
+msgstr "Alege"
+
+msgid "Cleanup finished."
+msgstr "Curăţenie completă."
+
+msgid "Cleanup"
+msgstr "Curăţare"
+
+msgid "Clear All On Page As Reviewed"
+msgstr "Toate sunt în regulă"
+
+msgid "Clear"
+msgstr "Şterge"
+
+msgid "Cleared APC cache"
+msgstr "Cache APC şters"
+
+msgid "Click %shere%s to return to Ad Management."
+msgstr "Click %saici%s pentru a te întoarce la Administrarea Reclamelor."
+
+msgid "Click Reply to view, or %sexpand%s."
+msgstr "Click pe Răspunde ca să vezi, sau %smăreşte%s."
+
+msgid "Click Reply to view."
+msgstr "Click pe Răspunde ca să vezi."
+
+msgid "Click to edit board options"
+msgstr "Click pentru a configura forumul"
+
+msgid "Click to show/hide"
+msgstr "Arată / ascunde"
+
+msgid "Code"
+msgstr "Cod"
+
+msgid "Compact list"
+msgstr "Listare compactă"
+
+msgid "Continue"
+msgstr "Continuă"
+
+msgid "Could not copy uploaded image."
+msgstr "N-am putut copia imaginea uploadată."
+
+msgid "Could not create thumbnail."
+msgstr "N-am putut crea thumbnailul."
+
+msgid "Current version:"
+msgstr "Versiunea curentă:"
+
+msgid "Currently %1 unique user posts."
+msgstr "%1 răspuns(uri) unic(e)."
+
+msgid "Date Added"
+msgstr "Data adăugării"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Days to keep modlog entries"
+msgstr "Numărul de zile pentru păstrarea modlog-ului"
+
+msgid "days"
+msgstr "zile"
+
+msgid "Default style"
+msgstr "Stil implicit"
+
+msgid "Default"
+msgstr "Implicit"
+
+msgid "Delete &amp; Ban"
+msgstr "Şterge şi Banează"
+
+msgid "Delete all posts by IP"
+msgstr "Şterge toate mesajele după IP"
+
+msgid "Delete all posts by this IP"
+msgstr "Şterge toate mesajele de la acest IP"
+
+msgid "Delete board"
+msgstr "Şterge forumul"
+
+msgid "Delete post"
+msgstr "Şterge mesajul"
+
+msgid "Delete posts"
+msgstr "Şterge mesajele"
+
+msgid "Delete Results"
+msgstr "Rezultatul ştergerii"
+
+msgid "Delete thread"
+msgstr "Şterge discuţia"
+
+msgid "Delete thread/post"
+msgstr "Şterge discuţia / mesajul"
+
+msgid "Delete"
+msgstr "Şterge"
+
+msgid "Deleted a FAQ entry"
+msgstr "FAQ şters"
+
+msgid "Deleted a news entry"
+msgstr "Ştire ştearsă"
+
+msgid "Deleted a Rules entry"
+msgstr "Regulă ştearsă"
+
+msgid "Deleted a VIP code"
+msgstr "Cod VIP şters"
+
+msgid "Deleted an announcement"
+msgstr "Anunţ şters"
+
+msgid "Deleted an Embed"
+msgstr "Şters un embed"
+
+msgid "Deleted board"
+msgstr "Forum şters"
+
+msgid "Deleted post"
+msgstr "Răspuns şters"
+
+msgid "Deleted posts by ip"
+msgstr "Mesaje şterse, după IP"
+
+msgid "Deleted staff member"
+msgstr "Membru al staff-ului şters"
+
+msgid "Deleted thread"
+msgstr "Discuţie ştearsă"
+
+msgid "DELETED"
+msgstr "ŞTERS"
+
+msgid "Deleting non-deleted replies which belong to deleted threads."
+msgstr "Ştergere mesaje orfane."
+
+msgid "Deleting unused images."
+msgstr "Ştergere imagini neutilizate."
+
+msgid "Denied the ban appeal for"
+msgstr "Cererea de debanare respinsă pentru"
+
+msgid "Description"
+msgstr "Descriere"
+
+msgid "Directory"
+msgstr "Director"
+
+msgid "Disk space used"
+msgstr "Spaţiu utilizat"
+
+msgid "Display"
+msgstr "Afişare"
+
+msgid "Displayed"
+msgstr "Afişată"
+
+msgid "Does not expire"
+msgstr "Nu expiră"
+
+msgid "Duplicate file entry detected."
+msgstr "Fişier duplicat."
+
+msgid "Duplicate thread subject"
+msgstr "Subiect duplicat"
+
+msgid "Duration:"
+msgstr "Până pe:"
+
+msgid "Edit filetypes"
+msgstr "Editare tipuri de fişiere"
+
+msgid "Edit sections"
+msgstr "Editare secţiuni"
+
+msgid "Edit templates"
+msgstr "Editare template-uri"
+
+msgid "Edit word"
+msgstr "Editează filtrul"
+
+msgid "Edit"
+msgstr "Editează"
+
+msgid "Edit/Delete announcement"
+msgstr "Editează / şterge un anunţ"
+
+msgid "Edit/Delete Embeds"
+msgstr "Editează / şterge embeduri"
+
+msgid "Edit/Delete FAQ Entries"
+msgstr "Editează / şterge FAQ-urile"
+
+msgid "Edit/Delete News"
+msgstr "Editează / şterge o ştire"
+
+msgid "Edit/Delete Rule Entries"
+msgstr "Editează / şterge regulile"
+
+msgid "Edit/Delete"
+msgstr "Editează / Şterge"
+
+msgid "Edited a FAQ entry"
+msgstr "FAQ editat"
+
+msgid "Edited a news entry"
+msgstr "Ştire editată"
+
+msgid "Edited a Rule entry"
+msgstr "Regulă editată"
+
+msgid "Edited a VIP cod"
+msgstr "Cod VIP editat"
+
+msgid "Edited an ad"
+msgstr "Editat o reclamă"
+
+msgid "Edited an announcement"
+msgstr "Anunţ editat"
+
+msgid "Edited an embed"
+msgstr "Editat un embed"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Embed deleted"
+msgstr "Embed şters"
+
+msgid "Embed Edited"
+msgstr "Embed editat"
+
+msgid "Embed Management"
+msgstr "Administrare embeduri"
+
+msgid "Embed successfully added."
+msgstr "Embed agăugat"
+
+msgid "Embed"
+msgstr "Embed"
+
+msgid "Embedding only"
+msgstr "Numai embed"
+
+msgid "Enable 'no file' posting"
+msgstr "Postare fără fişier"
+
+msgid "Enable archiving"
+msgstr "Arhivare"
+
+msgid "Enable captcha"
+msgstr "Captcha"
+
+msgid "Enable catalog"
+msgstr "Catalogare"
+
+msgid "Enable reporting"
+msgstr "Raportare"
+
+msgid "Enable/disable captcha system for this board. If captcha is enabled, in order for a user to post, they must first correctly enter the text on an image."
+msgstr "Activare / dezactivare captcha pe forum. Dacă e activat, utilizatorul va trebui sa scrie corect textul dintr-o imagine."
+
+msgid "Enable/disable thread archiving for this board (not available if load balancer is used). If enabled, when a thread is pruned or deleted through this panel with the archive checkbox checked, the thread and its images will be moved into the arch directory, found in the same directory as the board. To function properly, you must create and set proper permissions to /boardname/arch, /boardname/arch/res, /boardname/arch/src, and /boardname/arch/thumb"
+msgstr "Activare / dezactivare arhivarea forumului (nu se poloseşte dacă ai un script adiţional). Dacă e activat, atunci când o discuţie este ştearsă cu opţiunea de arhivare, discuţia şi imaginile sale vor fi mutate în directorul <strong>arch</strong> din acelaşi director în care se află şi forumul. Ca să meargă cum trebuie, trebuie să creezi şi să acorzi permisii următoarelor directoare: <strong>/boardname/arch</strong>, <strong>/boardname/arch/res</strong>, <strong>/boardname/arch/src</strong>, şi <strong>/boardname/arch/thumb</strong>"
+
+msgid "Enclose text in {t}{/t} blocks to allow them to be translated for different languages."
+msgstr "Încadrează textul care vrei sa fie localizabil între <strong>{t}</strong> şi <strong>{/t}</strong>"
+
+msgid "Entire Thread"
+msgstr "Toată discuţia"
+
+msgid "Error"
+msgstr "Eroare"
+
+msgid "Error, it appears your file did not transfer properly. Please go back and try again."
+msgstr "Fişierul nu a fost uploadat cum trebuie. Incearcă din nou."
+
+msgid "Error: That thread doesn't have a file associated with it."
+msgstr "Eroare: Discuţia nu are vreo imagine asociată."
+
+msgid "Error: The directory ./%s was not found and could not be created. Please notify the sites administrator with a copy of this error."
+msgstr "Eroare: directorul ./%s nu există şi nu a putut fi creat. Anunţă un administrator de eroarea aceasta."
+
+msgid "Expand all images"
+msgstr "Măreşte toate imaginile"
+
+msgid "Expires"
+msgstr "Expiră pe:"
+
+msgid "Expires:"
+msgstr "Expiră pe:"
+
+msgid "Extension icon displayed, click image to open file."
+msgstr "Icoană; dă un click pentru a deschide fişierul."
+
+msgid "Failed to write file to disk."
+msgstr "Nu am putut scrie pe disc."
+
+msgid "FAQ entry deleted"
+msgstr "FAQ şters"
+
+msgid "FAQ entry edited"
+msgstr "FAQ editat"
+
+msgid "FAQ entry successfully added."
+msgstr "FAQ adăugat"
+
+msgid "FAQ Management"
+msgstr "Administrare FAQ"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "File hash bans"
+msgstr "Fişiere banate"
+
+msgid "File Only"
+msgstr "Numai fişierul"
+
+msgid "File successfully deleted."
+msgstr "Fişier şters."
+
+msgid "File transfer failure. Please go back and try again."
+msgstr "N-am putut uploada fişierul. Încearcă din nou."
+
+msgid "File was not fully uploaded. Please go back and try again."
+msgstr "Fişierul nu a fost uploadat complet. Încearcă din nou."
+
+msgid "File was not properly thumbnailed"
+msgstr "Fişierul n-a fost redimensionat corect"
+
+msgid "File"
+msgstr "Fişier"
+
+msgid "File<br />Removed"
+msgstr "Fişier<br />Şters"
+
+msgid "Files"
+msgstr "Fişiere"
+
+msgid "Filetype added."
+msgstr "Tipul de fişier adăugat."
+
+msgid "Filetype deleted."
+msgstr "Tipul de fişier şters."
+
+msgid "Filetype updated."
+msgstr "Tipul de fişier actualizat."
+
+msgid "Filetype"
+msgstr "Fişier"
+
+msgid "First 100 posts shown."
+msgstr "Primele 100 de mesaje."
+
+msgid "First 100 posts"
+msgstr "Primele 100 de mesaje"
+
+msgid "first phrase here"
+msgstr "prima frază"
+
+msgid "First Post ID"
+msgstr "ID-ul primului mesaj"
+
+msgid "for the following reason"
+msgstr "pentru că"
+
+msgid "Forced anonymous"
+msgstr "Anonimat forţat"
+
+msgid "forever"
+msgstr "permanent"
+
+msgid "Frames removed"
+msgstr "Frame-uri ascunse"
+
+msgid "From"
+msgstr "De la"
+
+msgid "Front Page"
+msgstr "Prima pagină"
+
+msgid "Front"
+msgstr "Înainte"
+
+msgid "Get posting password"
+msgstr "Parola mesajului"
+
+msgid "Global configuration succesfully updated."
+msgstr "Configuraţia globală actualizată."
+
+msgid "Global options"
+msgstr "Opţiuni globale"
+
+msgid "Go"
+msgstr "Mai departe"
+
+msgid "Header image"
+msgstr "Header"
+
+msgid "Heading"
+msgstr "Subiect"
+
+msgid "Height"
+msgstr "Înălţime"
+
+msgid "Hidden"
+msgstr "Ascuns"
+
+msgid "hidden."
+msgstr "ascunsă."
+
+msgid "Hide Directories"
+msgstr "Ascunde directoarele"
+
+msgid "Hide the watched threads box"
+msgstr "Ascunde discuţiile urmărite"
+
+msgid "Home"
+msgstr "Acasă"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "If checked, the configured ban message will be added to the end of the post."
+msgstr "Selectează pentru a adăuga mesajul de banare la sfârşitul mesajului userului."
+
+msgid "If checked, this section will be collapsed by default when a user visits the site."
+msgstr "Selectează pentru a ascunde secţiunea la accesare."
+
+msgid "If enabled, each post will display the poster's ID, which is a representation of their IP address."
+msgstr "Dacă alegi <strong>Da</strong>, fiecare răspuns va afişa ID-ul userului, adică o reprezentare a IP-ului său."
+
+msgid "If set to yes, a catalog.html file will be built with the other files, displaying the original picture of every thread in a box. This will only work on normal/oekaki imageboards."
+msgstr "Dacă alegi <strong>Da</strong>, va fi creat fişierul <strong>catalog.html</strong> care va afişa imaginile originale din fiecare discuţie. Funcţionează doar pe forumurile normale şi cele de Oekaki."
+
+msgid "If set to yes, new threads will not require an image to be posted."
+msgstr "Dacă alegi <strong>Da</strong>, discuţiile noi nu vor avea nevoie de o imagine."
+
+msgid "If set to yes, this board will appear in bold in the menu"
+msgstr "Dacă alegi <strong>Da</strong>, forumul va apărea boldat în meniu."
+
+msgid "If set to yes, this board will appear in italics in the menu"
+msgstr "Dacă alegi <strong>Da</strong>, forumul va apărea cu italice în meniu."
+
+msgid "If set to yes, users will be redirected to the thread they replied to/posted after posting. If set to no, users will be redirected to the first page of the board."
+msgstr "Dacă alegi <strong>Da</strong>, userii vor fi redirecţionaţi către mesajul lor după ce-au postat. Daca alegi <strong>Nu</strong>, vor fi redirecţionaţi către prima pagină a forumului."
+
+msgid "If set to yes, users will not be allowed to enter a name, making everyone appear as Anonymous"
+msgstr "Dacă alegi <strong>Da</strong>, userii nu vor putea alege un nume, apărând toţi ca Anonim."
+
+msgid "If this is set to <em>Select a Board</em>, <strong>it will not be shown in the menu</strong>."
+msgstr "Dacă laşi valoarea implicită, <strong>nu va apărea în meniu</strong>."
+
+msgid "Image height"
+msgstr "Înălţimea imaginii"
+
+msgid "Image successfully deleted from your post."
+msgstr "Imaginea a fost ştearsă din mesaj."
+
+msgid "Image width"
+msgstr "Lăţimea imaginii"
+
+msgid "Image"
+msgstr "Imagine"
+
+msgid "Images and embedding"
+msgstr "Imagini şi embed"
+
+msgid "Images greater than %1x%2 pixels will be thumbnailed."
+msgstr "Imaginile mai mari de %1x%2 vor fi redimensionate."
+
+msgid "Images"
+msgstr "Imagini"
+
+msgid "Important"
+msgstr "Important"
+
+msgid "Improper filetype."
+msgstr "Fişierul nu e permis."
+
+msgid "Include header"
+msgstr "Header inclus"
+
+msgid "Incorrect captcha entered."
+msgstr "Captcha incorect."
+
+msgid "Incorrect password."
+msgstr "Parolă incorectă."
+
+msgid "Incorrect username/password."
+msgstr "Nume / parolă incorectă"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Inject"
+msgstr "Execută"
+
+msgid "Inserted SQL"
+msgstr "SQL inserat"
+
+msgid "Integer values must be entered correctly."
+msgstr "Numerele întregi trebuiesc introduse corect."
+
+msgid "Invalid action"
+msgstr "Acţiune invalidă."
+
+msgid "Invalid ban ID"
+msgstr "ID de ban invalid."
+
+msgid "Invalid board directory."
+msgstr "Director inavlid."
+
+msgid "Invalid board."
+msgstr "Forum inavlid."
+
+msgid "Invalid ID"
+msgstr "ID invalid"
+
+msgid "Invalid image data was sent. The error may be that the applet you are using is configured incorrectly (POO compatibility was be enabled). Save a screenshot of your work in case of continued failure."
+msgstr "A fost trimisă o imagine invalidă. E posibil ca asta să se întâmple din cauză că appletul n-a fost configurat corect. Fă un screenshot la ce-ai făcut, în caz că pică appletul de tot."
+
+msgid "Invalid MIME type for this filetype."
+msgstr "MIME invalid pentru acest tip de fişier."
+
+msgid "Invalid operation."
+msgstr "Operaţie invalidă."
+
+msgid "Invalid reply image."
+msgstr "Imagine invalidă."
+
+msgid "Invalid response code"
+msgstr "Cod de răspuns invalid"
+
+msgid "Invalid session, please log in again."
+msgstr "Sesiune invalidă, loghează-te din nou."
+
+msgid "Invalid session."
+msgstr "Sesiune invalidă."
+
+msgid "Invalid staff ID."
+msgstr "ID de staff invalid."
+
+msgid "Invalid thread ID %s. This may have been caused by the thread recently being deleted."
+msgstr "ID de discuţie %s invalid. E posibil ca discuţia să fi fost ştearsă recent."
+
+msgid "Invalid thread ID. This may have been caused by the thread recently being deleted."
+msgstr "ID de discuţie invalid. E posibil ca discuţia să fi fost ştearsă recent."
+
+msgid "Invalid thread ID."
+msgstr "ID de discuţie invalid."
+
+msgid "Invalid video ID."
+msgstr "ID de video invalid."
+
+msgid "Invalid video type."
+msgstr "Tip de video invalid."
+
+msgid "IP address and ban type"
+msgstr "IP şi tipul de ban"
+
+msgid "IP Address Search"
+msgstr "Căutare după IP"
+
+msgid "IP Address"
+msgstr "Adresa IP"
+
+msgid "IP Range Bans"
+msgstr "Serie de IP-uri banată"
+
+msgid "IP Range"
+msgstr "Serie de IP-uri"
+
+msgid "IP Search"
+msgstr "Căutare după IP"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Is replaced by"
+msgstr "E înlocuit de"
+
+msgid "Janitor"
+msgstr "Junior"
+
+msgid "Last 50 posts shown."
+msgstr "Ultimele 50 de mesaje."
+
+msgid "Last 50 posts"
+msgstr "Ultimele 50 de mesaje"
+
+msgid "Last active"
+msgstr "Ultima activitate"
+
+msgid "Last Post"
+msgstr "Ultimul mesaj"
+
+msgid "Load balance password"
+msgstr "Parola scriptului adiţional"
+
+msgid "Load balance URL"
+msgstr "Script adiţional"
+
+msgid "Locale to use on this board. Leave blank to use the locale defined in config.php"
+msgstr "Limba forumului. Lasă gol ca să foloseşti limba definită în config.php"
+
+msgid "Locale"
+msgstr "Limbă"
+
+msgid "Lock"
+msgstr "Blocare"
+
+msgid "Locked thread"
+msgstr "Blocat discuţie"
+
+msgid "Locked"
+msgstr "Blocat"
+
+msgid "Log in again."
+msgstr "Loghează-te din nou."
+
+msgid "Log in"
+msgstr "Logare"
+
+msgid "Log out"
+msgstr "Delogare"
+
+msgid "Logged in"
+msgstr "S-a logat"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Looking for orphans in"
+msgstr "Caut orfani în"
+
+msgid "Looking for unused images in"
+msgstr "Caut imagini nefolosite în"
+
+msgid "Manage Ads"
+msgstr "Administrare reclame"
+
+msgid "Manage Boards"
+msgstr "Administrare forumuri"
+
+msgid "Manage embeds"
+msgstr "Administrare embeduri"
+
+msgid "Manage locked threads"
+msgstr "Administrare discuţii blocate"
+
+msgid "Manage stickies"
+msgstr "Administrare mesaje importante"
+
+msgid "Manage"
+msgstr "Administrare"
+
+msgid "Mark page"
+msgstr "Marcare pentru ştergere"
+
+msgid "Marked for deletion (old)."
+msgstr "Marcat pentru ştergere (e vechi)"
+
+msgid "Maximum board pages"
+msgstr "Număr maxim de pagini"
+
+msgid "Maximum file size allowed is"
+msgstr "Dimensiune maximă pentru fişiere este"
+
+msgid "Maximum image size"
+msgstr "Dimensiune maximă pentru imagini"
+
+msgid "Maximum message length"
+msgstr "Dimensiune maximă pentru mesaj"
+
+msgid "Maximum thread age (Hours)"
+msgstr "Vârsta maximă a discuţiei (ore)"
+
+msgid "Maximum thread replies"
+msgstr "Număr maxim de răsunsuri"
+
+msgid "Maxmimum size of uploaded images, in <strong>bytes</strong>."
+msgstr "Dimensiunea maximă a imaginilor uploadate, <strong>în bytes</strong>."
+
+msgid "Maxmimum thumbnail height"
+msgstr "Înălţimea maximă a thumbnailului"
+
+msgid "Maxmimum thumbnail width"
+msgstr "Lăţimea maximă a thumbnailului"
+
+msgid "Message too long. Click %shere%s to view the full text."
+msgstr "Mesaj prea mare Click %saici%s pentru a vedea textul complet."
+
+msgid "Message"
+msgstr "Mesaj"
+
+msgid "MIME type"
+msgstr "Tipul de fişier (MIME type)"
+
+msgid "Misc"
+msgstr "Altele"
+
+msgid "Missing a temporary folder."
+msgstr "Lipseşte un folder temporar."
+
+msgid "Mod"
+msgstr "Mod"
+
+msgid "Moderates"
+msgstr "Moderează"
+
+msgid "Moderating Boards"
+msgstr "Forumuri de moderare"
+
+msgid "Moderating boards"
+msgstr "Moderare forumuri"
+
+msgid "Moderation"
+msgstr "Moderare"
+
+msgid "Moderator"
+msgstr "Moderator"
+
+msgid "Moderators"
+msgstr "Moderatori"
+
+msgid "Modify staff member"
+msgstr "Modifică membru al staff-ului"
+
+msgid "Modify"
+msgstr "Modifică"
+
+msgid "ModLog"
+msgstr "ModLog"
+
+msgid "Module settings"
+msgstr "Configurare module"
+
+msgid "Modules"
+msgstr "Module"
+
+msgid "More"
+msgstr "Mai mult"
+
+msgid "Move complete."
+msgstr "Mutare completă."
+
+msgid "Move Files"
+msgstr "Mutare fişiere"
+
+msgid "Move thread"
+msgstr "Mutare discuţie"
+
+msgid "Name to display when a name is not attached to a post."
+msgstr "Numele care se va afişa in afara unui mesaj."
+
+msgid "Name"
+msgstr "Nume"
+
+msgid "never"
+msgstr "niciodată"
+
+msgid "New image"
+msgstr "Imagine nouă"
+
+msgid "New password again"
+msgstr "Din nou"
+
+msgid "New password"
+msgstr "Parolă nouă"
+
+msgid "New Thread"
+msgstr "Discuţie nouă"
+
+msgid "News entry successfully added."
+msgstr "Ştire adugată."
+
+msgid "News Management"
+msgstr "Administrare ştiri"
+
+msgid "News post deleted"
+msgstr "Ştire ştearsă"
+
+msgid "News post edited"
+msgstr "Ştire editată"
+
+msgid "News"
+msgstr "Ştiri"
+
+msgid "Next"
+msgstr "Înainte"
+
+msgid "No announcements yet."
+msgstr "Încă nu sunt anunţuri"
+
+msgid "No Appeal"
+msgstr "Fără drept de apel"
+
+msgid "No blotter entries"
+msgstr "Nu sunt buletine."
+
+msgid "No blotter entries."
+msgstr "Nu sunt buletine."
+
+msgid "No boards"
+msgstr "Pe nici un forum"
+
+msgid "No embedding"
+msgstr "Fără embed"
+
+msgid "No Embedding"
+msgstr "Fără embed"
+
+msgid "No Embeds yet."
+msgstr "Nu există embeduri."
+
+msgid "No FAQ entries yet."
+msgstr "Nu este nimic în FAQ."
+
+msgid "No file was uploaded."
+msgstr "Nu a fost uploadat nici un fişier."
+
+msgid "No File"
+msgstr "Fără fişier"
+
+msgid "No locked threads."
+msgstr "Nici o discuţie nu e blocată."
+
+msgid "No news posts yet."
+msgstr "Încă nu sunt ştiri."
+
+msgid "No recent images currently need review."
+msgstr "Nu este nici o imagine de revizuit."
+
+msgid "No reports to show."
+msgstr "Nu este nici un raport."
+
+msgid "No results found for"
+msgstr "Nu am găsit nimic pentru"
+
+msgid "No Rule entries yet."
+msgstr "Nu este nici o regulă."
+
+msgid "No stickied threads."
+msgstr "Nu sunt discuţii importante."
+
+msgid "No threads."
+msgstr "Nu sunt discuţii."
+
+msgid "No valid posts specified."
+msgstr "N-ai selectat nici un mesaj valid."
+
+msgid "No visible boards"
+msgstr "Forumuri invizibile"
+
+msgid "No"
+msgstr "Nu"
+
+msgid "No."
+msgstr "Nr."
+
+msgid "None"
+msgstr "Niciunul"
+
+msgid "Normal Imageboard"
+msgstr "Imageboard normal"
+
+msgid "Not Displayed"
+msgstr "Neafişată"
+
+msgid "NOTICE: You are using the default administrator account. Anyone can log in to this account, so a second administrator account needs to be created. Create another, log in to it, and delete this one."
+msgstr "ATENŢIE: Foloseşti contul de administrator implicit. Oricine se poate loga pe acest cont, deci e necesară crearea unui nou cont de administrator. Crează-l, loghează-te pe el, şi şterge contul acesta."
+
+msgid "Number of images to show per page"
+msgstr "Numărul de imagini pe pagină"
+
+msgid "Number of posts to show per page"
+msgstr "Numărul de mesaje pe pagină"
+
+msgid "Oekaki imageboard"
+msgstr "Oekaki"
+
+msgid "Old password"
+msgstr "Parola veche"
+
+msgid "omitted"
+msgstr "omis(e)"
+
+msgid "Online now"
+msgstr "Online"
+
+msgid "Only moderators of the board and admins can make new posts/replies"
+msgstr "Numai administratorii şi moderatorii pot posta"
+
+msgid "Only put in the letter(s) of the board directory, no slashes!"
+msgstr "Pune doar litera / literele forumului, fără slashuri!"
+
+msgid "Open images in new window"
+msgstr "Deschide imaginile în fereastră nouă"
+
+msgid "Optimizing all tables in database."
+msgstr "Optimizare tabele."
+
+msgid "or"
+msgstr "sau"
+
+msgid "Order to show board in menu list, in ascending order."
+msgstr "Ordinea în care forumul să apară în listă (crescătoare)."
+
+msgid "Order to show this section with others, in ascending order"
+msgstr "Ordinea în care secţiunea să apară în listă (crescătoare)"
+
+msgid "Order"
+msgstr "Ordine"
+
+msgid "Overrides the header set in the config file. Leave blank to use configured global header image. Needs to be a full url including http://. Set to none to show no header image."
+msgstr "Înlocuieşte headerul din config.php. Lasă-l gol pentru a folosi headerul global. Trebuie să fie un URL complet (cu http:// )"
+
+msgid "Pages"
+msgstr "Pagini"
+
+msgid "Paint with"
+msgstr "Desenează cu"
+
+msgid "Paint!"
+msgstr "Dă-i drumul!"
+
+msgid "Password successfully changed."
+msgstr "Parola schimbată"
+
+msgid "Password"
+msgstr "Parola"
+
+msgid "Placed:"
+msgstr "Pe:"
+
+msgid "Please enter a positive amount of seconds, or zero for a permanent ban."
+msgstr "Introdu un număr pozitiv de secunde, sau 0 pentru ban permanent."
+
+msgid "Please enter a search query."
+msgstr "Scrie query-ul."
+
+msgid "Please enter a width/height greater than zero."
+msgstr "Lăţimea / înălţimea trebuie să fie mai mare ca 0."
+
+msgid "Please enter a width/height less than or equal to 750."
+msgstr "Lăţimea / înălţimea trebuie să fie cel mult 750."
+
+msgid "Please fill in all required fields."
+msgstr "Umple toate câmpurile."
+
+msgid "Please make sure your file is smaller than %dB"
+msgstr "Fişierul trebuie să fie mai mic de %dB"
+
+msgid "Please select a board."
+msgstr "Alege un forum."
+
+msgid "Please select only one image to upload."
+msgstr "Alege o singură imagine."
+
+msgid "Please wait a moment before posting again."
+msgstr "Aşteaptă puţin înainte să postezi din nou."
+
+msgid "Popular"
+msgstr "Popular"
+
+msgid "Position"
+msgstr "Poziţie"
+
+msgid "Post %s successfully deleted."
+msgstr "Mesajul %s a fost şters."
+
+msgid "Post added."
+msgstr "Mesaj adăugat."
+
+msgid "Post Number"
+msgstr "Numărul mesajului"
+
+msgid "Post preview"
+msgstr "Previzualizare"
+
+msgid "Post successfully deleted."
+msgstr "Mesaj şters."
+
+msgid "Post"
+msgstr "Mesaj"
+
+msgid "Postbox notice"
+msgstr "Notificări"
+
+msgid "Posting a blacklisted link."
+msgstr "Ai postat un link interzis."
+
+msgid "Posting mode: Reply"
+msgstr "Răspuns"
+
+msgid "Posting rates (past hour)"
+msgstr "Număr de postări în ultima oră"
+
+msgid "Posts per board in past 24hrs"
+msgstr "Mesaje pe forumuri în ultimele 24 de ore"
+
+msgid "Posts per board in past week"
+msgstr "Mesaje pe forumuri în ultima săptămână"
+
+msgid "Posts"
+msgstr "Mesaje"
+
+msgid "Presets"
+msgstr "Preseturi"
+
+msgid "Prev"
+msgstr "Înapoi"
+
+msgid "Preview"
+msgstr "Previzualizare"
+
+msgid "Previous bans on this IP"
+msgstr "Banuri anterioare pentru IP"
+
+msgid "Previous"
+msgstr "Înapoi"
+
+msgid "Proxy list"
+msgstr "Lista de Proxy-uri"
+
+msgid "Put <strong>0</strong> for no display, <strong>1</strong> to display."
+msgstr "Pune <strong>0</strong> pentru a o ascunde, <strong>1</strong> pentru a o afişa."
+
+msgid "Query executed successfully"
+msgstr "Query executat"
+
+msgid "Query"
+msgstr "Query"
+
+msgid "Quick Reply"
+msgstr "Răspuns rapid"
+
+msgid "Ran cleanup"
+msgstr "Curăţat"
+
+msgid "Raw HTML which will be inserted at the top of each page of the board."
+msgstr "HTML ce va fi inserat deasupra fiecărei pagini."
+
+msgid "Read this thread from the beginning"
+msgstr "Citeşte discuţia de la început"
+
+msgid "Reason"
+msgstr "Motiv"
+
+msgid "Reason:"
+msgstr "Motiv:"
+
+msgid "Rebuild all html files"
+msgstr "Reconstruieşte fişierele HTML"
+
+msgid "Rebuild complete. Took <strong>%d</strong> seconds."
+msgstr "Reconstrucţie completă, în <strong>%d</strong> secunde."
+
+msgid "Rebuild HTML after edit?"
+msgstr "Să reconstruiesc HTML-urile după editare?"
+
+msgid "Rebuilt all boards and threads"
+msgstr "Reconstruit toate forumurile şi discuţiile"
+
+msgid "Recent posts"
+msgstr "Mesaje raportate"
+
+msgid "Recently uploaded images"
+msgstr "Imagini raportate"
+
+msgid "Redirect to thread"
+msgstr "Redirecţionare către discuţie"
+
+msgid "Redirecting"
+msgstr "Redirecţionare"
+
+msgid "Refresh watched threads"
+msgstr "Actualizează fişierele urmărite"
+
+msgid "Regenerated %s"
+msgstr "Am reconstruit %s"
+
+msgid "Regenerated menu pages"
+msgstr "Am reconstruit meniurile"
+
+msgid "Regular expression"
+msgstr "Expresie regulară"
+
+msgid "Remove Frames"
+msgstr "Ascunde frame-uri"
+
+msgid "Remove"
+msgstr "Şterge"
+
+msgid "Removed Directory"
+msgstr "Director şters"
+
+msgid "Removed File"
+msgstr "Fişier şters"
+
+msgid "Removed word from wordfilter"
+msgstr "Filtru şters"
+
+msgid "Removing posts deleted more than one week ago from the database."
+msgstr "Ştergere mesaje şterse cu mai mult de o săptămână în urmă."
+
+msgid "Render Time"
+msgstr "A durat"
+
+msgid "Rep."
+msgstr "Răspunsuri"
+
+msgid "Replacement"
+msgstr "E înlocuit de"
+
+msgid "Replies displayed per stickied thread (in thread list)"
+msgstr "Răspunsuri în discuţiile importante (în lista de discuţii)"
+
+msgid "Replies displayed per thread (in thread list)"
+msgstr "Răspunsuri în discuţii (în lista de discuţii)"
+
+msgid "Replies"
+msgstr "Răspunsuri"
+
+msgid "Reply #%1$s's thread (#%2$s) does not exist! It has been deleted."
+msgstr "Discuţia %2$s nu conţine mesajul %1$s; discuţia a fost ştearsă."
+
+msgid "Reply #%d's thread (#%d) does not exist! It has been deleted."
+msgstr "Mesajul #%d nu apare în discuţia %d! A fost şters."
+
+msgid "reply to"
+msgstr "răspuns la"
+
+msgid "Reply"
+msgstr "Răspunde"
+
+msgid "Report"
+msgstr "Raportează"
+
+msgid "Reporter IP"
+msgstr "IP-ul care a raportat"
+
+msgid "Reporting allows users to report posts, adding the post to the report list."
+msgstr "Raportarea permite userilor să raporteze mesajele, adăugând mesajul la lista de raporturi"
+
+msgid "Reports"
+msgstr "Rapoarte"
+
+msgid "Restore watched threads"
+msgstr "Restaurează fişierele urmărite"
+
+msgid "Results for"
+msgstr "Rezultate pentru"
+
+msgid "Results from <strong>%s</strong> to <strong>%s</strong> of <strong>%s</strong>"
+msgstr "Rezultate de la <strong>%s</strong> până la <strong>%s</strong> din <strong>%s</strong>"
+
+msgid "Results"
+msgstr "Rezultate"
+
+msgid "Return"
+msgstr "Înapoi"
+
+msgid "Rule entry deleted"
+msgstr "Regulă ştearsă"
+
+msgid "Rule entry edited"
+msgstr "Regulă editată"
+
+msgid "Rules entry successfully added."
+msgstr "Regulă adugată."
+
+msgid "Rules Management"
+msgstr "Administrarea regulilor"
+
+msgid "Rules"
+msgstr "Reguli"
+
+msgid "Run Cleanup"
+msgstr "Curăţă!"
+
+msgid "Search Help"
+msgstr "Cum să cauţi"
+
+msgid "Search posts"
+msgstr "Caută mesaje"
+
+msgid "Search"
+msgstr "Caută"
+
+msgid "second phrase here"
+msgstr "a doua frază"
+
+msgid "Seconds"
+msgstr "Secunde"
+
+msgid "Section added."
+msgstr "Secţiune adăugată."
+
+msgid "Section deleted."
+msgstr "Secţiune ştearsă."
+
+msgid "Section updated."
+msgstr "Secţiune actualizată."
+
+msgid "Section"
+msgstr "Secţiune"
+
+msgid "Select a Board"
+msgstr "Alege un forum"
+
+msgid "Select a Section"
+msgstr "Alege o secţiune"
+
+msgid "Select Board"
+msgstr "Alege forumul"
+
+msgid "Selecting <strong>No</strong> will prevent any reading of any page on the level of the boards on the server. It will also act as a global ban."
+msgstr "Dacă selectezi <strong>Nu</strong>, nici o pagină nu va putea fi citită. Are acelaşi efect ca un ban global."
+
+msgid "Send Appeal"
+msgstr "Trimite cererea de debanare"
+
+msgid "Separate search terms with the word"
+msgstr "Cuvintele-cheie se separă cu"
+
+msgid "Show All"
+msgstr "Arată tot"
+
+msgid "Show Directories"
+msgstr "Arată directoarele"
+
+msgid "Show ID"
+msgstr "Arată ID"
+
+msgid "Show Posting Password"
+msgstr "Arată parola"
+
+msgid "Show/Hide"
+msgstr "Arată / Ascunde"
+
+msgid "Shown below"
+msgstr "Vezi mai jos"
+
+msgid "Single IP Bans"
+msgstr "IP-uri unice banate"
+
+msgid "Single IP"
+msgstr "IP unic"
+
+msgid "Site Administration"
+msgstr "Administrare globală"
+
+msgid "Site Name"
+msgstr "Site"
+
+msgid "Site Styles"
+msgstr "Stilurile"
+
+msgid "Size"
+msgstr "Dimensiune"
+
+msgid "some phrase here"
+msgstr "fraza ta"
+
+msgid "Sorry, a generic error has occurred."
+msgstr "S-a întâmplat ceva naşpa."
+
+msgid "Sorry, because of your numerous failed logins, you have been locked out from logging in for 20 minutes. Please wait and then try again."
+msgstr "Pentru că ai încercat să te loghezi de prea multe ori, ţi s-a blocat accesul pentru 20 de minute. Aşteaptă, apoi încearcă din nou."
+
+msgid "Sorry, embed may only be enabled on normal imageboards."
+msgstr "Embedarea se poate activa numai pe imageboarduri normale."
+
+msgid "Sorry, that filetype is not allowed on this board."
+msgstr "Fişier interzis pe acest forum."
+
+msgid "Sorry, this board is locked and can not be posted in."
+msgstr "Forumul e blocat, şi ca atare nu poţi posta în el."
+
+msgid "Sorry, this thread is locked and can not be replied to."
+msgstr "Discuţia a fost blocată şi ca atare nu poţi răspunde."
+
+msgid "Sorry, your message is too long. Message length: %d, maxmimum allowed length: %d"
+msgstr "Mesajul e prea mare. Dimensiunea mesajului: %d, dimensiunea maximă permisă: %d"
+
+msgid "Sorry, your search returned zero results."
+msgstr "N-am găsit nimica."
+
+msgid "Source"
+msgstr "Sursa"
+
+msgid "Space Used"
+msgstr "Spaţiu ocupat"
+
+msgid "Spamfilter"
+msgstr "Filtru de spam"
+
+msgid "SQL query"
+msgstr "SQL query"
+
+msgid "Staff member successfully added."
+msgstr "Membru adăugat"
+
+msgid "Staff Note"
+msgstr "Nota staff-ului"
+
+msgid "Staff rights"
+msgstr "Drepturi"
+
+msgid "Staff successfully deleted"
+msgstr "Membru şters"
+
+msgid "Staff successfully updated"
+msgstr "Staff actualizat"
+
+msgid "Staff"
+msgstr "Staff"
+
+msgid "Statistics"
+msgstr "Statistici"
+
+msgid "Stickied thread"
+msgstr "Discuţie importantă"
+
+msgid "Stickied"
+msgstr "Acuma e imporant"
+
+msgid "Sticky"
+msgstr "E important?"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Styles"
+msgstr "Stiluri"
+
+msgid "Subject"
+msgstr "Subiect"
+
+msgid "Submit"
+msgstr "Răspunde"
+
+msgid "Successfully marked previous posts as reviewed."
+msgstr "Toate mesajele anterioare au fost revizuite."
+
+msgid "Supported file types are"
+msgstr "Fişierele permise sunt"
+
+msgid "System lockout"
+msgstr "Sistem blocat"
+
+msgid "Tag"
+msgstr "Marchează"
+
+msgid "Template edited"
+msgstr "Template editat"
+
+msgid "Template editor"
+msgstr "Editor de template-uri"
+
+msgid "Template"
+msgstr "Template"
+
+msgid "Text board"
+msgstr "Textboard"
+
+msgid "Text boards may have only one thread with a unique subject. Please pick another."
+msgstr "Pe forumurile de text, o singură discuţie poate avea un subiect. Alege şi tu altceva."
+
+msgid "Text boards only. If enabled, the list of threads displayed on the front page will be formatted differently to be compact."
+msgstr "Numai pentru forumurile de text. Dacă alegi asta, lista de discuţii de pe prima pagină va fi mai compactă."
+
+msgid "That file already exists on the server."
+msgstr "Fişierul există deja pe server."
+
+msgid "That file does not match up with the required mime type for that format."
+msgstr "Tipul fişierului nu corespunde cu vreun tip permis pentru acest format."
+
+msgid "That file has already been deleted."
+msgstr "Fişierul a fost şters deja."
+
+msgid "That ID does not exist."
+msgstr "Nu există acest ID."
+
+msgid "That ID is a reply, not a thread."
+msgstr "ID-ul e un răspuns, nu o discuţie."
+
+msgid "That IP has already been banned."
+msgstr "IP-ul este deja banat."
+
+msgid "That is not a Oekaki compatible board!"
+msgstr "Ăsta nu e un forum de Oekaki!"
+
+msgid "That name is for internal use. Please pick another."
+msgstr "Numele acesta este rezervat. Alege şi tu altceva."
+
+msgid "That page is for admins only."
+msgstr "Pagină rezervată pentru administratori."
+
+msgid "That page is for moderators and administrators only."
+msgstr "Pagină rezervată pentru administratori şi moderatori."
+
+msgid "That post has been cleared as not requiring any deletion."
+msgstr "Mesajul este în regula, nu trebuie şters."
+
+msgid "That post is already in the report list."
+msgstr "Mesajul a fost deja raportat."
+
+msgid "That thread has yet to be deleted."
+msgstr "Discuţia n-a fost încă ştearsă."
+
+msgid "That thread may have been recently deleted."
+msgstr "Discuţia s-ar putea să fi fost deja ştearsă."
+
+msgid "That video ID has already been posted %shere%s."
+msgstr "Acest video a fost postat %saici%s."
+
+msgid "That word already exists."
+msgstr "Cuvântul există deja."
+
+msgid "That's either not a thread, or it's not deleted."
+msgstr "Fie nu e discuţie, fie n-a fost ştearsă."
+
+msgid "The 5 newest replies are shown below."
+msgstr "Cele mai noi 5 răspunsuri."
+
+msgid "The amount of time to ban the hash of the image which was posted under this ID. Leave blank to not ban the image, 0 for an infinite global ban, or any number of seconds for that duration of a global ban."
+msgstr "Cât timp e valabil banul pentru imaginea postată cu acest ID. Lasă gol ca să nu banezi imaginea, 0 pentru un ban permanent global, sau un număr pozitiv de secunde pentru o banare globală."
+
+msgid "The change will not be apparent until the html files are rebuilt."
+msgstr "Modificările nu se vor vedea până la regenerearea HTML-urilor."
+
+msgid "The data sent was not a JPG or PNG file. Please reattempt your save (and save a screenshot just in case of continued failure)."
+msgstr "Imaginea trimisă nu e JPG sau PNG. Încearcă să salvezi din nou (şi fă un screenshot în caz că pică appletul de tot)."
+
+msgid "The data sent was not an image. Please reattempt your save (and save a screenshot just in case of continued failure)."
+msgstr "Imaginea n-a fost updatată. Încearcă să salvezi din nou (şi fă un screenshot în caz că pică appletul de tot)."
+
+msgid "The description of the image being banned. Not applicable if the above box is blank."
+msgstr "Descrierea imaginii banate. Nu e valabilă dacă ai lăsat gol câmpul anterior."
+
+msgid "The directory of the board."
+msgstr "Directorul forumului."
+
+msgid "The extension this will be applied to. <strong>Must be lowercase</strong>"
+msgstr "Extensia fişierului. <strong>Trebuie să fie doar litere mici.</strong>"
+
+msgid "The first post of this board will recieve this ID."
+msgstr "ID-ul primului mesaj de pe acest forum."
+
+msgid "The full http:// URL to the load balance script for this board. The script will handle file uploads, and creation of thumbnails. Only one script per board can be used, and there must be a src and thumb dir in the same folder as the script. Set to nothing to disable."
+msgstr "URL-ul (cu http://) a scriptului adiţional pentru forum. Scriptul va face uploadul propriu-zis şi crearea de thumbnailuri. Se poate folosi un singur script pe fiecare forum, şi în directorul în care se află trebuie să aibă directoarele <strong>src</strong> şi <strong>thumb</strong>. Lasă gol pentru a-l dezactiva."
+
+msgid "The height of the image. Needs to be set to prevent the page from jumping around while images load."
+msgstr "Înălţimea imaginii. Necesară ca layoutul să rămână la fel chiar dacă imagine nu s-a încărcat încă."
+
+msgid "The image which will be used, found in inc/filetypes."
+msgstr "Imaginea folosită pentru tipul acesta de fişier; se află în <strong>inc/filetypes</strong>."
+
+msgid "The load balancer script stopped unexpectedly."
+msgstr "Scriptul adiţional s-a oprit în mod neaşteptat."
+
+msgid "The load balancer script was unable to copy the file you uploaded."
+msgstr "Scriptul adiţional nu a putut copia imaginea uploadată."
+
+msgid "The load balancer script was unable to create the thumbnail for that image."
+msgstr "Scriptul adiţional nu a putut redimensiona imaginea."
+
+msgid "The MIME type which must be present with an image uploaded in this type. Leave blank to disable."
+msgstr "MIME type-ul fişierului; trebuie să existe pentru a putea uploada fişierului. Poate fi lăsat gol."
+
+msgid "The name of the board."
+msgstr "Numele forumului."
+
+msgid "The name of the section"
+msgstr "Numele secţiunii"
+
+msgid "The number of replies a thread can have before autosaging to the back of the board."
+msgstr "Numărul de răspunsuri după care discuţia nu va mai fi actualizată pe prima pagină."
+
+msgid "The old password you provided did not match the current one."
+msgstr "Parola pe care-ai pus-o nu e cea curentă."
+
+msgid "The password which will be passed to the script above. The script must have this same password entered at the top, in the configuration area."
+msgstr "Parola pentru scriptul de mai sus. Scriptul trebuie să conţină această parolă în zona de configurare."
+
+msgid "The passwords of the load balancer password in the board configuration and the load receiver script differ."
+msgstr "Parolele pentru scriptul adiţional din config.php şi din scriptul în sine sunt diferite."
+
+msgid "The proxy list is assumed to be in plaintext *.*.*.*:port or *.*.*.* format, one IP per line."
+msgstr "Lista de proxy-uri e text simplu, în format: *.*.*.*:port sau *.*.*.*, cu un singur IP pe linie."
+
+msgid "The second password did not match the first."
+msgstr "Ambele parole trebuie să fie identice."
+
+msgid "The section the board is in. This is used for displaying the list of boards on the top and bottom of pages."
+msgstr "Secţiunea în care se află forumul. În funcţie de asta, forumul se va afişa în lista de la începutul şi sfârşitul fiecărei pagini. Secţiunea trebuie să existe deja (Vezi <strong>Editare secţiuni</strong>)"
+
+msgid "The server has encountered an error saving your image. Save a screenshot of your work in case of continued failure."
+msgstr "N-am putut salva imaginea. Fă un screenshot la ce-ai făcut, în caz că pică appletul de tot."
+
+msgid "The style which will be set when the user first visits the board."
+msgstr "Stilul vizibil atunci când un user viziteaza pentru prima oară forumul."
+
+msgid "The type of ban. A single IP can be banned by providing the full address. A whitelist ban prevents that IP from being banned. An IP range can be banned by providing the IP range you would like to ban, in this format: 123.123.12"
+msgstr "Tipul de banare. Un IP unic se poate bana folosind adresa lui completă. O listă albă <strong>previne banarea</strong> acelui IP. O serie de IP-uri banează toate IP-urile dependente; formatul este 123.123.12"
+
+msgid "The type of posts which will be accepted on this board. A normal imageboard will feature image and extended format posts, a text board will have no images, an Oekaki board will allow users to draw images and use them in their posts, and an Upload imageboard will be styled more towards file uploads."
+msgstr "Tipul de postări permise. Un imageboard normal va afişa imagini şi texte extinse; un forum text nu va avea imagini; un forum de Oekaki permite desenarea şi postarea de imagini, iar un forum de upload permite uploadarea de fişiere."
+
+msgid "The type of posts which will be accepted on this board. A normal imageboard will feature image and extended format posts, a text board will have no images, and an Oekaki board will allow users to draw images and use them in their posts."
+msgstr "Tipul de postări permise. Un imageboard normal va afişa imagini şi texte extinse; un forum text nu va avea imagini; un forum de Oekaki permite desenarea şi postarea de imagini."
+
+msgid "The uploaded file exceeds the upload_max_filesize directive (%s) in php.ini."
+msgstr "Fişierul postat e mai mare decât e specificat de directiva upload_max_filesize (%s) în php.ini."
+
+msgid "The uploaded file was only partially uploaded."
+msgstr "Fişierul a fost uloadat numai parţial."
+
+msgid "The width of the image. Needs to be set to prevent the page from jumping around while images load."
+msgstr "Lăţimea imaginii. Necesară ca layoutul să rămână la fel chiar dacă imagine nu s-a încărcat încă."
+
+msgid "There are currently no bans"
+msgstr "Nu există nici un ban"
+
+msgid "There are currently no bans."
+msgstr "Nu există nici un ban."
+
+msgid "There are currently no filetypes."
+msgstr "Nu sunt setate tipuri de fişiere."
+
+msgid "There are currently no sections."
+msgstr "Nu există secţiuni."
+
+msgid "There are currently no threads to display."
+msgstr "Nu există discuţii."
+
+msgid "There is already a file with that name."
+msgstr "Mai există un fişier cu acest nume."
+
+msgid "There was an error during install, and the ads table didn't get populated."
+msgstr "A apărut o eroare la instalare şi tabelul de reclame nu a fost populat."
+
+msgid "There was an error in trying to delete your post"
+msgstr "Nu am putut şterge discuţia."
+
+msgid "There was no image data sent. Please reattempt your save (and save a screenshot just in case of continued failure)."
+msgstr "Imaginea n-a fost trimisă. Încearcă să salvezi din nou (şi fă un screenshot în caz că pică appletul de tot)."
+
+msgid "This board does not allow post reporting."
+msgstr "Pe forumul acesta nu se pot raporta răspunsurile."
+
+msgid "This can be left blank, however it will appear at the very top of the list"
+msgstr "Poate fi lăsat gol; intrarea va fi prima în listă."
+
+msgid "This can be left blank. It will be reset with the default height set in config.php"
+msgstr "Poate fi lăsat gol. Valoarea implicită va fi cea din config.php"
+
+msgid "This can be left blank. It will be reset with the default width set in config.php"
+msgstr "Poate fi lăsat gol. Valoarea implicită va fi cea din config.php"
+
+msgid "This file is disabled because KU_STATICMENU is set to true."
+msgstr "Cum KU_STATICMENU e adevărat, nu poţi vedea fişierul acesta."
+
+msgid "This message will be shown only on this page and only to staff, not to the user."
+msgstr "Mesajul va fi vizibil doar pentru staff şi va apărea doar pe această pagină. Userii nu îl vor vedea."
+
+msgid "This post has been deleted."
+msgstr "Acest răspuns a fost şters."
+
+msgid "Thread %s on /%s/"
+msgstr "Discuţia %s de pe /%s/"
+
+msgid "Thread %s successfully deleted."
+msgstr "Discuţia %s a fost ştearsă."
+
+msgid "Thread successfully deleted."
+msgstr "Discuţie ştearsă."
+
+msgid "Thread successfully locked."
+msgstr "Discuţie blocată."
+
+msgid "Thread successfully stickied."
+msgstr "Discuţie marcată ca importantă"
+
+msgid "Thread successfully un-stickied"
+msgstr "Discuţie marcată ca neimportantă"
+
+msgid "Thread successfully unlocked."
+msgstr "Discuţie deblocată.Discuţie"
+
+msgid "Thread"
+msgstr "Discuţia"
+
+msgid "Threads displayed per page (in thread list)"
+msgstr "Discuţii pe pagină (în lista de discuţii)"
+
+msgid "Threads which reach this page or further will be marked to be deleted in two hours."
+msgstr "Discuţiile de pe această pagină sau paginile ulterioare vor fi marcate pentru ştergere în două ore."
+
+msgid "Threads"
+msgstr "Discuţii"
+
+msgid "Thumbnail displayed, click image for full size."
+msgstr "Thumbnail, dă click pe imagine ca s-o vezi la dimensiunea reală."
+
+msgid "Time"
+msgstr "Când?"
+
+msgid "To access Kusaba variables, use {%%KU_VARNAME}, for example {%%KU_BOARDSPATH} would be replaced with %s"
+msgstr "Pentru a accesa variabilele folosite de Kusaba, foloseşte <strong>{%%KU_VARNAME}</strong>, de exemplu <strong>{%%KU_BOARDSPATH}</strong> va fi înlocuit de <strong>%s</strong>"
+
+msgid "to ban page"
+msgstr "la pagina de banuri"
+
+msgid "To find a phrase at the beginning of a post's message:"
+msgstr "Ca să găseşti o frază la începutul mesajului:"
+
+msgid "To find a phrase at the end of a post's message:"
+msgstr "Ca să găseşti o frază la sfârşitul mesajului:"
+
+msgid "To find a single phrase anywhere in a post's message, use:"
+msgstr "Ca să găseşti o singură frază într-un mesaj:"
+
+msgid "To find two phrases anywhere in a post's message, use:"
+msgstr "Ca să găseşti două fraze în mesaj:"
+
+msgid "To"
+msgstr "Pentru"
+
+msgid "Took"
+msgstr "S-a încărcat în"
+
+msgid "Total posts per board"
+msgstr "Total de mesaje pe forumuri"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Translation"
+msgstr "Traducere"
+
+msgid "Trial"
+msgstr "Probă"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Un-Hide Thread"
+msgstr "Arată discuția"
+
+msgid "Un-watch"
+msgstr "Nu mai urmări"
+
+msgid "Unable to clear cache: you do not have caching enabled."
+msgstr "Nu se poate şterge cache-ul: opţiunea nu este activată."
+
+msgid "Unable to connect to"
+msgstr "Nu mă pot conecta la"
+
+msgid "Unable to create directories."
+msgstr "Nu pot crea directoarele."
+
+msgid "Unable to delete board."
+msgstr "Nu pot şterge forumul."
+
+msgid "Unable to find record of your IP being banned."
+msgstr "Nu găsesc nici o dovadă că IP-ul tău a fost banat."
+
+msgid "Unable to find records of any posts matching that quote syntax."
+msgstr "Nu găsesc nici o înregistrare care să conţină cuvintele acestea."
+
+msgid "Unable to locate a board named"
+msgstr "Nu găsesc nici un forum numit"
+
+msgid "Unable to locate a filetype with that ID."
+msgstr "Nu găsesc nici un fişier cu acest ID."
+
+msgid "Unable to locate a section with that ID."
+msgstr "Nu găsesc nici o secţiune cu acest ID."
+
+msgid "Unable to locate that word."
+msgstr "Nu găsesc cuvântul acesta."
+
+msgid "Unable to open the modules directory!"
+msgstr "Nu am putut deschide directorul de module!"
+
+msgid "Unable to read uploaded file during thumbnailing."
+msgstr "Nu pot citi fişierul uploadat în timp ce-l redimensionez."
+
+msgid "Unable to report post. Please go back and try again."
+msgstr "Nu pot raporta postul. Încearcă din nou."
+
+msgid "Unbanned"
+msgstr "Debanat"
+
+msgid "Unique user posts per board"
+msgstr "Mesaje unice pe forumuri"
+
+msgid "Unknown File Error"
+msgstr "S-a întâmplat ceva naşpa"
+
+msgid "Unlock"
+msgstr "Deblocare"
+
+msgid "Unlocked thread"
+msgstr "Discuţie deblocată"
+
+msgid "Unstickied thread"
+msgstr "Discuţie neimportantă confirmată"
+
+msgid "Unsticky"
+msgstr "Discuţie neimportantă"
+
+msgid "Upating pages."
+msgstr "Actualizare pagini."
+
+msgid "Update and regenerate board"
+msgstr "Actualizează şi reconstruieşte forumul"
+
+msgid "Update successful."
+msgstr "Actualizare reuşită."
+
+msgid "Update without regenerating board"
+msgstr "Actualizează fără a reconstrui forumul"
+
+msgid "Update"
+msgstr "Actualizare"
+
+msgid "Updated board configuration"
+msgstr "Configuraţie actualizată"
+
+msgid "Updated global configuration"
+msgstr "Configuraţie globablă actualizată"
+
+msgid "Updated staff member"
+msgstr "Membru actualizat"
+
+msgid "Updated word on wordfilter"
+msgstr "Filtru actualizat"
+
+msgid "Upload type"
+msgstr "Tip de upload"
+
+msgid "Use animation?"
+msgstr "Fac şi o animaţie?"
+
+msgid "Use Default"
+msgstr "Valoare implicită"
+
+msgid "Username"
+msgstr "User"
+
+msgid "Video URL Start"
+msgstr "URL-ul cu care începe video-ul"
+
+msgid "View all bans"
+msgstr "Vezi toate banurile"
+
+msgid "View animation"
+msgstr "Vezi animaţia"
+
+msgid "View Announcements"
+msgstr "Vezi anunţurile"
+
+msgid "View Appeals"
+msgstr "Vezi cererile de debanar"
+
+msgid "View catalog"
+msgstr "Vezi catalogul"
+
+msgid "View deleted thread"
+msgstr "Vezi discuţia ştearsă"
+
+msgid "View last %d bans"
+msgstr "Vezi ultimele %d banuri"
+
+msgid "View Reports"
+msgstr "Vezi rapoartele"
+
+msgid "View Thread (including deleted)"
+msgstr "Vezi discuţii (inclusiv cele şterse)"
+
+msgid "View Threads (including deleted)"
+msgstr "Vezi discuţiile (incusiv cele şterse)"
+
+msgid "View"
+msgstr "Vezi"
+
+msgid "View/Add/Remove bans"
+msgstr "Vezi / Adaugă / Şterge banuri"
+
+msgid "Viewed disk space used"
+msgstr "Văzut spaţiul ocupat"
+
+msgid "Visit <a href=\"http://wiki.dwoo.org/\">http://wiki.dwoo.org/</a> for syntax information."
+msgstr "Intră pe <a href=\"http://wiki.dwoo.org/\">http://wiki.dwoo.org/</a> pentru informaţii despre sintaxă."
+
+msgid "Warning"
+msgstr "Atenţie"
+
+msgid "Watched Threads"
+msgstr "Discuţii urmărite"
+
+msgid "Welcome"
+msgstr "Salut"
+
+msgid "What embed sites are allowed on this board. Only useful on board with embedding enabled."
+msgstr "Ce embeduri sunt permise pe forum. Numai pentru forumurile cu embed activat."
+
+msgid "What filetypes users are allowed to upload."
+msgstr "Tipuri de fişiere permise."
+
+msgid "When adding an embed, please check %s and check if there is a tutorial image for the site you are adding. Put this image in the /inc/embedhelp/ folder, or create your own in this folder if one does not exist. The image must be the same as the site name in all lowercase."
+msgstr "Dacă vrei să adaugi un embed, intră pe %s şi vezi dacă există vreun tutorial pentru site-ul pe care vrei să-l adaugi. Pune imaginea asta în directorul /inc/embedhelp/ (crează-l dacă nu există). Numele imaginii trebuie să fie tot cu litere mici, şi să aibă acelaşi nume ca şi site-ul."
+
+msgid "Whether or not the user(s) affected by this ban will be allowed to read the boards."
+msgstr "Vor putea userii afectaţi de ban să citească mesajele de pe forumuri?"
+
+msgid "Whether or not to allow embedding of videos."
+msgstr "Permite sau nu ca userul sa facă embed de videouri."
+
+msgid "Whitelist"
+msgstr "Listă albă"
+
+msgid "Whitelisted IPs"
+msgstr "IP-uri pe lista albă"
+
+msgid "Width"
+msgstr "Lăţime"
+
+msgid "will expire on"
+msgstr "expiră pe"
+
+msgid "will not expire"
+msgstr "nu expiră"
+
+msgid "Word successfully added."
+msgstr "Filtru adăugat."
+
+msgid "Word successfully removed."
+msgstr "Filtru scos."
+
+msgid "Word successfully updated."
+msgstr "Filtru actualizat."
+
+msgid "Word"
+msgstr "Cuvântul"
+
+msgid "Wordfilter"
+msgstr "Filtru"
+
+msgid "Yes"
+msgstr "Da"
+
+msgid "You are banned from posting on:"
+msgstr "Nu ai voie să postezi pe:"
+
+msgid "YOU ARE BANNED"
+msgstr "ŢI-AI LUAT BAN, FRAIERE"
+
+msgid "You are currently posting faster than the configured minimum post delay allows."
+msgstr "Postează şi tu mai rar."
+
+msgid "You are not a moderator of this board."
+msgstr "Nu eşti moderator pe forumul acesta."
+
+msgid "YOU ARE NOT BANNED!"
+msgstr "NU MAI EŞTI BANAT"
+
+msgid "You can only delete posts from boards you moderate."
+msgstr "Nu poţi şterge mesaje decât pe forumurile pe care le moderezi."
+
+msgid "You can only make board specific bans to boards which you moderate."
+msgstr "Nu poţi pune un ban pe alt forum decât cele pe care le moderezi."
+
+msgid "You do not moderate any boards."
+msgstr "Nu eşti moredator pe nici un forum."
+
+msgid "You don't follow the rules."
+msgstr "Eşti un dobitoc."
+
+msgid "You have been banned for posting Child Pornography. Your IP has been logged, and the proper authorities will be notified."
+msgstr "Ai fost banat pentru postarea de pornografie ilegală. IP-ul tău a fost logat."
+
+msgid "You have been banned from posting on"
+msgstr "Ai fost banat pe"
+
+msgid "You have been successfully logged out."
+msgstr "Ai ieşit. Papa :) ."
+
+msgid "You may <strong>not</strong> appeal this ban."
+msgstr "<strong>NU</strong> poţi cere să fii debanat."
+
+msgid "You may appeal this ban in"
+msgstr "Poţi cere să fii debanat în"
+
+msgid "You may now appeal this ban."
+msgstr "Acuma poţi cere să fii debanat."
+
+msgid "You must enter a heading as well as a post."
+msgstr "Bagă şi un subiect, şi un mesaj."
+
+msgid "You must enter a subject as well as a post."
+msgstr "Bagă şi un subiect, şi un mesaj."
+
+msgid "You must enter a subject."
+msgstr "Bagă şi tu un titlu."
+
+msgid "You must enter code."
+msgstr "Trebuie să bagi cod."
+
+msgid "You searched for"
+msgstr "Ai căutat"
+
+msgid "Your appeal is currently pending review."
+msgstr "Cererea ta urmează să fie verificată."
+
+msgid "Your appeal was reviewed and denied. You may <strong>not</strong> appeal this ban again."
+msgstr "Cererea ta a fost respinsă. <strong>NU</strong> poţi cere din nou sa fii debanat."
+
+msgid "Your ban was placed on"
+msgstr "Banul a fost pus pe"
+
+msgid "Your image"
+msgstr "Imaginea ta"
+
+msgid "Your IP address is"
+msgstr "IP-ul tău este"
+
+msgid "Your post already doesn't have an image!"
+msgstr "Mesajul tău nu are vreo imagine!"
+
+msgid "Your post contains one or more illegal characters."
+msgstr "Mesajul tăr conţine unul sau mai multe caractere ilegale."
+
+msgid "Your posting password"
+msgstr "Parola de postare"
+

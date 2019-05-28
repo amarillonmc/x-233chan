@@ -1,0 +1,176 @@
+body {
+	margin: 0px;
+	padding: 0px 8px 8px 8px;
+	background: #FFFFEE;
+	color: #800000;
+}
+
+a {
+	color: #0000EE;
+}
+
+a:visited {
+	color: #0000DD;
+}
+
+a:hover {
+	color:#DD0000;
+}
+
+h1 {
+	background: #EEAA88;
+	font-size: 2em;
+	font-weight: normal;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+h2 {
+	float: left;
+	color: #CC1105;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 0px 0px 0px 1em;
+	padding: 0px;
+}
+
+h2 a {
+	color: #CC1105 !important;
+	text-decoration: none;
+	margin-right: -0.25em;
+}
+
+h2 a:hover {
+	text-decoration: underline;
+}
+
+h3 {
+	font-size: 1em;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+.replies {
+	clear: both;
+	margin: 3px;
+	padding: 3px;
+	font-weight: normal;
+}
+
+form {
+	clear: both;
+	background: #F0E0D6;
+	color: #800000;
+	font-family: serif;
+	margin: 3px;
+	padding: 3px;
+	-moz-border-radius: 4px;
+}
+
+label {
+	font-weight: bold !important;
+}
+input, textarea {
+	border: 1px solid #800000;
+}
+input[type=submit], input[type=button] {
+	color: #400000;
+}
+textarea {
+	-moz-border-radius: 4px;
+}
+
+.hborder {
+	background: #EEAA88;
+	color: #800000;
+	padding: 4px;
+	clear: both;
+	-moz-border-radius: 4px;
+}
+
+.topbar {
+	width: 100%;
+	text-align: right
+}
+
+.fullhead {
+	background: #EEAA88;
+	-moz-border-radius: 6px;
+	padding: 0.25em;
+}
+
+.head {
+	-moz-border-radius: 6px;
+}
+
+.hborder .head {
+	-moz-border-radius: 6px;
+}
+
+.midhead {
+	margin-left: 1em;
+}
+
+.newthread {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.newthread h2 {
+	color: #800000;
+	font-weight: normal;
+}
+
+.thread {
+	background: #F0E0D6;
+	padding: 4px;
+	margin-bottom: 2em;
+	-moz-border-radius: 6px;
+	clear: both;
+}
+
+.post {
+	clear: both;
+	margin: 0px 0px 0.5em 0px;
+}
+
+.postnum {
+	font-weight: bold;
+	margin-left: 0.3em;
+	margin-right: 0.3em;
+}
+.postnum a {
+	color: #800000;
+	text-decoration: none;
+}
+.postnum a:hover {
+	color:#DD0000;
+}
+
+.threadldiv {
+	background: #F0E0D6;
+	/*margin-bottom: 1em;*/
+	-moz-border-radius: 6px;
+}
+
+.hidden {
+	clear: both;
+	background: #EEAA88;
+	margin: -0.3em 1em 0.5em 1em;
+	-moz-border-radius: 4px;
+}
+
+.postername {
+	color: #117743;
+	font-weight: bold;
+}
+.postertrip {
+	color: #228854;
+}
+
+.legal {
+	text-align: center;
+	font-size: 0.8em;
+}

@@ -1,0 +1,55 @@
+a:link, a:visited {color: blue}
+a:hover, a:active {color: red}
+
+body.board, body.list {margin: 0}
+body.board {background-image: url(ba.gif);}
+body.read {background-color: #efefef;}
+.head, body.board .thread { border: 1px inset gray; padding: 6px;}
+table.postform td {text-align: left;}
+table.postform td input {width: auto;}
+table.newthreadform .submit {width: 100%;}
+table.postform td textarea {width: auto;}
+table.postform td.label {text-align: right;}
+table.postform .mail {width: auto; float: right;}
+.legal {text-align: center; font-size: small;}
+.manage {text-align: center; font-size: x-small;}
+.postnum {font-weight: bold; margin-right: .1em;}
+.postername,.postertrip {color: green;}
+.postername {font-weight: bold;}
+blockquote {text-align: left; font-family: serif; margin-top: 0.5em;}
+blockquote p {margin-top: 0;}
+.border, .hborder {border: 1px outset gray; margin-left: 2.5%; margin-right: 2.5%; width: 95%; padding: 6px; margin-bottom: 1em; background-color: #efefef}
+.hborder {background-color: #cfc}
+h2 {margin-top: 0px; clear: both;}
+/*.threadldiv {margin-right: 2.5%; margin-left: 2.5%; margin-bottom: 1em; background-color: #cfc; width: 95%;}*/
+.threads {font-size: small; text-align: left;}
+table.threads th {text-align: center;}
+.topbar {margin: -2px; margin-bottom: .5em; background: white; border: 1px inset black; width: 100%; text-align: right}
+.styles {border: 2px outset black; margin: 2px; background: white; float: left; margin-top: 0; margin-left: 0}
+.threads th a, .threads td a, .postfieldleft a, .postnum a {color: black;}
+.postfieldleft a, .postnum a, h2 a {text-decoration: none}
+.postfieldleft {vertical-align: top;}
+.replies {font-size: 70%; font-weight: bolder;}
+h2 a:link, h2 a:visited, h2 a:active, h2 a:hover {color: red;}
+h2 a:hover, h2 a:active {text-decoration: underline}
+h2, .navlinks {clear: none; margin-bottom: .1em;}
+.pages {font-size: smaller}
+.bottomnav {text-align: center;}
+.newthread h2 {color: black;}
+.postinfo {margin-left: .3em;}
+.navlinks a {font-family: IPAMonaPGothic,Mona,'MS PGothic',YOzFontAA97}
+h3 {font-weight: normal; font-size: 100%; margin-top: 0; margin-bottom: 0}
+.tolder {font-size: smaller}
+
+body.read h2 {color: red; font-size: larger}
+
+.threadlistflat {display: inline; padding: 0; margin: 0}
+.threadlink {display: inline; text-align: justify;}
+.pages {text-align: center; font-size: small;}
+
+.navlinks {float: right;}
+.navlinks a {text-decoration: none}
+.threadlink {padding-right: .55em;}
+.boldthreadlink {padding-right: .55em; font-weight: bold;}
+
+.stylelist {display: inline-block; float: right}

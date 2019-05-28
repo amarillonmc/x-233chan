@@ -1,0 +1,160 @@
+body {
+	margin: 0;
+	padding: 8px;
+	margin-bottom: auto;
+}
+
+blockquote blockquote {
+	margin-left: 0em;
+}
+
+form {
+	margin-bottom: 0px;
+}
+
+form .trap {
+	display:none;
+}
+
+.postarea {
+	text-align: center;
+}
+
+.postarea table {
+	margin: 0px auto;
+	text-align: left;
+}
+
+.thumb {
+	border: none;
+	float: left;
+	margin: 2px 20px;
+}
+
+.nothumb {
+	float: left;
+	background: inherit;
+	border: 2px dashed #aaa;
+	text-align: center;
+	margin: 2px 20px;
+	padding: 1em 0.5em 1em 0.5em;
+	font-family: none;
+}
+
+.reply blockquote, blockquote :last-child {
+	margin-bottom: 0em;
+}
+
+.reflink a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.reflink a:hover{
+	color: #800000;
+}
+
+.reply .filesize {
+	margin-left: 20px;
+}
+
+.userdelete {
+	float: right;
+	text-align: center;
+	white-space: nowrap;
+}
+
+.replypage .replylink {
+	display: none;
+}
+
+.pagelist {
+	max-width: 600px;
+}
+
+.admin {
+	color: #800080;
+	font-weight: normal;
+}
+
+.mod {
+	color: #FF0000;
+	font-weight: normal;
+}
+
+.vip {
+	color: #336600;
+	font-weight: normal;
+}
+
+#watchedthreads {
+	position: absolute;
+	background-color: #F0E0D6;
+	border: 1px dotted #EEAA88;
+	border-top: 0px none;
+}
+
+#watchedthreadsdraghandle {
+	text-align: center;
+	font-family: Trebuchet MS;
+	cursor: move;
+}
+
+#watchedthreadlist {
+	padding: 3px;
+	font-size: 0.8em;
+}
+
+#watchedthreadsbuttons {
+	position: absolute;
+	bottom: 3px;
+	left: 3px;
+}
+
+.spoiler {
+	color: black;
+	background-color: black;
+}
+
+.extrabtns {
+	vertical-align: middle;
+}
+
+.hidethread {
+	background: transparent url('./icons/blue/icons.gif') -32px -16px no-repeat;
+}
+
+.unhidethread {
+	background: transparent url('./icons/blue/icons.gif') -48px 0px no-repeat;
+}
+
+.watchthread {
+	background: transparent url('./icons/blue/icons.gif') -32px 0px no-repeat;
+}
+
+.expandthread {
+	background: transparent url('./icons/blue/icons.gif') 0px -16px no-repeat;
+}
+
+.quickreply {
+	background: transparent url('./icons/blue/icons.gif') 0px 0px no-repeat;
+}
+
+.hidewatchedthreads {
+	background: transparent url('./icons/blue/icons.gif') -48px -16px no-repeat;
+}
+
+.refreshwatchedthreads {
+	background: transparent url('./icons/blue/icons.gif') -16px -16px no-repeat;
+}
+
+.restorewatchedthreads {
+	background: transparent url('./icons/blue/icons.gif') -16px 0px no-repeat;
+}
+
+.reflinkpreview {
+	position: absolute;
+	padding: 5px;
+	background-color: #F0E0D6;
+	border: 1px dotted #000000;
+}

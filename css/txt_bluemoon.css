@@ -1,0 +1,188 @@
+body, html {
+	margin: 0px;
+	padding: 0px 8px 8px 8px;
+	background: #6B7B8D;
+	color: #FFFFFF;
+}
+
+a {
+	color: #AFB9C5;
+}
+
+a:visited {
+	color: #9DA6B0;
+}
+
+a:hover {
+	color:#EEEEEE;
+}
+
+h1 {
+	color: #EEEEEE;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+}
+
+h2 {
+	float: left;
+	color: #eeeeee;
+	font-size: 1.2em;
+	font-weight: bold;
+	margin: 0px 0px 0px 1em;
+	padding: 0px;
+}
+
+h2 a {
+	color: #eeeeee !important;
+	text-decoration: none;
+	margin-right: -0.25em;
+}
+
+h2 a:hover {
+	text-decoration: underline;
+}
+
+h3 {
+	font-size: 1em;
+	font-weight: normal;
+	margin: -3px;
+	padding: 0px;
+	padding-top: 3px;
+	background-color: #DDD;
+}
+
+.replies {
+	clear: both;
+	margin: 3px;
+	padding: 3px;
+	font-weight: normal;
+}
+
+form {
+	clear: both;
+	background: #99a9ba;
+	color: #49525d;
+	font-family: serif;
+	margin: 3px;
+	padding: 3px;
+	-moz-border-radius: 4px;
+}
+
+label {
+	font-weight: bold !important;
+}
+input, textarea {
+	border: 1px solid #49525d;
+}
+input[type=submit], input[type=button] {
+	color: #400000;
+}
+textarea {
+	-moz-border-radius: 4px;
+}
+
+.hborder {
+	background: #49525D;
+	color: #EEE;
+	padding: 4px;
+	clear: both;
+	-moz-border-radius: 4px;
+}
+
+.topbar {
+	width: 100%;
+	text-align: right
+}
+
+.fullhead {
+	background: #49525D;
+	-moz-border-radius: 6px;
+	padding: 0.25em;
+}
+
+.head {
+	-moz-border-radius: 6px;
+}
+
+.hborder .head {
+	-moz-border-radius: 6px;
+}
+
+.midhead {
+	margin-left: 1em;
+}
+
+.newthread {
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.newthread h2 {
+	color: #EEE;
+	font-weight: normal;
+}
+
+.thread {
+	background-color: #49525D;
+	padding: 4px;
+	margin-bottom: 2em;
+	clear: both;
+	-moz-border-radius: 6px;
+}
+
+.post {
+	background-color: #FFF;
+	color: #000080;
+	/*font-family: serif;*/
+	font-size: .8em;
+	margin: 3px;
+	padding: 3px;
+	-moz-border-radius: 4px;
+	border: 6px solid #DDD;
+}
+
+.postnum {
+	font-weight: bold;
+	margin-left: 0.3em;
+	margin-right: 0.3em;
+	color: #49525d;
+}
+.postnum a {
+	color: #49525d;
+	text-decoration: none;
+}
+.postnum a:hover {
+	color:#DD0000;
+}
+
+.threadldiv {
+	background: #49525D;
+	/*margin-bottom: 1em;*/
+	-moz-border-radius: 6px;
+}
+
+.hidden {
+	clear: both;
+	background: #EEAA88;
+	margin: -0.3em 1em 0.5em 1em;
+	-moz-border-radius: 4px;
+}
+
+.postername {
+	color: #2B3037;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+.postertrip {
+	color: #49525D;
+	font-style: italic;
+	font-size: 1.2em;
+}
+
+.legal {
+	text-align: center;
+	font-size: 0.8em;
+}

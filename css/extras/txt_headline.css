@@ -1,0 +1,170 @@
+body {
+	padding: 0px 8px 8px 8px;
+	margin: 0px;
+	background: #FFFFFF;
+	color: #000000;
+}
+
+a {
+	color: #DD6600;
+}
+
+a:visited {
+	color: #DD6600;
+}
+
+a:hover {
+		color:#FFAA44;
+}
+
+form {
+	clear: both;
+	background: #EEEEEE;
+	color: #000000;
+	border-bottom: 2px solid #BBBBBB;
+	font-family: sans-serif;
+	margin: 3px;
+	padding: 3px;
+}
+
+input, textarea {
+	border: 1px solid #000000;
+}
+
+input[type="file"] > input[type="text"] {
+	border: 1px solid #000000;
+}
+
+ol ul, ul ol, ul ul, ol ol {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+ol p:first-child, ul p:first-child {
+	margin-top: 0;
+}
+
+ol p:last-child, ul p:last-child {
+	margin-bottom: 0;
+}
+
+.topbar {
+	width: 100%;
+	text-align: right;
+}
+
+.head {
+	background: #EEEEEE;
+	color: #000000;
+	font-family: sans-serif;
+	clear: both;
+	margin-bottom: 0.5em;
+	padding-bottom: 0;
+}
+
+.hborder .head {
+	border-bottom: 2px solid #BBBBBB;
+}
+
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	border-bottom: 2px solid #FF7700;
+	padding: 4px 4px 0px 4px;
+}
+
+h2 {
+	float: left;
+	background: #EEEEEE;
+	border-bottom: 2px solid #FF7700;
+	font-size: 1.2em;
+	font-family: sans-serif;
+	font-weight: bold;
+	margin: 0px 0px 0.7em 0px;
+	padding: 0px 0.2em 0px 0px;
+}
+
+h2 a {
+	color: #000000;
+	text-decoration: none;
+}
+
+h2 a:hover {
+	color:#FFAA44;
+}
+
+h2 small {
+	font-size: 1em;
+	font-weight: normal;
+	margin-left: 0.5em;
+}
+
+.midhead {
+	padding: 1em 0.5em 0.2em 0.5em;
+}
+
+.navlinks {
+	font-size: 1.5em;
+}
+
+.threadlinks {
+	font-weight: bold;
+}
+
+.postnum {
+	width: 1.5em;
+	font-family: sans-serif;
+	text-align: right;
+	font-weight: bold;
+	margin-right: 0.5em;
+	float: left;
+}
+
+
+.postnum a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.postnum a:hover {
+	color:#FFAA44;
+}
+
+.replies {
+	clear: both;
+	margin-bottom: 1.2em;
+	padding: 4px;
+	font-size: 1em;
+	font-weight: normal;
+}
+
+h3 {
+	font-size: 1em;
+	font-family: sans-serif;
+	font-weight: normal;
+	margin: 0px 0px 0px 0px;
+	clear: both;
+}
+
+h3 a {
+	color: #000000;
+}
+
+h3 a:hover {
+	color:#FFAA44;
+}
+
+.postername {
+	color: #000000;
+	font-weight: bold;
+}
+
+.postertrip {
+	color: #000000;
+}
+
+.legal {
+	text-align: center;
+	font-size: small;
+}

@@ -1,0 +1,457 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: kusaba\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2008-02-22 13:49+0000\n"
+"Last-Translator: pcp <Unknown>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "Add"
+msgstr "Přidat"
+
+msgid "Add board"
+msgstr "Přidat nástěnku"
+
+msgid "Add news"
+msgstr "Přidat zprávičku"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Administration"
+msgstr "Administrace"
+
+msgid "Administrator"
+msgstr "Administrátor"
+
+msgid "Administrators"
+msgstr "Administrátoři"
+
+msgid "All Threads"
+msgstr "Všechny vlákna"
+
+msgid "All boards"
+msgstr "Všechny nástěnky"
+
+msgid "Ban from"
+msgstr "Ban od"
+
+msgid "Ban successfully removed."
+msgstr "Ban odstraněn"
+
+msgid "Board"
+msgstr "Board"
+
+msgid "Board successfully deleted."
+msgstr "Nástěnka smazána"
+
+msgid "Board type:"
+msgstr "Typ nástěnky"
+
+msgid "Boards"
+msgstr "Nástěnky"
+
+msgid "Can be left blank."
+msgstr "Nemusí být vyplněno"
+
+msgid "Can not be left blank."
+msgstr "Musí být vyplněno"
+
+msgid "Cancel"
+msgstr "Storno"
+
+msgid "Cleanup"
+msgstr "Vyčistit"
+
+msgid "Cleanup finished."
+msgstr "Čištění dokončeno"
+
+msgid "Click to show/hide"
+msgstr "Zobrazit/Skrýt"
+
+msgid "Continue"
+msgstr "Pokračovat"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Default"
+msgstr "Výchozí"
+
+msgid "Delete"
+msgstr "Odstranit"
+
+msgid "Delete board"
+msgstr "Smazat nástěnku"
+
+msgid "Delete posts"
+msgstr "Smazat příspěvky"
+
+msgid "Deleted"
+msgstr "Smazáno"
+
+msgid "Deleted posts by ip"
+msgstr "Smazat příspěvky podle IP"
+
+msgid "Deleting unused images."
+msgstr "Mažu nepoužité obrázky"
+
+msgid "Description"
+msgstr "Popis"
+
+msgid "Directory"
+msgstr "Adresář"
+
+msgid "Does not expire"
+msgstr "Nevyprší"
+
+msgid "Edit"
+msgstr "Úpravy"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Embed"
+msgstr "Vloženo"
+
+msgid "Error, it appears your file did not transfer properly.  Please go back and try again."
+msgstr "Chyba při odesílání souboru. Zkuste to znovu."
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "File"
+msgstr "Soubor"
+
+msgid "File Only"
+msgstr "Pouze soubory"
+
+msgid "File<br>Removed"
+msgstr "Soubor odstraněn"
+
+msgid "First 100 posts"
+msgstr "Prvních 100 příspěvků"
+
+msgid "From"
+msgstr "Od"
+
+msgid "Global options"
+msgstr "Globální volby"
+
+msgid "Go"
+msgstr "Jdi"
+
+msgid "Height"
+msgstr "Výška"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "Image"
+msgstr "Obrázek"
+
+msgid "Image successfully deleted from your post."
+msgstr "Obrázek byl z tvého příspěvku úspěšně smazán"
+
+msgid "Images"
+msgstr "Obrázky"
+
+msgid "Important"
+msgstr "Důležité"
+
+msgid "Improper filetype."
+msgstr "Nepodporovaný formát souboru"
+
+msgid "Incorrect password."
+msgstr "Nesprávné heslo"
+
+msgid "Incorrect username/password."
+msgstr "Nesprávné jméno nebo heslo"
+
+msgid "Index"
+msgstr "Index"
+
+msgid "Invalid MIME type for this filetype."
+msgstr "Neplatný MIME typ pro tento soubor"
+
+msgid "Invalid thread ID."
+msgstr "Neplatné ID vlákna"
+
+msgid "Last Post"
+msgstr "Poslední příspěvek"
+
+msgid "Lock"
+msgstr "Uzamknout"
+
+msgid "Logged in"
+msgstr "Přihlášený"
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid "Manage"
+msgstr "Spravovat"
+
+msgid "Manage boards"
+msgstr "Spravovat nástěnky"
+
+msgid "Maxmimum thumbnail height"
+msgstr "Maximální výška náhledu"
+
+msgid "Maxmimum thumbnail width"
+msgstr "Maximální šířka náhledu"
+
+msgid "Message"
+msgstr "Zpráva"
+
+msgid "Misc"
+msgstr "Různé"
+
+msgid "Mod"
+msgstr "Mod"
+
+msgid "Moderator"
+msgstr "Moderátor"
+
+msgid "Moderators"
+msgstr "Moderátoři"
+
+msgid "Modify"
+msgstr "Upravit"
+
+msgid "Module settings"
+msgstr "Nastavení modulu"
+
+msgid "Modules"
+msgstr "Moduly"
+
+msgid "Name"
+msgstr "Jméno"
+
+msgid "Never"
+msgstr "Nikdy"
+
+msgid "New Thread"
+msgstr "Nové vlákno"
+
+msgid "New password"
+msgstr "Nové heslo"
+
+msgid "New password again"
+msgstr "Heslo znovu"
+
+msgid "News"
+msgstr "Zprávy"
+
+msgid "Next"
+msgstr "Další"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "No File"
+msgstr "Žádný soubor"
+
+msgid "No threads."
+msgstr "Žádná vlákna"
+
+msgid "None"
+msgstr "Nic"
+
+msgid "Normal imageboard"
+msgstr "Obrázky"
+
+msgid "Online now"
+msgstr "Nyní online"
+
+msgid "Open images in new window"
+msgstr "Otevírat obrázky v novém okně"
+
+msgid "Order"
+msgstr "Pořadí"
+
+msgid "Password"
+msgstr "Heslo"
+
+msgid "Password successfully changed."
+msgstr "Heslo bylo úspěšně změněno."
+
+msgid "Please enter a positive amount of seconds, or zero for a permanent ban."
+msgstr "Zadejte počet sekund nebo nulu pro permanentní Ban."
+
+msgid "Please select only one image to upload."
+msgstr "Prosím zvolte pouze jeden obrázek k odeslání"
+
+msgid "Post"
+msgstr "Příspěvek"
+
+msgid "Post preview"
+msgstr "Náhled příspěvku"
+
+msgid "Post successfully deleted."
+msgstr "Příspěvek smazán"
+
+msgid "Posts"
+msgstr "Příspěvky"
+
+msgid "Preview"
+msgstr "Náhled"
+
+msgid "Previous"
+msgstr "Předchozí"
+
+msgid "Quick Reply"
+msgstr "Rychle odpovědět"
+
+msgid "Reason"
+msgstr "Důvod"
+
+msgid "Reason:"
+msgstr "Důvod:"
+
+msgid "Regular expression"
+msgstr "Regulární výraz"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Replies"
+msgstr "Odpovědi"
+
+msgid "Reply"
+msgstr "Odpovědět"
+
+msgid "Rules"
+msgstr "Pravidla"
+
+msgid "Seconds"
+msgstr "sekund"
+
+msgid "Section"
+msgstr "Sekce"
+
+msgid "Show All"
+msgstr "Zobrazit vše"
+
+msgid "Show Directories"
+msgstr "Zobrazit adresáře"
+
+msgid "Show/Hide"
+msgstr "Zobrazit/Skrýt"
+
+msgid "Size"
+msgstr "Velikost"
+
+msgid "Sorry, that filetype is not allowed on this board."
+msgstr "Omlouváme se, ale tento souborový formát není na nástěnce podporován"
+
+msgid "Sorry, this board is locked and can not be posted in."
+msgstr "Tato nástěnka je uzamčena a proto není možné přidávat další příspěvky"
+
+msgid "Statistics"
+msgstr "Statistika"
+
+msgid "Sticky"
+msgstr "Přilepit"
+
+msgid "Subject"
+msgstr "Předmět"
+
+msgid "Submit"
+msgstr "Odeslat"
+
+msgid "Tag"
+msgstr "Tag"
+
+msgid "Text board"
+msgstr "Text"
+
+msgid "That IP has already been banned."
+msgstr "Tato IP je již blokována"
+
+msgid "There was an error in trying to delete your post"
+msgstr "Chyba při mazání příspěvku"
+
+msgid "This post has been deleted."
+msgstr "Příspěvek smazán"
+
+msgid "Thread"
+msgstr "Vlákno"
+
+msgid "Thread successfully locked."
+msgstr "Vlákno uzamčeno"
+
+msgid "Thread successfully unlocked."
+msgstr "Vlákno odemčeno"
+
+msgid "Threads"
+msgstr "Vlákna"
+
+msgid "To"
+msgstr "Do"
+
+msgid "Unable to delete board."
+msgstr "Není možné smazat nástěnku"
+
+msgid "Unlock"
+msgstr "Odemknout"
+
+msgid "Unsticky"
+msgstr "Odlepit"
+
+msgid "Update"
+msgstr "Aktualizace"
+
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+msgid "Welcome"
+msgstr "Vítejte"
+
+msgid "Word"
+msgstr "Slovo"
+
+msgid "Yes"
+msgstr "Ano"
+
+msgid "Your IP address is"
+msgstr "Vaše IP adresa je"
+
+msgid "and"
+msgstr "a"
+
+msgid "for the following reason"
+msgstr "z důvodu"
+
+msgid "forever"
+msgstr "navždy"
+
+msgid "log in"
+msgstr "přihlásit se"
+
+msgid "log out"
+msgstr "Odhlásit se"
+
+msgid "or"
+msgstr "nebo"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  pcp https://launchpad.net/~popcorp86"
+
+msgid "will expire on"
+msgstr "vyprší"
+
+msgid "will not expire"
+msgstr "nevyprší nikdy"
+

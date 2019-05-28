@@ -1,0 +1,1070 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: trevorchan\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2007-12-09 03:10+0000\n"
+"PO-Revision-Date: 2007-09-08 03:23+0000\n"
+"Last-Translator: phar <phariseus@gmail.com>\n"
+"Language-Team: Polish <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-03-12 04:24+0000\n"
+"X-Generator: Launchpad (build Unknown)\n"
+
+msgid "%s bans not shown."
+msgstr "Nie pokazano %s banów."
+
+msgid "%s not implemented."
+msgstr "%s jest nieobsługiwany."
+
+msgid "(for post and file deletion)"
+msgstr "(do usuwania postów i plików)"
+
+msgid "<h2>Add News Post</h2>This message will be displayed as it is written, so make sure you add the proper HTML."
+msgstr "<h2>Dodaj newsa</h2>Wiadomość będzie wyświetlona tak, jak została napisana - upewnij się więc co do poprawnej składni HTML."
+
+msgid "A board with that name already exists."
+msgstr "Board o tej nazwie już istnieje."
+
+msgid "A board with that name does not exist."
+msgstr "Board o tej nazwie nie istnieje."
+
+msgid "A message is required to post without a file."
+msgstr "Postując bez pliku, należy wpisać wiadomość"
+
+msgid "A post with that ID does not exist."
+msgstr "Post o tym ID nie istnieje."
+
+msgid "A staff member with that ID already exists."
+msgstr "Członek ekipy o podanym ID już istnieje."
+
+msgid "A staff member with that id does not appear to exist."
+msgstr "Członek ekipy o podanym ID nie istnieje."
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "Add ban"
+msgstr "Dodaj ban"
+
+msgid "Add board"
+msgstr "Dodaj board"
+
+msgid "Add news"
+msgstr "Dodaj news"
+
+msgid "Add staff member"
+msgstr "Dodaj członka ekipy"
+
+msgid "Add word"
+msgstr "Dodaj słowo"
+
+msgid "Added a news entry"
+msgstr "Dodano newsa"
+
+msgid "Added board"
+msgstr "Dodano board"
+
+msgid "Added on"
+msgstr "Dodano:"
+
+msgid "Added staff member"
+msgstr "Dodano członka ekipy"
+
+msgid "Admin"
+msgstr "Admin"
+
+msgid "Administration"
+msgstr "Administracj"
+
+msgid "Administrator"
+msgstr "Administrator"
+
+msgid "Administrators"
+msgstr "Administratorzy"
+
+msgid "All Threads"
+msgstr "Wszystkie tematy"
+
+msgid "All boards"
+msgstr "Wszystkie boardy"
+
+msgid "All threads/posts by that IP in selected boards successfully deleted."
+msgstr "Wszystkie tematy/posty wysłane z tego IP zostały usunięte."
+
+msgid "Allowed filetypes"
+msgstr "Dozwolone typy plików"
+
+msgid "Already posted %shere%s."
+msgstr "To już zostało zapostowane %stutaj%s."
+
+msgid "An image, or message, is required for a reply."
+msgstr "Obrazek lub wiadomość jest wymagana przy odpowiedzi!"
+
+msgid "Anonymous"
+msgstr "Anonim"
+
+msgid "Are you absolutely sure you want to delete %s?"
+msgstr "Czy jesteś pewien, że chcesz usunąć %s?"
+
+msgid "Ban from"
+msgstr "Ban na"
+
+msgid "Ban proxy list"
+msgstr "Banuj listę proxy"
+
+msgid "Ban successfully placed."
+msgstr "Pomyślnie zbanowano."
+
+msgid "Ban successfully removed."
+msgstr "Ban pomyślnie usunięto."
+
+msgid "Banned"
+msgstr "Zbanowano"
+
+msgid "Banned from"
+msgstr "Ban na"
+
+msgid "Board"
+msgstr "Board"
+
+msgid "Board options"
+msgstr "Opcje boardu"
+
+msgid "Board successfully added."
+msgstr "Pomyślnie dodano board."
+
+msgid "Board successfully deleted."
+msgstr "Pomyślnie usunięto board."
+
+msgid "Board type:"
+msgstr "Typ boardu:"
+
+msgid "Boards"
+msgstr "Boardy"
+
+msgid "Cache successfully flushed."
+msgstr "Cache pomyślnie usunięte."
+
+msgid "Can be left blank."
+msgstr "Można pozostawić puste"
+
+msgid "Can not be left blank."
+msgstr "Nie można pozostawić pustego"
+
+msgid "Captcha"
+msgstr "Captcha"
+
+msgid "Catalog Mode"
+msgstr "Tryb katalogu"
+
+msgid "Change account password"
+msgstr "Zmień hasło do konta"
+
+msgid "Check for new version"
+msgstr "Sprawdź, czy jest nowa wersja"
+
+msgid "Cleanup"
+msgstr "Czyszczenie"
+
+msgid "Cleanup finished."
+msgstr "Czyszczenie zakończone."
+
+msgid "Click Reply to view, or %sexpand%s."
+msgstr "Kliknij na odpowiedź, by zobaczyć, lub %srozwiń%s"
+
+msgid "Click Reply to view."
+msgstr "Kliknij na Odpowiedź, by zobaczyć."
+
+msgid "Click to show/hide"
+msgstr "Kliknij, by pokazać/ukryć"
+
+msgid "Continue"
+msgstr "Kontynuuj"
+
+msgid "Could not copy uploaded image."
+msgstr "Nie można skopiować wysłanego obrazka."
+
+msgid "Could not create thumbnail."
+msgstr "Nie można było utworzyć miniaturki."
+
+msgid "Current version:"
+msgstr "Obecna wersja:"
+
+msgid "Days to keep modlog entries"
+msgstr "Dni, przez które trzymane są logi moderacji"
+
+msgid "Default style:"
+msgstr "Domyślny styl:"
+
+msgid "Delete"
+msgstr "Usuń"
+
+msgid "Delete all posts by IP"
+msgstr "Usuń wszystkie posty z tego IP"
+
+msgid "Delete all posts by this IP"
+msgstr "Usuń wszystkie posty z tego IP"
+
+msgid "Delete board"
+msgstr "Usuń board"
+
+msgid "Delete post"
+msgstr "Usuń post"
+
+msgid "Delete posts"
+msgstr "Usuń posty"
+
+msgid "Delete thread"
+msgstr "Usuń temat"
+
+msgid "Delete thread/post"
+msgstr "Usuń temat/post"
+
+msgid "Deleted board"
+msgstr "Usunięto board"
+
+msgid "Deleted post"
+msgstr "Usunięto post"
+
+msgid "Deleted posts by ip"
+msgstr "Usunięto post z IP"
+
+msgid "Deleted staff member"
+msgstr "Usunięto członka ekipy"
+
+msgid "Deleted thread"
+msgstr "Usunięto temat"
+
+msgid "Deleting non-deleted replies which belong to deleted threads."
+msgstr "Usuwanie nieusuniętych odpowiedzi w usuniętych tematach."
+
+msgid "Deleting unused images."
+msgstr "Usuwanie nieużywanych obrazów."
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Directory"
+msgstr "Katalog"
+
+msgid "Disk space used"
+msgstr "Użyte miejsce"
+
+msgid "Does not expire"
+msgstr "Nie wygasa"
+
+msgid "Duplicate file entry detected."
+msgstr "Wykryto zduplikowany plik (ktoś go wysłał już wcześniej)"
+
+msgid "Edit"
+msgstr "Edytuj"
+
+msgid "Edit filetypes"
+msgstr "Edytuj typy plików"
+
+msgid "Edit sections"
+msgstr "Edytuj sekcję"
+
+msgid "Edit word"
+msgstr "Edytuj słowo"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Embedding only"
+msgstr "Tylko zagnieżdżanie"
+
+msgid "Enable \"no file\" posting"
+msgstr "Włącz postowanie bez pliku"
+
+msgid "Enable captcha:"
+msgstr "Włącz captcha:"
+
+msgid "Enable reporting:"
+msgstr "Włącz możliwość zgłaszania:"
+
+msgid "Enable/disable captcha system for this board.  If captcha is enabled, in order for a user to post, they must first correctly enter the text on an image."
+msgstr "Włącz/wyłącz system captcha dla tego boardu. Jeżeli captcha jest włączona, w celach wysłania posta, użytkownik będzie musiał każdorazowo przepisywać kod z obrazka."
+
+msgid "Entire Thread"
+msgstr "Cały temat"
+
+msgid "Error, it appears your file did not transfer properly.  Please go back and try again."
+msgstr "Wystąpił błąd przy przesyłaniu obrazka. Prosimy spróbować ponownie."
+
+msgid "Expires:"
+msgstr "Przedawnia się:"
+
+msgid "Extension icon displayed, click image to open file."
+msgstr "Wyświetlono ikonę rozszerzenia, kliknij na nią, by otworzyć plik"
+
+msgid "File"
+msgstr "Plik"
+
+msgid "File Only"
+msgstr "Tylko plik"
+
+msgid "File was not fully uploaded.  Please go back and try again."
+msgstr "Plik nie został wysłany w całości. Prosimy spróbować ponownie."
+
+msgid "Filetype added."
+msgstr "Dodano typ pliku."
+
+msgid "Filetype deleted."
+msgstr "Usunięto typ pliku."
+
+msgid "Filetype updated."
+msgstr "Zaktualizowano typ pliku."
+
+msgid "First 100 posts"
+msgstr "Pierwsze 100 postów"
+
+msgid "Forced anonymous"
+msgstr "Wymuszona anonimowość"
+
+msgid "Front Page"
+msgstr "Strona główna"
+
+msgid "Get posting password"
+msgstr "Odkryj hasło postowania"
+
+msgid "Global configuration succesfully updated."
+msgstr "Globalna konfiguracaja pomyślnie zaktualizowana."
+
+msgid "Global options"
+msgstr "Globalne opcje"
+
+msgid "Go"
+msgstr "Idź"
+
+msgid "Header image"
+msgstr "Obrazek nagłówka"
+
+msgid "Hide Directories"
+msgstr "Usuń katalogi"
+
+msgid "Home"
+msgstr "Strona główna"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "If set to yes, new threads will not require an image to be posted."
+msgstr "Jeśli ustawiono na tak, nowe tematy będą wymagały załączenia obrazka."
+
+msgid "If set to yes, this board will appear in bold in the menu"
+msgstr "Jeśli ustawiono na tak, board ten pokaże się w menu <b>porgrubiony</b>"
+
+msgid "If set to yes, this board will appear in italics in the menu"
+msgstr "Jeśli ustawiono na tak, board ten pokaże się w menu <i>kursywą</i>"
+
+msgid "If set to yes, users will be redirected to the thread they replied to/posted after posting.  If set to no, users will be redirected to the first page of the board."
+msgstr "Jeśli ustawiono na tak, użytkownicy zostaną przekierowani do tematu w którym odpowiedzieli/zapostowali. Jeśli ustawiono na nie, użytkownicy będą przekierowani na spis tematów."
+
+msgid "If set to yes, users will not be allowed to enter a name, making everyone appear as Anonymous"
+msgstr "Jeśli ustawiono na tak, użytkownicy nie będą mogli wpisać swojego imienia. Wszyscy będą figurować jako Anonim"
+
+msgid "Image successfully deleted from your post."
+msgstr "Obraz został pomyślnie usunięty z twojego postu."
+
+msgid "Images and embedding"
+msgstr "Obrazki i zagnieżdżanie"
+
+msgid "Improper filetype."
+msgstr "Niedozwolony typ pliku."
+
+msgid "Include header"
+msgstr "Dołącz nagłówek"
+
+msgid "Incorrect password."
+msgstr "Nieprawidłowe hasło."
+
+msgid "Incorrect username/password."
+msgstr "Nieprawidłowa nazwa użytkownika/hasło."
+
+msgid "Index"
+msgstr "Indeks"
+
+msgid "Inject"
+msgstr "Wyślij"
+
+msgid "Integer values must be entered correctly."
+msgstr "Należy wpisać poprawną liczbę całkowitą."
+
+msgid "Invalid ID"
+msgstr "Nieprawidłowy ID"
+
+msgid "Invalid MIME type for this filetype."
+msgstr "Nieprawidłowy wpis MIME dla tego typu pliku."
+
+msgid "Invalid ban ID"
+msgstr "Nieprawidłowy ID bana"
+
+msgid "Invalid board directory."
+msgstr "Nieprawidłowy katalog boardu."
+
+msgid "Invalid response code:"
+msgstr "Nieprawidłowy kod odpowiedzi:"
+
+msgid "Invalid session."
+msgstr "Nieprawidłowa sesja."
+
+msgid "Invalid staff ID."
+msgstr "Nieprawidłowy ID ekipy"
+
+msgid "Invalid thread ID.  This may have been caused by the thread recently being deleted."
+msgstr "Błąd: nie odnaleziono tematu. Być może został niedawno usunięty."
+
+msgid "Invalid video ID."
+msgstr "ieprawidłowy ID pliku wideo."
+
+msgid "Invalid video type."
+msgstr "Nieprawidłowy typ pliku wideo."
+
+msgid "Is replaced by"
+msgstr "zamień na"
+
+msgid "Last 50 posts"
+msgstr "Ostatnie 50 postów"
+
+msgid "Last Post"
+msgstr "Ostatni post"
+
+msgid "Lock"
+msgstr "Zablokuj"
+
+msgid "Locked"
+msgstr "Zablokowany"
+
+msgid "Locked thread"
+msgstr "Zablokowano temat"
+
+msgid "Log in again."
+msgstr "Zaloguj się ponownie."
+
+msgid "Logged in"
+msgstr "Zalogowano"
+
+msgid "Manage"
+msgstr "Zarządzaj"
+
+msgid "Manage boards"
+msgstr "Zarządzaj boardami"
+
+msgid "Manage locked threads"
+msgstr "Zarządzaj zablokowanymi"
+
+msgid "Manage stickies"
+msgstr "Zarządzaj przyklejonymi"
+
+msgid "Marked for deletion (old)."
+msgstr "Oznaczone do usunięcia (stary temat)"
+
+msgid "Maximum board pages"
+msgstr "Maksymalna ilość stron boardu"
+
+msgid "Maximum image size"
+msgstr "Maksymalny rozmiar obrazka"
+
+msgid "Maximum message length"
+msgstr "Maksymalna długość posta"
+
+msgid "Maximum thread age (Hours)"
+msgstr "Maksymalny wiek tematu (godz.)"
+
+msgid "Maximum thread replies"
+msgstr "Maksymalna ilość odpowiedzi w jednym temacie"
+
+msgid "Maxmimum size of uploaded images, in <b>bytes</b>."
+msgstr "Maksymalny rozmiar wysyłanego obrazka, w <b>bajtach</b>."
+
+msgid "Maxmimum thumbnail height"
+msgstr "Maksymalna wysokość miniaturki"
+
+msgid "Maxmimum thumbnail width"
+msgstr "Maksymalna szerokość miniaturki"
+
+msgid "Message"
+msgstr "Wiadomość"
+
+msgid "Misc"
+msgstr "różne"
+
+msgid "Mod"
+msgstr "Mod"
+
+msgid "ModLog"
+msgstr "Log moderacji"
+
+msgid "Moderates"
+msgstr "Moderuje"
+
+msgid "Moderating boards"
+msgstr "Moderuje boardy:"
+
+msgid "Moderation"
+msgstr "Moderacja"
+
+msgid "Moderator"
+msgstr "Moderator"
+
+msgid "Moderators"
+msgstr "Moderatorz"
+
+msgid "Modify staff member"
+msgstr "Edytuj członka ekipy"
+
+msgid "Module settings"
+msgstr "Ustawienia modułów"
+
+msgid "Modules"
+msgstr "Moduły"
+
+msgid "NOTICE: You are using the default administrator account.  Anyone can log in to this account, so a second administrator account needs to be created.  Create another, log in to it, and delete this one."
+msgstr "UWAGA: Używasz domyślnego konta administratora - oznacza to, że każdy może się teraz na nie zalogować. Należy utworzyć nowe konto administratora, zalogować się na nie, a następnie to usunąć."
+
+msgid "Name"
+msgstr "Imię"
+
+msgid "Never"
+msgstr "Nigdy"
+
+msgid "New Thread"
+msgstr "Nowy temat"
+
+msgid "New password"
+msgstr "Nowe hasło"
+
+msgid "New password again"
+msgstr "Powtórz nowe hasło"
+
+msgid "News"
+msgstr "Newsy"
+
+msgid "News entry successfully added."
+msgstr "Pomyślnie dodano newsa."
+
+msgid "Next"
+msgstr "Dalej"
+
+msgid "No File"
+msgstr "Brak pliku"
+
+msgid "No boards"
+msgstr "Brak boardów"
+
+msgid "No embedding"
+msgstr "Bez zagnieżdżania"
+
+msgid "No visible boards"
+msgstr "Brak widocznych boardów"
+
+msgid "Normal imageboard"
+msgstr "Zwykły imageboard"
+
+msgid "Oekaki imageboard"
+msgstr "Board oekaki"
+
+msgid "Old password"
+msgstr "Stare hasło"
+
+msgid "Only moderators of the board and admins can make new posts/replies"
+msgstr "Tylko moderatorzy tego boardu i admini mogą zakładać nowe tematy/odpowiadać"
+
+msgid "Open images in new window"
+msgstr "Otwieraj obrazki w nowym oknie"
+
+msgid "Order"
+msgstr "Porządek"
+
+msgid "Order to show board in menu list, in ascending order."
+msgstr "Porządek w jakim pokazywane są boardy w menu, rosnąco"
+
+msgid "Overrides the header set in the config file.  Leave blank to use configured global header image.  Needs to be a full url including http://.  Set to none to show no header image."
+msgstr "Zastępuje obrazek nagłówka w pliku konfiguracyjnym. Pozostaw puste, jeśli chcesz użyć domyślnego. Musi to być pełen url, razem z http://. Ustaw na brak, by nie używać nagłówka."
+
+msgid "Password"
+msgstr "Hasło"
+
+msgid "Password successfully changed."
+msgstr "Hasło pomyślnie zmieniono."
+
+msgid "Placed:"
+msgstr "Wymierzył:"
+
+msgid "Please enter a positive amount of seconds, or zero for a permanent ban."
+msgstr "Proszę wpisać dodatnią liczbę sekund lub zero dla permamentnego bana."
+
+msgid "Please enter a search query."
+msgstr "Proszę wpisać zapytanie do wyszukania."
+
+msgid "Please fill in all required fields."
+msgstr "Proszę wypełnić wszystkie wymagane pola."
+
+msgid "Please make sure your file is smaller than %dB"
+msgstr "Upewnij się, że twój obrazek jest mniejszy niż %dB"
+
+msgid "Please select a board."
+msgstr "Proszę wybrać board."
+
+msgid "Please select only one image to upload."
+msgstr "Proszę wybrać tylko jeden obrazek do wysłania."
+
+msgid "Popular"
+msgstr "Popularny"
+
+msgid "Post"
+msgstr "Post"
+
+msgid "Post successfully deleted."
+msgstr "Post został pomyślnie usunięty."
+
+msgid "Postbox notice"
+msgstr "Powiadomienie na pocztę"
+
+msgid "Posting a blacklisted link."
+msgstr "Próba zapostowania linku na czarnej liście."
+
+msgid "Posting mode: Reply"
+msgstr "Tryb postowania: Odpowiedź"
+
+msgid "Posting rates (past hour)"
+msgstr "Częstotliwość postowania (godz.)"
+
+msgid "Posts"
+msgstr "Posty"
+
+msgid "Presets"
+msgstr "Domyślne"
+
+msgid "Previous"
+msgstr "Wstecz"
+
+msgid "Proxy list"
+msgstr "Lista proxy"
+
+msgid "Query"
+msgstr "Zapytanie"
+
+msgid "Query executed successfully"
+msgstr "Zapytanie wykonano pomyślnie"
+
+msgid "Quick Reply"
+msgstr "Szybka odpowiedź"
+
+msgid "Ran cleanup"
+msgstr "Wykonano czyszczenie"
+
+msgid "Raw HTML which will be inserted at the top of each page of the board."
+msgstr "Kod HTML, który będzie dołączony do góry i dołu każdego boarda."
+
+msgid "Read this thread from the beginning"
+msgstr "Czytaj ten temat od początku"
+
+msgid "Reason"
+msgstr "Powód"
+
+msgid "Reason:"
+msgstr "Powód:"
+
+msgid "Rebuild all html files"
+msgstr "Odbuduj wszystkie pliki html"
+
+msgid "Rebuild complete.  Took <b>%d</b> seconds."
+msgstr "Odbudowa ukończona. Zabrało to <b>%d</b> sekund."
+
+msgid "Rebuilt all boards and threads"
+msgstr "Odbudowano wszyskie boardy i thready"
+
+msgid "Redirect to thread"
+msgstr "Przekieruj do tematu"
+
+msgid "Redirecting"
+msgstr "Przekierowywanie..."
+
+msgid "Regenerated %s"
+msgstr "Zregenerowano %s"
+
+msgid "Regular expression"
+msgstr "Wyrażenie potoczne"
+
+msgid "Removed word from wordfilter"
+msgstr "Usunięto słowo z filtra"
+
+msgid "Replies"
+msgstr "Odpowiedzi"
+
+msgid "Replies displayed per stickied thread (in thread list)"
+msgstr "Odpowiedzi wyświetlanych w przyklejonym temacie (na spisie tematow)"
+
+msgid "Replies displayed per thread (in thread list)"
+msgstr "Odpowiedzi wyświetlanych w temacie (na spisie tematów)"
+
+msgid "Reply"
+msgstr "Odpowiedź"
+
+msgid "Report"
+msgstr "Zgłoś"
+
+msgid "Reporting allows users to report posts, adding the post to the report list."
+msgstr "Zgłaszanie pozwala użytkownikom na wysyłanie postów do moderatorów w celach przyszłego rozpatrzenia"
+
+msgid "Reports"
+msgstr "Zgłoszenia"
+
+msgid "Results"
+msgstr "Wyniki"
+
+msgid "Return"
+msgstr "Powrót"
+
+msgid "SQL query"
+msgstr "Zapytanie SQL"
+
+msgid "Search"
+msgstr "Szukaj"
+
+msgid "Search posts"
+msgstr "Przeszukaj posty"
+
+msgid "Seconds"
+msgstr "Sekund"
+
+msgid "Section"
+msgstr "Sekcja"
+
+msgid "Section added."
+msgstr "Dodano sekcję."
+
+msgid "Section deleted."
+msgstr "Usunięto sekcję."
+
+msgid "Section updated."
+msgstr "Zaktualizowano sekcję."
+
+msgid "Show Directories"
+msgstr "Pokaż katalogi"
+
+msgid "Show Posting Password"
+msgstr "Pokaż hasło postowania"
+
+msgid "Shown below"
+msgstr "Poniżej"
+
+msgid "Sorry, because of your numerous failed logins, you have been locked out from logging in for 20 minutes.  Please wait and then try again."
+msgstr "Przepraszamy, ale z powodu powtarzających się nieudanych prób logowania została wyłączona jego możliwość na 20 minut. Proszę poczekać i spróbować ponownie."
+
+msgid "Sorry, that filetype is not allowed on this board."
+msgstr "Przepraszamy, ale podany typ pliku nie jest obsługiwany na tym boardzie."
+
+msgid "Sorry, this board is locked and can not be posted in."
+msgstr "Przepraszamy, ale ten board jest zablokowany i nie można w nim postować."
+
+msgid "Sorry, this thread is locked and can not be replied to."
+msgstr "Przepraszamy, ale ten temat jest zablokowany i nie można w nim odpowiadać."
+
+msgid "Sorry, your message is too long.  Message length: %d, maxmimum allowed length: %d"
+msgstr "Przepraszamy, ale długość twojej wiadomości (%d) przekracza %d znaków"
+
+msgid "Sorry, your search returned zero results."
+msgstr "Przepraszamy, nic nie znaleziono."
+
+msgid "Staff"
+msgstr "Ekipa"
+
+msgid "Staff member successfully added."
+msgstr "Członek ekipy pomyślnie dodany"
+
+msgid "Staff rights"
+msgstr "Przywileje"
+
+msgid "Staff successfully deleted"
+msgstr "Członek pomyślnie usunięty"
+
+msgid "Staff successfully updated"
+msgstr "Ekipa pomyślnie zaktualizowana"
+
+msgid "Stickied thread"
+msgstr "Przyklejono temat"
+
+msgid "Sticky"
+msgstr "Przyklejony"
+
+msgid "Style"
+msgstr "Styl"
+
+msgid "Subject"
+msgstr "Temat"
+
+msgid "Submit"
+msgstr "Wyślij"
+
+msgid "Text board"
+msgstr "Board tekstowy"
+
+msgid "That ID does not exist."
+msgstr "Ten ID nie istnieje."
+
+msgid "That ID is a reply, not a thread."
+msgstr "Pod tym ID znajduje się odpowiedź, nie temat."
+
+msgid "That IP has already been banned."
+msgstr "To IP już zostało zbanowane."
+
+msgid "That name is for internal use.  Please pick another."
+msgstr "Ta nazwa jest zarezerwowana do użycia wewnątrz. Proszę wybrać inną."
+
+msgid "That post has been cleared as not requiring any deletion."
+msgstr "Wpis o tym poście został usunięty - post nie wymaga usunięcia."
+
+msgid "That post is already in the report list."
+msgstr "Ten post został już zgłoszony."
+
+msgid "That thread has yet to be deleted."
+msgstr "Ten temat będzie usunięty."
+
+msgid "That video ID has already been posted %shere%s."
+msgstr "Plik wideo o tym ID został już zapostowany %stutaj%s."
+
+msgid "That word already exists."
+msgstr "To słowo już istnieje."
+
+msgid "The 5 newest replies are shown below."
+msgstr "Pokazano najnowsze 5 odpowiedzi."
+
+msgid "The directory of the board."
+msgstr "Katalog boardu."
+
+msgid "The name of the board."
+msgstr "Nazwa boardu."
+
+msgid "The number of replies a thread can have before autosaging to the back of the board."
+msgstr "Ilość odpowiedzi w temacie przed wypchaniem na koniec boardu."
+
+msgid "The old password you provided did not match the current one."
+msgstr "Stare hasło jest nieprawidłowe."
+
+msgid "The second password did not match the first."
+msgstr "Podane nowe hasła nie są identyczne."
+
+msgid "The section the board is in.  This is used for displaying the list of boards on the top and bottom of pages."
+msgstr "Sekcja, w której jest board. Używane do wyświetlania listy boardów na górze i dole strony"
+
+msgid "The style which will be set when the user first visits the board."
+msgstr "Styl, który zostanie użyty, gdy użytkownik poraz pierwszy odwiedzi board."
+
+msgid "The type of posts which will be accepted on this board.  A normal imageboard will feature image and extended format posts, a text board will have no images, and an Oekaki board will allow users to draw images and use them in their posts."
+msgstr "Typ postów akceptowanych na tym boardzie. Zwykły imageboard będzie obsługiwał obrazy i rozszerzone formaty, board tekstowy nie będzie miał możliwości wysłania obrazków, a board Oekaki pozwala użytkownikom na rysosowanie obrazów w przeglądarce i załączanie ich do postów."
+
+msgid "There are currently no bans."
+msgstr "Obecnie nie ma żadnych banów."
+
+msgid "There are currently no filetypes."
+msgstr "Obecnie nie ma żadnych typów pliku."
+
+msgid "There are currently no sections."
+msgstr "Obecnie nie ma żadnych sekcji."
+
+msgid "There are currently no threads to display."
+msgstr "Nie ma obecnie żadnych tematów do wyświetlenia."
+
+msgid "There is already a file with that name."
+msgstr "Istnieje już plik o tej nazwie."
+
+msgid "There was an error in trying to delete your post"
+msgstr "Wystąpił błąd przy próbie usunięcia twojego postu."
+
+msgid "This board does not allow post reporting."
+msgstr "Ten board nie zezwala na zgłaszanie postów."
+
+msgid "This post has been deleted."
+msgstr "Ten post został usunięty."
+
+msgid "Thread"
+msgstr "Temat"
+
+msgid "Thread successfully deleted."
+msgstr "Temat pomyślnie usunięto."
+
+msgid "Thread successfully locked."
+msgstr "Temat pomyślnie zablokowano."
+
+msgid "Thread successfully stickied."
+msgstr "Temat pomyślnie przyklejono."
+
+msgid "Thread successfully un-stickied"
+msgstr "Temat pomyślnie odklejono."
+
+msgid "Thread successfully unlocked."
+msgstr "Temat pomyślnie odblokowano."
+
+msgid "Threads"
+msgstr "Tematy"
+
+msgid "Threads displayed per page (in thread list)"
+msgstr "Tematy wyświetlane na stronę (na liście tematów)"
+
+msgid "Thumbnail displayed, click image for full size."
+msgstr "Wyświetlono miniaturkę, kliknij na nią, by zobaczyć w pełnym rozmiarze"
+
+msgid "Trial"
+msgstr "Próbny"
+
+msgid "Unable to clear cache: you do not have caching enabled."
+msgstr "Nie można usunąć cache - jego obsługa jest obecnie wyłączona."
+
+msgid "Unable to connect to:"
+msgstr "Nie można połączyć z:"
+
+msgid "Unable to create directories."
+msgstr "Nie można utworzyć katalogów."
+
+msgid "Unable to delete board."
+msgstr "Nie można usunąć boardu."
+
+msgid "Unable to find record of your IP being banned."
+msgstr "Nie odnaleziono wpisu o twoim adresie IP."
+
+msgid "Unable to locate a board named"
+msgstr "Nie odnaleziono boardu o nazwie"
+
+msgid "Unable to locate a filetype with that ID."
+msgstr "Nie odnaleziono typu pliku o tym ID."
+
+msgid "Unable to locate a section with that ID."
+msgstr "Nie odnaleziono sekcji o tym ID."
+
+msgid "Unable to locate that word."
+msgstr "Nie odnaleziono tego słowa."
+
+msgid "Unable to report post.  Please go back and try again."
+msgstr "Nie udało się zgłosić postu. Prosimy spróbować ponownie."
+
+msgid "Unbanned"
+msgstr "Odbanowano"
+
+msgid "Unlock"
+msgstr "Odblokuj"
+
+msgid "Unlocked thread"
+msgstr "Odblokowano tema"
+
+msgid "Unstickied thread"
+msgstr "Odklejono temat"
+
+msgid "Unsticky"
+msgstr "Nieprzyklejony"
+
+msgid "Update successful."
+msgstr "Aktualizacja przebiegła pomyślnie."
+
+msgid "Updated board configuration"
+msgstr "Zaktualizowano konfigurację boardu"
+
+msgid "Updated global configuration"
+msgstr "Zaktualizowano globalną konfigurację"
+
+msgid "Updated staff member"
+msgstr "Zaktualizowano członka ekipy"
+
+msgid "Updated word on wordfilter"
+msgstr "Zaktualizowano słowo w filtrze"
+
+msgid "Upload type:"
+msgstr "Typ wysyłania:"
+
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+msgid "View all bans"
+msgstr "Zobacz wszystkie bany"
+
+msgid "View catalog"
+msgstr "Zobacz katalog obrazów"
+
+msgid "View deleted thread"
+msgstr "Zobacz usunięte tematy"
+
+msgid "View/Add/Remove bans"
+msgstr "Zobacz/Dodaj/Usuń bany"
+
+msgid "Watched Threads"
+msgstr "Obserwowane tematy"
+
+msgid "Welcome"
+msgstr "Witaj"
+
+msgid "What filetypes users are allowed to upload."
+msgstr "Jakie są dozwolone typy plików."
+
+msgid "Whether or not to allow embedding of videos."
+msgstr "Czy zezwolić na zagnieżdżanie plików wideo."
+
+msgid "Word"
+msgstr "Słowo"
+
+msgid "Word successfully added."
+msgstr "Pomyślnie dodano słowo."
+
+msgid "Word successfully removed."
+msgstr "Pomyślnie usunięto słowo."
+
+msgid "Word successfully updated."
+msgstr "Pomyślnie zaktualizowano słowo."
+
+msgid "Wordfilter"
+msgstr "Filtr słów"
+
+msgid "YOU ARE BANNED"
+msgstr "JESTEŚ ZBANOWANY"
+
+msgid "YOU ARE NOT BANNED!"
+msgstr "NIE JESTEŚ ZBANOWANY!"
+
+msgid "You are banned from posting on:"
+msgstr "Dostałeś bana za postowanie na:"
+
+msgid "You are not a moderator of this board."
+msgstr "Nie jesteś moderatorem tego boardu."
+
+msgid "You can only delete posts from boards you moderate."
+msgstr "Możesz kasować posty jedynie w tych boardach, które moderujesz."
+
+msgid "You can only make board specific bans to boards which you moderate."
+msgstr "Możesz banować jedynie na boardach do których masz uprawnienia."
+
+msgid "You have been successfully logged out."
+msgstr "Pomyślnie się wylogowałeś."
+
+msgid "You must enter a subject."
+msgstr "Musisz wpisać temat."
+
+msgid "You searched for"
+msgstr "Szukana fraza:"
+
+msgid "Your post already doesn't have an image!"
+msgstr "Twój post nie ma obrazka!"
+
+msgid "Your posting password"
+msgstr "Twoje hasło"
+
+msgid "forever"
+msgstr "zawsze"
+
+msgid "log out"
+msgstr "wyloguj"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  tj9991 <https://launchpad.net/~tslocum>\n"
+"\n"
+"Launchpad Contributions:\n"
+"  phar https://launchpad.net/~phariseus-gmail\n"
+"  tj9991 https://launchpad.net/~tslocum"
+

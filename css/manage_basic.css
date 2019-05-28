@@ -1,0 +1,157 @@
+html { min-width: 600px; }
+
+body, div, td, th, h2, h3, h4 { /* redundant rules for bad browsers */ 
+	font-family: verdana,sans-serif;
+	font-size:	x-small;
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	font-size: small;
+	color: #333;
+} 
+.clearhack { display: inline; } /*Clears Box Model Hack in IE5*/
+
+body {
+	background: #EDEBE3;
+	color: #333;
+	padding: 1em 20px 3em 20px;
+	margin: 0;
+}
+
+a { color: #06C; }
+a:hover { color: #333; }
+a:active { color: #000; }
+
+p { line-height: 140%; }
+
+h1,h2 {
+	font-family: trebuchet ms;
+	font-weight: bold;
+	color: #333;
+}
+
+h1 {
+	font-size: 180%;
+	margin: 0;
+}
+
+h1 a { text-decoration: none; color: #333; }
+h1 a:hover { border-bottom: 1px dotted #666; color: #000; }
+
+h2 {
+	font-size: 140%;
+	padding-bottom: 2px;
+	border-bottom: 1px solid #CCC;
+	margin: 0;
+}
+
+p.note {
+	background: #EEE;
+	padding: 4px;
+	font-family: tahoma;
+	font-size: 85%;
+	line-height: 130%;
+	margin-top: 0;
+}
+
+br {
+	clear: left;
+}
+
+label,input {
+	display: block;
+	width: auto;
+	float: left;
+	margin-bottom: 10px;
+}
+
+label {
+	font-size: 12px;
+	text-align: right;
+	width: 175px;
+	padding-right: 20px;
+}
+
+.desc {
+	text-indent: 5px;
+	font-size : 80%;
+	/*white-space: nowrap;*/
+}
+
+.footer {
+		text-align:center;
+		font-size:10px;
+		font-family:sans-serif;
+}
+
+th,td {
+	font-size:10px;
+	font-family:verdana;
+}
+
+.unkfunc {
+	color:#789922;
+}
+.filesize {
+	font-size:12px;
+	font-family:sans-serif;
+	text-decoration:underline;
+	padding-left:3em;
+}
+.filetitle {
+	background:inherit;
+	font-size:18px;
+	font-family:serif;
+	color:#0F0C5D;
+	font-weight:800;
+}
+.postername {
+	background:inherit;
+	font-size:12px;
+	font-family:serif;
+	color:#117743;
+	font-weight:800;
+}
+.oldpost {
+		background:inherit;
+		font-size:18px;
+		font-family:serif;
+		color:#0F0C5D;
+		font-weight:800;
+}
+.omittedposts {
+		background:inherit;
+		font-size:18px;
+		font-family:serif;
+		color:#070707;
+		font-weight:800;
+}
+.reply {
+	background:#D6DAF0;
+	color:#000000;
+	font-family:serif;
+}
+.doubledash {
+	vertical-align:top;
+	clear:both;
+	float:left;
+}
+.replytitle {
+		background:inherit;
+		font-size:18px;
+		font-family:serif;
+		color:#0F0C5D;
+		font-weight:800;
+}
+.commentpostername {
+		background:inherit;
+		font-size:12px;
+		font-family:serif;
+		color:#117743;
+		font-weight:800;
+}
+.thumbnailmsg {
+	background:inherit;
+	font-size:9px;
+	font-family:sans-serif;
+	color:#000000;
+}

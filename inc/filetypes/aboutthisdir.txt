@@ -1,0 +1,1 @@
+If you wish to allow different filetypes to be uploaded than the default which come with TC, place your own images here and add the filetype in the manage panel.
