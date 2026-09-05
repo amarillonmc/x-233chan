@@ -23,6 +23,18 @@ Clone本repo后，用文本编辑器打开``config.php``，根据你的实际情
 
 以上
 
+## 前端脚本维护 ##
+
+版面实际加载的是 `lib/javascript/kusaba.js`，修改 `lib/javascript/clean/kusaba.js` 后需要同步更新前者。压缩脚本末尾还有此 Fork 的 ID 着色代码，不能直接用 clean 版本整文件覆盖。
+
+Cookie 读取及管理控件的回归检查（需要 Node.js 18 或更新版本）：
+
+```sh
+node --test tests/moderation-cookies.test.js
+```
+
+发布管理控件修复时，应更新上述两份脚本，清除 CDN 中 `lib/javascript/kusaba.js` 的缓存（如有），然后在浏览器中强制刷新版面。仅更新 clean 目录不会使线上修复生效。
+
 # 免责声明 #
 
 使用此代码产生的一切后果自负。
